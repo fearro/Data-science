@@ -109,6 +109,10 @@ Data Science Live Book R (https://livebook.datascienceheroes.com/)
 
 Machine Learning por Andriy Burkov (http://themlbook.com/wiki/doku.php)
 
+Lenguaje Natural con Python (https://www.nltk.org/book/)
+
+Feature Engineering and Selection (http://www.feat.engineering/)
+
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
