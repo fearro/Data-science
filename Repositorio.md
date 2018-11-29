@@ -107,7 +107,7 @@ Predicción series Temporales con R (https://otexts.org/fpp2/)
 
 Data Science Live Book R (https://livebook.datascienceheroes.com/)
 
-Machine Learning por Randy Lao (http://themlbook.com/wiki/doku.php)
+Machine Learning por Andriy Burkov (http://themlbook.com/wiki/doku.php)
 
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
