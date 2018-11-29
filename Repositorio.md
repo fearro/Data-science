@@ -99,3 +99,15 @@ Análisis de datos y Machine Learning-dlegorreta (https://dlegorreta.wordpress.c
 Aprender machine learning (http://www.aprendemachinelearning.com/)
 
 Data Science Heroes (https://blog.datascienceheroes.com/)
+
+### Plataformas de aprendizaje
+Coursera (https://www.coursera.org/)
+
+edX(https://www.edx.org/es)
+
+miriadaX(https://miriadax.net/home)
+
+Udemy(https://www.udemy.com/)
+
+Udacity(https://eu.udacity.com/)
+
