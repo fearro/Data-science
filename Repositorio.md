@@ -130,6 +130,8 @@ Foro argentino de R (https://datosenr.org/)
 
 Tutoriales R & Python (https://datascienceplus.com/)
 
+LUCA Telefónica (https://data-speaks.luca-d3.com/)
+
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
