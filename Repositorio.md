@@ -126,6 +126,8 @@ Aprender machine learning (http://www.aprendemachinelearning.com/)
 
 Data Science Heroes (https://blog.datascienceheroes.com/)
 
+Foro argentino de R (https://datosenr.org/)
+
 Tutoriales R & Python (https://datascienceplus.com/)
 
 ### Plataformas de aprendizaje
