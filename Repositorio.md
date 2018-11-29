@@ -136,6 +136,8 @@ LUCA Telefónica (https://data-speaks.luca-d3.com/)
 
 Visión artificial con OpenCV (https://www.learnopencv.com/; github: https://github.com/spmallick/learnopencv/blob/master/README.md?ck_subscriber_id=323792569)
 
+Business Intelligence y Data Science (http://www.dataprix.com/)
+
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
