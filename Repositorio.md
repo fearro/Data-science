@@ -60,11 +60,31 @@ Google App Maker (https://blog.google/outreach-initiatives/education/build-custo
 Google Search Dataset
 (https://toolbox.google.com/datasetsearch)
 
+Google repositorio imágenes etiquetadas
+(https://storage.googleapis.com/openimages/web/index.html)
+
+Google repositorio de audio
+https://research.google.com/audioset/
+
+Repositorio de la UCI para Machine Learning
+http://mlr.cs.umass.edu/ml/
+
 Microsoft Research Open Data
 (https://msropendata.com/)
 
 Gobierno de España datos abiertos
 (http://datos.gob.es/es)
+
+Datos financieros 
+(https://www.quandl.com/)
+
+Biometría
+http://openbiometrics.org/
+
+Visión artificial
+https://www.visualdata.io/
+
+
 
 ### Libros y documentos
 R para profesionales (https://www.datanalytics.com/libro_r/)
