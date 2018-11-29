@@ -103,11 +103,11 @@ Data Science Heroes (https://blog.datascienceheroes.com/)
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
-edX(https://www.edx.org/es)
+edX (https://www.edx.org/es)
 
-miriadaX(https://miriadax.net/home)
+miriadaX (https://miriadax.net/home)
 
-Udemy(https://www.udemy.com/)
+Udemy (https://www.udemy.com/)
 
-Udacity(https://eu.udacity.com/)
+Udacity (https://eu.udacity.com/)
 
