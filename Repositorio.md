@@ -83,8 +83,12 @@ Tutorial sobre Datos espaciales con R (http://rspatial.org/index.html)
 Predicción series Temporales con R (https://otexts.org/fpp2/)
 
 ### Blogs
-Joaquin Amat R (https://rpubs.com/Joaquin_AR)
-
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
+ClaoudML (http://www.claoudml.co/)
+
+Joaquin Amat R (https://rpubs.com/Joaquin_AR)
+
 Análisis de datos y Machine Learning-dlegorreta (https://dlegorreta.wordpress.com/)
+
+Aprender machine learning (http://www.aprendemachinelearning.com/)
