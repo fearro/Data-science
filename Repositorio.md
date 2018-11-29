@@ -132,7 +132,7 @@ Tutoriales R & Python (https://datascienceplus.com/)
 
 LUCA Telefónica (https://data-speaks.luca-d3.com/)
 
-Visióna artificial con OpenCV (https://www.learnopencv.com/)
+Visión artificial con OpenCV (https://www.learnopencv.com/)
 
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
