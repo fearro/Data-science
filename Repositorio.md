@@ -64,10 +64,10 @@ Google repositorio imágenes etiquetadas
 (https://storage.googleapis.com/openimages/web/index.html)
 
 Google repositorio de audio
-https://research.google.com/audioset/
+(https://research.google.com/audioset/)
 
 Repositorio de la UCI para Machine Learning
-http://mlr.cs.umass.edu/ml/
+(http://mlr.cs.umass.edu/ml/)
 
 Microsoft Research Open Data
 (https://msropendata.com/)
@@ -79,10 +79,10 @@ Datos financieros
 (https://www.quandl.com/)
 
 Biometría
-http://openbiometrics.org/
+(http://openbiometrics.org/)
 
 Visión artificial
-https://www.visualdata.io/
+(https://www.visualdata.io/)
 
 
 
