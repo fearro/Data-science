@@ -113,6 +113,8 @@ Lenguaje Natural con Python (https://www.nltk.org/book/)
 
 Feature Engineering and Selection (http://www.feat.engineering/)
 
+Deep Learning MIT Press book (https://www.deeplearningbook.org/)
+
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
