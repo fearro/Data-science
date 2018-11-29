@@ -52,3 +52,7 @@ Tutorial RMarkdown (https://commonmark.org/help/)
 Galería de gráficos en R (https://www.r-graph-gallery.com/)
 
 Página web sobre estadística con R (http://www.sthda.com/english/)
+
+Tutorial sobre Datos espaciales con R (http://rspatial.org/index.html)
+
+Predicción series Temporales con R (https://otexts.org/fpp2/)
