@@ -42,3 +42,13 @@ Microsoft Research Open Data
 R para profesionales (https://www.datanalytics.com/libro_r/)
 
 Paquete caret R (http://topepo.github.io/caret/index.html)
+
+Guía de gráficos base R (http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
+
+Econometría,Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
+
+Tutorial RMarkdown (https://commonmark.org/help/)
+
+Galería de gráficos en R (https://www.r-graph-gallery.com/)
+
+Página web sobre estadística con R (http://www.sthda.com/english/)
