@@ -17,6 +17,9 @@ https://cognitiveclass.ai/
 Facebook Machine Learning
 https://research.fb.com/category/machine-learning/
 
+Amazon Machine Learning
+https://aws.amazon.com/es/aml/
+
 Kaggle
 https://www.kaggle.com/learn/overview
 
