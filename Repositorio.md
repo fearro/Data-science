@@ -56,9 +56,6 @@ https://www.statmethods.net/index.html
 ### Programas/Webs suite
 PowerBi (https://powerbi.microsoft.com/es-es/), Orange (https://orange.biolab.si/), Weka (https://www.cs.waikato.ac.nz/ml/weka/), Rapidminer (https://rapidminer.com/), Microsoft Azure (https://docs.microsoft.com/es-es/learn/azure/), IBM Watson Studio (https://www.ibm.com/cloud/watson-studio), Tableau (https://www.tableau.com/es-es), DeepCognition (https://deepcognition.ai/), Google Data Studio (https://datastudio.google.com/overview), Qlik (https://www.qlik.com/us), Google Cloud Datalab (https://cloud.google.com/datalab/), DataRobot (https://www.datarobot.com/), BigML (https://bigml.com/), Google Colaboratory (https://colab.research.google.com/notebooks/welcome.ipynb)
 
-### Otros programas
-Google App Maker (https://blog.google/outreach-initiatives/education/build-custom-apps-your-school-app-maker/)
-
 ### Datasets
 Google Search Dataset
 (https://toolbox.google.com/datasetsearch)
@@ -151,4 +148,9 @@ miriadaX (https://miriadax.net/home)
 Udemy (https://www.udemy.com/)
 
 Udacity (https://eu.udacity.com/)
+
+### Otros programas/recursos
+Google App Maker (https://blog.google/outreach-initiatives/education/build-custom-apps-your-school-app-maker/)
+
+Cisco Academy Cursos (https://www.netacad.com/es/courses/all-courses)
 
