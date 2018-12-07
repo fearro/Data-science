@@ -140,6 +140,8 @@ CV-Tricks Visión artificial (https://cv-tricks.com/)
 
 Business Intelligence y Data Science (http://www.dataprix.com/)
 
+BI y Machine Learning con Diego Calvo (http://www.diegocalvo.es/)
+
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
