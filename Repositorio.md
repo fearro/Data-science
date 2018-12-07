@@ -136,6 +136,8 @@ LUCA Telefónica (https://data-speaks.luca-d3.com/)
 
 Visión artificial con OpenCV (https://www.learnopencv.com/; github: https://github.com/spmallick/learnopencv/blob/master/README.md?ck_subscriber_id=323792569)
 
+CV-Tricks Visión artificial (https://cv-tricks.com/)
+
 Business Intelligence y Data Science (http://www.dataprix.com/)
 
 ### Plataformas de aprendizaje
@@ -153,4 +155,6 @@ Udacity (https://eu.udacity.com/)
 Google App Maker (https://blog.google/outreach-initiatives/education/build-custom-apps-your-school-app-maker/)
 
 Cisco Academy Cursos (https://www.netacad.com/es/courses/all-courses)
+
+Estado del arte de la IA (https://www.stateoftheart.ai/)
 
