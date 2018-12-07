@@ -158,3 +158,7 @@ Cisco Academy Cursos (https://www.netacad.com/es/courses/all-courses)
 
 Estado del arte de la IA (https://www.stateoftheart.ai/)
 
+Generar webs estáticas con Rmarkdown (https://github.com/rstudio/blogdown)
+
+Escribir libros con Rmarkdown (https://github.com/rstudio/bookdown)
+
