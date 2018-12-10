@@ -164,3 +164,5 @@ Generar webs estáticas con Rmarkdown (https://github.com/rstudio/blogdown)
 
 Escribir libros con Rmarkdown (https://github.com/rstudio/bookdown)
 
+Certificaciones Data Science (https://digitaldefynd.com/best-data-science-certification-course-tutorial/)
+
