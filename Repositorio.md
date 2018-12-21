@@ -110,8 +110,6 @@ Predicción series Temporales con R (https://otexts.org/fpp2/)
 
 Data Science Live Book R (https://livebook.datascienceheroes.com/)
 
-Machine Learning por Andriy Burkov (http://themlbook.com/wiki/doku.php)
-
 Lenguaje Natural con Python (https://www.nltk.org/book/)
 
 Feature Engineering and Selection (http://www.feat.engineering/)
