@@ -118,6 +118,8 @@ Feature Engineering and Selection (http://www.feat.engineering/)
 
 Deep Learning MIT Press book (https://www.deeplearningbook.org/)
 
+The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
+
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
