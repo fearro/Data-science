@@ -171,3 +171,5 @@ Certificaciones Data Science (https://digitaldefynd.com/best-data-science-certif
 
 Diccionario tecnológico IA & Big Data (https://luca-d3.com/es/diccionario-tecnologico/index.html)
 
+Aprendizaje interactivo de Probabilidad básica (https://seeing-theory.brown.edu/)
+
