@@ -183,25 +183,25 @@ Google Talk to Books (https://books.google.com/talktobooks/)
 
 ### Paquetes R
 
-**readr** (importación de datos)
+-**readr** (importación de datos)
 
-**tidyr** (manipulación)
+-**tidyr** (manipulación)
 
-**dplyr** (manipulación tablas)
+-**dplyr** (manipulación tablas)
 
-**data.table** (manipulación tablas)
+-**data.table** (manipulación tablas)
 
-**ggplot2** (visualización)
+-**ggplot2** (visualización)
 
-**plotly** (gráficos interactivos)
+-**plotly** (gráficos interactivos)
 
-**knitr** (reportes)
+-**knitr** (reportes)
 
-**rmarkdown** (reportes)
+-**rmarkdown** (reportes)
 
-**shiny** (reportes web)
+-**shiny** (reportes web)
 
-caret (machine learning)
+-**caret** (machine learning)
 
 ### Paquetes Python
 
