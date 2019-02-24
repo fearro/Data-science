@@ -207,6 +207,8 @@ Google Talk to Books (https://books.google.com/talktobooks/)
 
 -**Glmnet** (machine learning)
 
+-**reticulate** (interoperabilidad entre Python y R)
+
 ### Paquetes Python
 
 -**Pandas** (manipulación datos tabulares)
