@@ -209,6 +209,10 @@ Google Talk to Books (https://books.google.com/talktobooks/)
 
 -**reticulate** (interoperabilidad entre Python y R)
 
+-**forecast** (series temporales)
+
+-**maltese** (series temporales simple)
+
 ### Paquetes Python
 
 -**Pandas** (manipulación datos tabulares)
