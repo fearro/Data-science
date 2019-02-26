@@ -124,6 +124,8 @@ Deep Learning MIT Press book (https://www.deeplearningbook.org/)
 
 The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 
+UC Business Analytics R Programming Guide (http://uc-r.github.io/)
+
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
