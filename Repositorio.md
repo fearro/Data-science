@@ -126,6 +126,8 @@ The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 
 UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 
+Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
+
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
