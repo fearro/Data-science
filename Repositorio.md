@@ -158,6 +158,8 @@ Business Intelligence y Data Science (http://www.dataprix.com/)
 
 BI y Machine Learning con Diego Calvo (http://www.diegocalvo.es/)
 
+Ejemplos de Machine Learning y Data Mining con R (http://apuntes-r.blogspot.com/)
+
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
