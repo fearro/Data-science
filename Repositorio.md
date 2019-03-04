@@ -81,6 +81,9 @@ Repositorio de la UCI para Machine Learning
 Microsoft Research Open Data
 (https://msropendata.com/)
 
+Portal de datos abiertos de la UE
+(http://data.europa.eu/euodp/es/data/)
+
 Gobierno de España datos abiertos
 (http://datos.gob.es/es)
 
