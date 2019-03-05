@@ -131,6 +131,8 @@ UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 
 Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
 
+Aprender R: iniciación y perfeccionamiento (http://myrbooksp.netlify.com/)
+
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
@@ -239,6 +241,8 @@ Google Talk to Books (https://books.google.com/talktobooks/)
 -**plotly** (gráficos interactivos)
 
 -**Matplotlib** (gráficos)
+
+-**Seaborn** (gráficos parecidos a ggplot2 de R)
 
 -**TensorFlow** (machine learning framework)
 
