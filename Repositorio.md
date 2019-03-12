@@ -62,6 +62,9 @@ https://capacitateparaelempleo.org
 School of AI
 https://www.theschool.ai/
 
+DataFlair
+https://data-flair.training/blogs/
+
 ### Programas/Webs suite
 PowerBi (https://powerbi.microsoft.com/es-es/), Orange (https://orange.biolab.si/), Weka (https://www.cs.waikato.ac.nz/ml/weka/), Rapidminer (https://rapidminer.com/), Microsoft Azure (https://docs.microsoft.com/es-es/learn/azure/), IBM Watson Studio (https://www.ibm.com/cloud/watson-studio), Tableau (https://www.tableau.com/es-es), DeepCognition (https://deepcognition.ai/), Google Data Studio (https://datastudio.google.com/overview), Qlik (https://www.qlik.com/us), Google Cloud Datalab (https://cloud.google.com/datalab/), DataRobot (https://www.datarobot.com/), BigML (https://bigml.com/), Google Colaboratory (https://colab.research.google.com/notebooks/welcome.ipynb), MLflow (https://mlflow.org/), MLkit app mobile (https://developers.google.com/ml-kit/), AutoML (https://cloud.google.com/automl/?hl=es-419), Auto-Keras (https://autokeras.com/)
 
