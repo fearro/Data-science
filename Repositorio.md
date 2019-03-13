@@ -195,6 +195,8 @@ Aprendizaje interactivo de Probabilidad básica (https://seeing-theory.brown.edu
 
 Google Talk to Books (https://books.google.com/talktobooks/)
 
+Búsqueda repositorios Github (https://gitdiscoverer.shinyapps.io/rstudio-shiny-contest/)
+
 ### Paquetes R
 
 -**readr** (importación de datos)
