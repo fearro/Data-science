@@ -165,6 +165,8 @@ BI y Machine Learning con Diego Calvo (http://www.diegocalvo.es/)
 
 Ejemplos de Machine Learning y Data Mining con R (http://apuntes-r.blogspot.com/)
 
+Aprendiendo sobre IA-Lidgi González (http://ligdigonzalez.com/)
+
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
