@@ -209,9 +209,13 @@ Búsqueda repositorios Github (https://gitdiscoverer.shinyapps.io/rstudio-shiny-
 
 -**data.table** (manipulación tablas)
 
--**ggplot2** (visualización)
+-**janitor** (limpieza de datos)
+
+-**DataExplorer** (análisis exploratorio)
 
 -**GGally** (exploración y análisis descriptivo)
+
+-**ggplot2** (visualización)
 
 -**plotly** (gráficos interactivos)
 
