@@ -167,6 +167,12 @@ Ejemplos de Machine Learning y Data Mining con R (http://apuntes-r.blogspot.com/
 
 Aprendiendo sobre IA-Lidgi González (http://ligdigonzalez.com/)
 
+Actualidad de Big data e Inteligencia artificial (http://www.sorayapaniagua.com/)
+
+Blog sobre python (http://www.pythondiario.com/)
+
+Inteligencia artificial en la práctica (https://iartificial.net/)
+
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
@@ -177,6 +183,8 @@ miriadaX (https://miriadax.net/home)
 Udemy (https://www.udemy.com/)
 
 Udacity (https://eu.udacity.com/)
+
+freeCodecamp programación (https://www.freecodecamp.org/)
 
 ### Otros programas/recursos
 Google App Maker (https://blog.google/outreach-initiatives/education/build-custom-apps-your-school-app-maker/)
