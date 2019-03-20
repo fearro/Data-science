@@ -211,6 +211,8 @@ Búsqueda repositorios Github (https://gitdiscoverer.shinyapps.io/rstudio-shiny-
 
 -**ggplot2** (visualización)
 
+-**GGally** (exploración y análisis descriptivo)
+
 -**plotly** (gráficos interactivos)
 
 -**gganimate** (animaciones GIF)
