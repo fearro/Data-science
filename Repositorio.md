@@ -90,6 +90,9 @@ Portal de datos abiertos de la UE
 Gobierno de España datos abiertos
 (http://datos.gob.es/es)
 
+Búsqueda de repositorios de datos abiertos
+(https://www.re3data.org/)
+
 Datos financieros 
 (https://www.quandl.com/)
 
