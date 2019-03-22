@@ -84,10 +84,13 @@ Repositorio de la UCI para Machine Learning
 Microsoft Research Open Data
 (https://msropendata.com/)
 
-Buscador georeferenciado de datos abiertos (https://opendatainception.io/)
+Buscador georreferenciado de datos abiertos (https://opendatainception.io/)
 
 Portal de datos abiertos de la UE
 (http://data.europa.eu/euodp/es/data/)
+
+Portal de datos abiertos de la FAO 
+(http://www.fao.org/faostat/en/#data)
 
 Gobierno de España datos abiertos
 (http://datos.gob.es/es)
@@ -107,6 +110,12 @@ Visión artificial
 ### APIs
 Listado de APIs de Google
 (https://developers.google.com/apis-explorer/#p/)
+
+Listado de APIs de IBM 
+(https://developer.ibm.com/api/list)
+
+Listado de APIs de Microsoft 
+(https://msdn.microsoft.com/en-us/library/ms123401.aspx)
 
 Búscadores de APIs por nombre o temática
 (https://any-api.com/ ; http://apis.io/ ; https://apis.guru/browse-apis/)
