@@ -201,6 +201,9 @@ Dot CSV
 Lidgi González 
 (https://www.youtube.com/channel/UCLJV54sFqPiH4MYcJKvGesg)
 
+Descubriendo la inteligencia artificial
+(https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ)
+
 cctmexico
 (https://www.youtube.com/playlist?list=PLgHCrivozIb0HQ9oPRLVqw5scdIG-AxQL)
 
