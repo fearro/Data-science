@@ -104,6 +104,12 @@ Biometría
 Visión artificial
 (https://www.visualdata.io/)
 
+### APIs
+Listado de APIs de Google
+(https://developers.google.com/apis-explorer/#p/)
+
+Búscadores de APIs por nombre o temática
+(https://any-api.com/ ; http://apis.io/ ; https://apis.guru/browse-apis/)
 
 
 ### Libros y documentos
