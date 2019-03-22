@@ -193,6 +193,23 @@ Blog sobre python (http://www.pythondiario.com/)
 
 Inteligencia artificial en la práctica (https://iartificial.net/)
 
+### Canales de Youtube
+
+Dot CSV
+(https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
+
+Lidgi González 
+(https://www.youtube.com/channel/UCLJV54sFqPiH4MYcJKvGesg)
+
+cctmexico
+(https://www.youtube.com/playlist?list=PLgHCrivozIb0HQ9oPRLVqw5scdIG-AxQL)
+
+AMP Tech
+(https://www.youtube.com/playlist?list=PLA050nq-BHwMr0uk7pPJUqRgKRRGhdvKb)
+
+Luis Serrano
+(https://www.youtube.com/playlist?list=PLs8w1Cdi-zvZ43xD_AA-eAuEW1FLK0cef)
+
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
