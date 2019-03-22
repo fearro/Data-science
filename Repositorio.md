@@ -210,6 +210,9 @@ AMP Tech
 Luis Serrano
 (https://www.youtube.com/playlist?list=PLs8w1Cdi-zvZ43xD_AA-eAuEW1FLK0cef)
 
+Capacítate para el empleo
+(https://www.youtube.com/watch?v=kKm1cXSyLqk)
+
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
 
