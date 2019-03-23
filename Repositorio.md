@@ -1,10 +1,26 @@
 #  Recopilatorio Data Science
 Recopilatorio de materiales relacionados con Data Science, Machine Learning, Deep Learning, Inteligencia artificial y todo lo relacionado con esas materias en la red
 
+**Índice**
+1. [Recursos](#id1)
+2. [Programas/Webs suite](#id2)
+3. [Datasets](#id3)
+4. [APIs](#id4)
+5. [Libros y documentos](#id5)
+6. [Blogs](#id6)
+7. [Canales de Youtube](#id6)
+8. [Plataformas de aprendizaje](#id8)
+9. [Blogs](#id9)
+10. [Otros programas/recursos](#id10)
+11. [Paquetes R](#id11)
+12. [Paquetes Python](#id12)
+
+<div id='id1' />
 ### Recursos
 Google AI education
 https://ai.google/education/
 
+<div id='id2' />
 Microsoft AI school
 https://aischool.microsoft.com/en-us/home
 
