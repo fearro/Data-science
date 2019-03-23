@@ -1,7 +1,7 @@
 #  Recopilatorio Data Science
 Recopilatorio de materiales relacionados con Data Science, Machine Learning, Deep Learning, Inteligencia artificial y todo lo relacionado con esas materias en la red
 
-**Índice**
+**Contenido**
 1. [Recursos](#id1)
 2. [Programas/Webs suite](#id2)
 3. [Datasets](#id3)
