@@ -8,12 +8,12 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 4. [APIs](#id4)
 5. [Libros y documentos](#id5)
 6. [Blogs](#id6)
-7. [Canales de Youtube](#id6)
+7. [Canales de Youtube](#id7)
 8. [Plataformas de aprendizaje](#id8)
-9. [Blogs](#id9)
-10. [Otros programas/recursos](#id10)
-11. [Paquetes R](#id11)
-12. [Paquetes Python](#id12)
+9. [Otros programas/recursos](#id9)
+10. [Paquetes R](#id10)
+11. [Paquetes Python](#id11)
+12. [Casos de uso](#id12)
 ***
 <div id='id1' />
 
@@ -263,6 +263,8 @@ freeCodecamp (https://www.freecodecamp.org/)
 
 Codecademy (https://www.codecademy.com/)
 
+<div id='id9' />
+
 ### Otros programas/recursos
 Google App Maker (https://blog.google/outreach-initiatives/education/build-custom-apps-your-school-app-maker/)
 
@@ -283,6 +285,8 @@ Aprendizaje interactivo de Probabilidad básica (https://seeing-theory.brown.edu
 Google Talk to Books (https://books.google.com/talktobooks/)
 
 Búsqueda repositorios Github (https://gitdiscoverer.shinyapps.io/rstudio-shiny-contest/)
+
+<div id='id10' />
 
 ### Paquetes R
 
@@ -322,6 +326,8 @@ Búsqueda repositorios Github (https://gitdiscoverer.shinyapps.io/rstudio-shiny-
 
 -**maltese** (series temporales simple)
 
+<div id='id11' />
+
 ### Paquetes Python
 
 -**Pandas** (manipulación datos tabulares)
@@ -345,6 +351,8 @@ Búsqueda repositorios Github (https://gitdiscoverer.shinyapps.io/rstudio-shiny-
 -**TensorFlow** (machine learning framework)
 
 -**Keras** (librería Deep Learning)
+
+<div id='id12' />
 
 ### Casos de uso
 
