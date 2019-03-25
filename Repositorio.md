@@ -89,6 +89,8 @@ https://course.elementsofai.com/
 ### Programas/Webs suite
 PowerBi (https://powerbi.microsoft.com/es-es/), Orange (https://orange.biolab.si/), Weka (https://www.cs.waikato.ac.nz/ml/weka/), Rapidminer (https://rapidminer.com/), Microsoft Azure (https://docs.microsoft.com/es-es/learn/azure/), IBM Watson Studio (https://www.ibm.com/cloud/watson-studio), Tableau (https://www.tableau.com/es-es), DeepCognition (https://deepcognition.ai/), Google Data Studio (https://datastudio.google.com/overview), Qlik (https://www.qlik.com/us), Google Cloud Datalab (https://cloud.google.com/datalab/), DataRobot (https://www.datarobot.com/), BigML (https://bigml.com/), Google Colaboratory (https://colab.research.google.com/notebooks/welcome.ipynb), MLflow (https://mlflow.org/), MLkit app mobile (https://developers.google.com/ml-kit/), AutoML (https://cloud.google.com/automl/?hl=es-419), Auto-Keras (https://autokeras.com/)
 
+<div id='id3' />
+
 ### Datasets
 Google Search Dataset
 (https://toolbox.google.com/datasetsearch)
@@ -128,6 +130,8 @@ Biometría
 Visión artificial
 (https://www.visualdata.io/)
 
+<div id='id4' />
+
 ### APIs
 Listado de APIs de Google
 (https://developers.google.com/apis-explorer/#p/)
@@ -141,6 +145,7 @@ Listado de APIs de Microsoft
 Búscadores de APIs por nombre o temática
 (https://any-api.com/ ; http://apis.io/ ; https://apis.guru/browse-apis/)
 
+<div id='id5' />
 
 ### Libros y documentos
 R para profesionales (https://www.datanalytics.com/libro_r/)
@@ -176,6 +181,8 @@ UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
 
 Aprender R: iniciación y perfeccionamiento (http://myrbooksp.netlify.com/)
+
+<div id='id6' />
 
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
@@ -214,6 +221,8 @@ Blog sobre python (http://www.pythondiario.com/)
 
 Inteligencia artificial en la práctica (https://iartificial.net/)
 
+<div id='id7' />
+
 ### Canales de Youtube
 
 Dot CSV
@@ -236,6 +245,8 @@ Luis Serrano
 
 Capacítate para el empleo
 (https://www.youtube.com/watch?v=kKm1cXSyLqk)
+
+<div id='id8' />
 
 ### Plataformas de aprendizaje
 Coursera (https://www.coursera.org/)
