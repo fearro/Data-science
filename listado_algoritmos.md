@@ -33,7 +33,7 @@ Isolation forest, one-class SVM, Cluster analysis
 
 ## Aprendizaje reforzado
 
-Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo
+Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proceso de decisión de Markov
 
 
 ***
