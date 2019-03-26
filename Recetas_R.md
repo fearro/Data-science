@@ -1,7 +1,6 @@
 ### Código de los principales algoritmos en R
 
-Regresión lineal, regresión logística, árbol de decisión, SVM, Naive Bayes, kNN, k-Means, Random Forest,
-GBM, XGBoost, LightGBM, Catboost
+Regresión lineal, regresión logística, árbol de decisión, SVM, Naive Bayes, kNN, k-Means, Random Forest, PCA, GBM, XGBoost, LightGBM, Catboost
 
 #### Regresión lineal
 ~~~
@@ -87,6 +86,14 @@ fit <- randomForest(Species ~ ., x,ntree=500)
 summary(fit)
 #Predict Output 
 predicted= predict(fit,x_test)
+~~~
+
+#### PCA
+~~~
+library(stats)
+pca <- princomp(train, cor = TRUE)
+train_reduced  <- predict(pca,train)
+test_reduced  <- predict(pca,test)
 ~~~
 
 #### GBM
