@@ -20,7 +20,7 @@ Mean-shift
 
 ### *Búsqueda de patrones*
 
-Apriori, Euclat, FP-Growth
+Apriori, Eclat, FP-Growth
 
 ### *Reducción de dimensionalidad*
 
