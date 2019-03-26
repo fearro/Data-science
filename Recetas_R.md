@@ -1,5 +1,8 @@
 ### Código de los principales algoritmos en R
 
+Regresión lineal, regresión logística, árbol de decisión, SVM, Naive Bayes, kNN, k-Means, Random Forest,
+GBM, XGBoost, LightGBM, Catboost
+
 #### Regresión lineal
 ~~~
 #Load Train and Test datasets
