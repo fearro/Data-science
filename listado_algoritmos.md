@@ -46,3 +46,6 @@ Filtro colaborativo (Collaborative filtering), filtro basado en contenido (Conte
 
 AR, MA, ARMA, ARIMA, SARIMA, GARCH
 
+
+![](https://i.pinimg.com/originals/31/74/c4/3174c419e4ab07223f95dcf8ddd86eec.png)
+
