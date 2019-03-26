@@ -36,6 +36,8 @@ Isolation forest, one-class SVM, Cluster analysis
 Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo
 
 
+***
+
 ### *Sistemas de recomendación*
 
 Filtro colaborativo (Collaborative filtering), filtro basado en contenido (Content-based filtering), mixtos
