@@ -26,5 +26,21 @@ Apriori, Euclat, FP-Growth
 
 tSNE, PCA, LSA, SVD, LDA, UMAP, CCA, PCR
 
-
 ### Detección de anomalías
+
+Isolation forest, one-class SVM, Cluster analysis
+
+
+## Aprendizaje reforzado
+
+Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo
+
+
+### *Sistemas de recomendación*
+
+Filtro colaborativo (Collaborative filtering), filtro basado en contenido (Content-based filtering), mixtos
+
+### *Series temporales*
+
+AR, MA, ARMA, ARIMA, SARIMA, GARCH
+
