@@ -24,7 +24,7 @@ Apriori, Eclat, FP-Growth
 
 ### *Reducción de dimensionalidad*
 
-tSNE, PCA, LSA, SVD, LDA, UMAP, CCA, PCR
+tSNE, PCA, LSA, SVD, LDA, UMAP, CCA, PCR, NMF (Non-negative matrix factorization)
 
 ### *Detección de anomalías*
 
