@@ -293,6 +293,8 @@ Udacity (https://eu.udacity.com/)
 
 SimpliLearn (https://www.simplilearn.com/)
 
+FutureLearn (https://www.futurelearn.com/)
+
 freeCodecamp (https://www.freecodecamp.org/)
 
 Codecademy (https://www.codecademy.com/)
