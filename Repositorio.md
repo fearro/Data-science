@@ -291,6 +291,8 @@ Udemy (https://www.udemy.com/)
 
 Udacity (https://eu.udacity.com/)
 
+SimpliLearn (https://www.simplilearn.com/)
+
 freeCodecamp (https://www.freecodecamp.org/)
 
 Codecademy (https://www.codecademy.com/)
