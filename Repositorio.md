@@ -374,11 +374,13 @@ Búsqueda repositorios Github (https://gitdiscoverer.shinyapps.io/rstudio-shiny-
 
 -**NLTK** (NLP, procesamiento del lenguaje natural)
 
--**plotly** (gráficos interactivos)
-
 -**Matplotlib** (gráficos)
 
 -**Seaborn** (gráficos parecidos a ggplot2 de R)
+
+-**Bokeh** (gráficos interactivos)
+
+-**plotly** (gráficos interactivos)
 
 -**TensorFlow** (machine learning framework)
 
