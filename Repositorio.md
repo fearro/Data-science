@@ -150,6 +150,9 @@ Portal de datos abiertos de la FAO
 Gobierno de España datos abiertos
 (http://datos.gob.es/es)
 
+Portal de datos abiertos Esri España
+(http://opendata.esri.es/)
+
 Búsqueda de repositorios de datos abiertos
 (https://www.re3data.org/)
 
