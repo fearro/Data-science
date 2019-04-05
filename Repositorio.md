@@ -91,7 +91,9 @@ MIT DeepLearning (https://deeplearning.mit.edu/)
 ### Programas/Webs suite
 PowerBi (https://powerbi.microsoft.com/es-es/)
 
-Orange (https://orange.biolab.si/), Weka (https://www.cs.waikato.ac.nz/ml/weka/)
+Weka (https://www.cs.waikato.ac.nz/ml/weka/)
+
+Orange (https://orange.biolab.si/) 
 
 Rapidminer (https://rapidminer.com/)
 
