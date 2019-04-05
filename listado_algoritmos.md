@@ -2,7 +2,7 @@
 
 ### *Regresión*
   
-Regresión lineal, Lasso, Ridge, polinómica, Elastic Net, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
+Regresión lineal, bayesiana, Lasso, Ridge, polinómica, Elastic Net, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
 Random Forest.
 
 ### *Clasificación*
