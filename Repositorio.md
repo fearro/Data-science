@@ -84,6 +84,8 @@ https://data-flair.training/blogs/
 Elements of IA
 https://course.elementsofai.com/
 
+MIT DeepLearning (https://deeplearning.mit.edu/)
+
 <div id='id2' />
 
 ### Programas/Webs suite
