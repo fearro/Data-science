@@ -84,7 +84,11 @@ https://data-flair.training/blogs/
 Elements of IA
 https://course.elementsofai.com/
 
-MIT DeepLearning (https://deeplearning.mit.edu/)
+MIT DeepLearning 
+(https://deeplearning.mit.edu/)
+
+PyImageSearch
+(https://pyimagesearch.com)
 
 <div id='id2' />
 
