@@ -336,6 +336,8 @@ Google Talk to Books (https://books.google.com/talktobooks/)
 Búsqueda repositorios Github (https://gitdiscoverer.shinyapps.io/rstudio-shiny-contest/)
 
 Asociación Española para la Inteligencia Artificial (AEPIA) (http://www.aepia.org/aepia/index.php)
+
+Ayuda interactiva para elección de gráficos (https://www.data-to-viz.com/index.html)
 <div id='id10' />
 
 ### Paquetes R
