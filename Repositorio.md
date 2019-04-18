@@ -368,7 +368,7 @@ Introducción visual al aprendizaje automático (http://www.r2d3.us/)
 
 -**rmarkdown** (reportes)
 
--**shiny** (reportes web)
+-**shiny** (reportes/aplicaciones web)
 
 -**caret** (machine learning)
 
@@ -403,6 +403,8 @@ Introducción visual al aprendizaje automático (http://www.r2d3.us/)
 -**Bokeh** (gráficos interactivos)
 
 -**plotly** (gráficos interactivos)
+
+-**Dash** (reportes/aplicaciones web)
 
 -**TensorFlow** (machine learning framework)
 
