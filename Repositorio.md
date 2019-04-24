@@ -95,11 +95,17 @@ PyImageSearch
 ### Programas/Webs suite
 PowerBi (https://powerbi.microsoft.com/es-es/)
 
+Knime (https://www.knime.com/)
+
 Weka (https://www.cs.waikato.ac.nz/ml/weka/)
 
 Orange (https://orange.biolab.si/) 
 
 Rapidminer (https://rapidminer.com/)
+
+BIRT (https://www.eclipse.org/birt/)
+
+Jaspersoft (https://www.jaspersoft.com/es/soluciones)
 
 Microsoft Azure (https://docs.microsoft.com/es-es/learn/azure/)
 
