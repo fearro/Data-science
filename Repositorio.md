@@ -115,6 +115,8 @@ Tableau (https://www.tableau.com/es-es)
 
 Metabase (https://metabase.com/)
 
+Knowage (https://www.knowage-suite.com/site/home/)
+
 Pentaho (Hitachi Vintara) (https://sourceforge.net/projects/pentaho/)
 
 DeepCognition (https://deepcognition.ai/)
@@ -123,9 +125,13 @@ Google Data Studio (https://datastudio.google.com/overview)
 
 Qlik (https://www.qlik.com/us)
 
+Zoho Analytics (https://www.zoho.com/es-xl/analytics/)
+
 Google Cloud Datalab (https://cloud.google.com/datalab/)
 
 DataRobot (https://www.datarobot.com/)
+
+Dataiku Data Science Studio (DSS) (https://www.dataiku.com/dss/)
 
 BigML (https://bigml.com/)
 
