@@ -346,6 +346,8 @@ Asociación Española para la Inteligencia Artificial (AEPIA) (http://www.aepia.
 Ayuda interactiva para elección de gráficos (https://www.data-to-viz.com/index.html)
 
 Introducción visual al aprendizaje automático (http://www.r2d3.us/)
+
+Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/; https://piktochart.com/; https://www.canva.com/es_es/)
 <div id='id10' />
 
 ### Paquetes R
