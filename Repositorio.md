@@ -252,6 +252,8 @@ ClaoudML (http://www.claoudml.co/)
 
 Joaquin Amat R (https://rpubs.com/Joaquin_AR)
 
+Listen Data (https://www.listendata.com/)
+
 Análisis de datos y Machine Learning-dlegorreta (https://dlegorreta.wordpress.com/)
 
 Aprender machine learning (http://www.aprendemachinelearning.com/)
