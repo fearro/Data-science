@@ -18,9 +18,13 @@ Random Forest.
 K-means, Hierarchical clustering, K-medoids (PAM), Expectation-Maximization, DBSCAN, Gaussian Mixture Models, Fuzzy c-Means,
 Mean-shift
 
-### *Búsqueda de patrones (asociaciones)*
+### *Reglas de Asociación*
 
 Apriori, Eclat, FP-Growth
+
+### *Patrones Secuenciales*
+
+
 
 ### *Reducción de dimensionalidad*
 
