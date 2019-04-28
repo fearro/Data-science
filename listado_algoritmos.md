@@ -32,7 +32,7 @@ tSNE, PCA, LSA, SVD, LDA, UMAP, CCA, PCR, NMF (Non-negative matrix factorization
 
 ### *Detección de anomalías*
 
-Isolation forest, one-class SVM, Cluster analysis
+Isolation forest, one-class SVM, Cluster analysis, PCA-based Anomaly detection
 
 
 ## Aprendizaje reforzado
