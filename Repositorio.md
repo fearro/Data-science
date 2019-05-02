@@ -209,6 +209,8 @@ Búscadores de APIs por nombre o temática
 ### Libros y documentos
 R para profesionales (https://www.datanalytics.com/libro_r/)
 
+R Graphics Cookbook (https://r-graphics.org/)
+
 Libro vivo de Ciencia de Datos (https://librovivodecienciadedatos.ai/)
 
 Paquete caret R (http://topepo.github.io/caret/index.html)
