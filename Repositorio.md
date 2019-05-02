@@ -256,6 +256,8 @@ Joaquin Amat R (https://rpubs.com/Joaquin_AR)
 
 Listen Data (https://www.listendata.com/)
 
+Machine Learning para todos (http://machinelearningparatodos.com/blog/)
+
 Análisis de datos y Machine Learning-dlegorreta (https://dlegorreta.wordpress.com/)
 
 Aprender machine learning (http://www.aprendemachinelearning.com/)
