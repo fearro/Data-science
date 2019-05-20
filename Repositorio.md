@@ -404,6 +404,8 @@ Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/;
 
 -**maltese** (series temporales simple)
 
+-**sparklyr** (Interfaz R para Apache Spark)
+
 <div id='id11' />
 
 ### Paquetes Python
@@ -433,6 +435,8 @@ Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/;
 -**TensorFlow** (machine learning framework)
 
 -**Keras** (librería Deep Learning)
+
+-**PySpark** (Interfaz Python para Apache Spark)
 
 <div id='id12' />
 
