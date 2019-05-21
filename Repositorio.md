@@ -245,6 +245,8 @@ Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpr
 
 Aprender R: iniciación y perfeccionamiento (http://myrbooksp.netlify.com/)
 
+Interactive web-based data visualization with R, plotly, and shiny (https://plotly-r.com/index.html)
+
 <div id='id6' />
 
 ### Blogs
