@@ -1,41 +1,41 @@
-## Aprendizaje supervisado
+## 1. Aprendizaje supervisado
 
-### *Regresión*
+### 1.1 *Regresión*
   
 Regresión lineal, bayesiana, Lasso, Ridge, polinómica, Elastic Net, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
 Random Forest.
 
-### *Clasificación*
+### 1.2 *Clasificación*
 
 kNN, Naive Bayes, SVM, regresión logística, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
 Random Forest.
 
 
-## Aprendizaje no supervisado
+## 2. Aprendizaje no supervisado
 
-### *Agrupamiento (clustering)*
+### 2.1 *Agrupamiento (clustering)*
 
 K-means, Hierarchical clustering, K-medoids (PAM), Expectation-Maximization, DBSCAN, Gaussian Mixture Models, Fuzzy c-Means,
 Mean-shift
 
-### *Reglas de Asociación*
+### 2.2 *Reglas de Asociación*
 
 Apriori, Eclat, FP-Growth
 
-### *Patrones Secuenciales*
+### 2.3 *Patrones Secuenciales*
 
 
 
-### *Reducción de dimensionalidad*
+### 2.4 *Reducción de dimensionalidad*
 
 tSNE, PCA, PLS, PCR, LSA, SVD, LDA, UMAP, CCA, PCR, NMF (Non-negative matrix factorization)
 
-### *Detección de anomalías*
+### 2.5 *Detección de anomalías*
 
 Isolation forest, one-class SVM, Cluster analysis, PCA-based Anomaly detection
 
 
-## Aprendizaje reforzado
+## 3. Aprendizaje reforzado
 
 Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proceso de decisión de Markov
 
