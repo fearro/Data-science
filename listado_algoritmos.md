@@ -25,7 +25,7 @@ Apriori, Eclat, FP-Growth
 
 ### 2.3. *Patrones Secuenciales*
 
-
+GSP, PSP, SPADE, DEGSeq, FreeSpan, PrefixSpan, CloSpan, SSMiner, IncSpan, BIDE, MG-FSM
 
 ### 2.4 *Reducción de dimensionalidad*
 
