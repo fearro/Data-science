@@ -384,6 +384,8 @@ Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/;
 
 -**data.table** (manipulación tablas)
 
+-**forcats** (manipulación variables categóricas)
+
 -**janitor** (limpieza de datos)
 
 -**DataExplorer** (análisis exploratorio)
