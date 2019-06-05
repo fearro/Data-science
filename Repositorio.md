@@ -252,6 +252,8 @@ Interactive web-based data visualization with R, plotly, and shiny (https://plot
 ### Blogs
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
+Materiales de RStudio en Español (https://resources.rstudio.com/espanol)
+
 ClaoudML (http://www.claoudml.co/)
 
 Joaquin Amat R (https://rpubs.com/Joaquin_AR)
