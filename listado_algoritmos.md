@@ -1,11 +1,11 @@
 ## 1. Aprendizaje supervisado
 
-### 1.1 *Regresión*
+### 1.1. *Regresión*
   
 Regresión lineal, bayesiana, Lasso, Ridge, polinómica, Elastic Net, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
 Random Forest.
 
-### 1.2 *Clasificación*
+### 1.2. *Clasificación*
 
 kNN, Naive Bayes, SVM, regresión logística, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
 Random Forest.
@@ -13,16 +13,16 @@ Random Forest.
 
 ## 2. Aprendizaje no supervisado
 
-### 2.1 *Agrupamiento (clustering)*
+### 2.1. *Agrupamiento (clustering)*
 
 K-means, Hierarchical clustering, K-medoids (PAM), Expectation-Maximization, DBSCAN, Gaussian Mixture Models, Fuzzy c-Means,
 Mean-shift
 
-### 2.2 *Reglas de Asociación*
+### 2.2. *Reglas de Asociación*
 
 Apriori, Eclat, FP-Growth
 
-### 2.3 *Patrones Secuenciales*
+### 2.3. *Patrones Secuenciales*
 
 
 
@@ -46,15 +46,20 @@ Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proce
 
 ## 4. Otros
 
-### *Selección de variables (feature selection)*
+### 4.1. *Selección de variables (feature selection)*
+
+*Indirecta o filtrado*:  medida indirecta de bondad de la selección de las variables teniendo en cuenta un criterio establecido. La medida de la relevancia de las variables predictoras no tiene en cuenta el algoritmo del modelo ()
+
+*Directa o wrapper*: cada posible subconjunto de variables candidatas es evaluado por medio del algoritmo del modelo ()
+
 
 RSE (Recursive Feature Elimination), Algoritmos genéticos,  Best Subset Selection, Forward Stepwise Selection, Backward Stepwise Selection, Simulated annealing
 
-### *Sistemas de recomendación*
+### 4.2. *Sistemas de recomendación*
 
 Filtro colaborativo (Collaborative filtering), filtro basado en contenido (Content-based filtering), mixtos
 
-### *Series temporales*
+### 4.3. *Series temporales*
 
 AR, MA, ARMA, ARIMA, SARIMA, GARCH
 
