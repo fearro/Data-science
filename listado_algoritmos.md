@@ -40,10 +40,6 @@ Isolation forest, one-class SVM, Cluster analysis, PCA-based Anomaly detection
 Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proceso de decisión de Markov
 
 
-***
-
-<br>
-
 ## 4. Otros
 
 ### 4.1. *Selección de variables (feature selection)*
