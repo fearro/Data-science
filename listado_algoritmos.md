@@ -44,6 +44,8 @@ Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proce
 
 <br>
 
+## 4. Otros
+
 ### *Selección de variables (feature selection)*
 
 RSE (Recursive Feature Elimination), Algoritmos genéticos,  Best Subset Selection, Forward Stepwise Selection, Backward Stepwise Selection, 
