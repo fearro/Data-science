@@ -44,9 +44,9 @@ Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proce
 
 ### 4.1. *Selección de variables (feature selection)*
 
-*Indirecta o filtrado*:  medida indirecta de bondad de la selección de las variables teniendo en cuenta un criterio establecido. La medida de la relevancia de las variables predictoras no tiene en cuenta el algoritmo del modelo (Welch t-prueba, Best Subset Selection, Forward Stepwise Selection, Backward Stepwise Selection)
+*Indirecta o filtrado*:  Correlación de pearson, LDA, ANOVA, Chi cuadrado, Welch t-prueba, prueba F de Fisher.
 
-*Directa o wrapper*: cada posible subconjunto de variables candidatas es evaluado por medio del algoritmo del modelo (Recursive Feature Elimination, Algoritmos genéticos, Simulated annealing)
+*Directa o wrapper*: Recursive Feature Elimination, Algoritmos genéticos, Simulated annealing, Best Subset Selection, Forward Stepwise Selection, Backward Stepwise Selection.
 
 ### 4.2. *Sistemas de recomendación*
 
