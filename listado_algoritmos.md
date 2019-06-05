@@ -10,6 +10,7 @@ Random Forest.
 kNN, Naive Bayes, SVM, regresión logística, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
 Random Forest.
 
+<br>
 
 ## 2. Aprendizaje no supervisado
 
@@ -34,11 +35,13 @@ tSNE, PCA, PLS, PCR, LSA, SVD, LDA, UMAP, CCA, PCR, NMF (Non-negative matrix fac
 
 Isolation forest, one-class SVM, Cluster analysis, PCA-based Anomaly detection
 
+<br>
 
 ## 3. Aprendizaje reforzado
 
 Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proceso de decisión de Markov
 
+<br>
 
 ## 4. Otros
 
