@@ -28,7 +28,7 @@ Apriori, Eclat, FP-Growth
 
 ### *Reducción de dimensionalidad*
 
-tSNE, PCA, LSA, SVD, LDA, UMAP, CCA, PCR, NMF (Non-negative matrix factorization)
+tSNE, PCA, PLS, PCR, LSA, SVD, LDA, UMAP, CCA, PCR, NMF (Non-negative matrix factorization)
 
 ### *Detección de anomalías*
 
@@ -41,6 +41,12 @@ Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proce
 
 
 ***
+
+<br>
+
+### *Selección de variables (feature selection)*
+
+RSE (Recursive Feature Elimination), Algoritmos genéticos,  Best Subset Selection, Forward Stepwise Selection, Backward Stepwise Selection, 
 
 ### *Sistemas de recomendación*
 
