@@ -342,6 +342,8 @@ freeCodecamp (https://www.freecodecamp.org/)
 
 Codecademy (https://www.codecademy.com/)
 
+Cursos python en español (https://unipython.com/)
+
 <div id='id9' />
 
 ### Otros programas/recursos
