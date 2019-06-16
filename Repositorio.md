@@ -398,6 +398,8 @@ Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/;
 
 -**plotly** (gráficos interactivos)
 
+-**esquisse y ggplotgui** (interfaz gráfica para generar gráficos con ggplot2 y plotly)
+
 -**gganimate** (animaciones GIF)
 
 -**knitr** (reportes)
