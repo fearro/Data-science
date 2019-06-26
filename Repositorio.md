@@ -296,6 +296,8 @@ Blog sobre python (http://www.pythondiario.com/)
 
 Inteligencia artificial en la práctica (https://iartificial.net/)
 
+Towards AI (https://medium.com/towards-artificial-intelligence)
+
 <div id='id7' />
 
 ### Canales de Youtube
@@ -308,6 +310,9 @@ Lidgi González
 
 Descubriendo la inteligencia artificial
 (https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ)
+
+Luca Talks
+(https://www.youtube.com/channel/UCiz4K2MbbIEAr31L3Wps3Ew/featured)
 
 cctmexico
 (https://www.youtube.com/playlist?list=PLgHCrivozIb0HQ9oPRLVqw5scdIG-AxQL)
