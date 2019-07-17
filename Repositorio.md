@@ -298,6 +298,8 @@ Inteligencia artificial en la práctica (https://iartificial.net/)
 
 Towards AI (https://medium.com/towards-artificial-intelligence)
 
+Visión por computador (https://carlosjuliopardoblog.wordpress.com/)
+
 <div id='id7' />
 
 ### Canales de Youtube
