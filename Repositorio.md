@@ -300,6 +300,8 @@ Towards AI (https://medium.com/towards-artificial-intelligence)
 
 Visión por computador (https://carlosjuliopardoblog.wordpress.com/)
 
+Data Science Dojo (https://blog.datasciencedojo.com/)
+
 <div id='id7' />
 
 ### Canales de Youtube
