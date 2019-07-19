@@ -14,6 +14,7 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 10. [Paquetes R](#id10)
 11. [Paquetes Python](#id11)
 12. [Casos de uso](#id12)
+13- [Automated machine learning]
 ***
 <div id='id1' />
 
@@ -140,14 +141,6 @@ Google Colaboratory (https://colab.research.google.com/notebooks/welcome.ipynb)
 MLflow (https://mlflow.org/)
 
 MLkit app mobile (https://developers.google.com/ml-kit/)
-
-#### Automated machine learning
-
-AutoML (https://cloud.google.com/automl/?hl=es-419)
-
-Auto-Keras (https://autokeras.com/)
-
-Auto-Sklearn (https://automl.github.io/auto-sklearn/master/)
 
 <div id='id3' />
 
@@ -471,4 +464,15 @@ Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/;
 
 Recomendaciones personalizadas, análisis social media, predicción de ventas, mantenimiento predicitivo, automatización de procesos, detección de fraudes, análisis financiero, servicios asistidos de atención al cliente, procesamiento del lenguaje natural, tratamiento de salud personalizado, traducción, audio y voz.
 
+<div id='id13' />
+
+### Automated machine learning
+
+AutoML (https://cloud.google.com/automl/?hl=es-419)
+
+Auto-Keras (https://autokeras.com/)
+
+Auto-Sklearn (https://automl.github.io/auto-sklearn/master/)
+
+Auto-Weka (https://www.cs.ubc.ca/labs/beta/Projects/autoweka/)
 
