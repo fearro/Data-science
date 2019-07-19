@@ -247,27 +247,18 @@ Interactive web-based data visualization with R, plotly, and shiny (https://plot
 <div id='id6' />
 
 ### Blogs
+
+#### Español
+
 Ciencia y datos (https://medium.com/datos-y-ciencia)
 
 Materiales de RStudio en Español (https://resources.rstudio.com/espanol)
 
-ClaoudML (http://www.claoudml.co/)
-
 Joaquin Amat R (https://rpubs.com/Joaquin_AR)
-
-Listen Data (https://www.listendata.com/)
 
 Ciencia de Datos, Estadística, Visualización y Machine Learning (https://www.cienciadedatos.net/)
 
 Machine Learning para todos (http://machinelearningparatodos.com/blog/)
-
-Análisis de datos y Machine Learning-dlegorreta (https://dlegorreta.wordpress.com/)
-
-Aprender machine learning (http://www.aprendemachinelearning.com/)
-
-Data Science Heroes (https://blog.datascienceheroes.com/)
-
-Tutoriales sobre aprendizaje automático en R y Python (https://www.machinelearningplus.com/)
 
 Foro argentino de R (https://datosenr.org/)
 
@@ -275,11 +266,9 @@ Tutoriales R & Python (https://datascienceplus.com/)
 
 LUCA Telefónica (https://data-speaks.luca-d3.com/)
 
-Visión artificial con OpenCV (https://www.learnopencv.com/; github: https://github.com/spmallick/learnopencv/blob/master/README.md?ck_subscriber_id=323792569)
+Análisis de datos y Machine Learning-dlegorreta (https://dlegorreta.wordpress.com/)
 
-CV-Tricks Visión artificial (https://cv-tricks.com/)
-
-Business Intelligence y Data Science (http://www.dataprix.com/)
+Aprender machine learning (http://www.aprendemachinelearning.com/)
 
 BI y Machine Learning con Diego Calvo (http://www.diegocalvo.es/)
 
@@ -291,13 +280,31 @@ Actualidad de Big data e Inteligencia artificial (http://www.sorayapaniagua.com/
 
 Blog sobre python (http://www.pythondiario.com/)
 
+Visión por computador (https://carlosjuliopardoblog.wordpress.com/)
+
 Inteligencia artificial en la práctica (https://iartificial.net/)
+
+#### Inglés
+
+ClaoudML (http://www.claoudml.co/)
+
+Listen Data (https://www.listendata.com/)
+
+Data Science Heroes (https://blog.datascienceheroes.com/)
+
+Tutoriales sobre aprendizaje automático en R y Python (https://www.machinelearningplus.com/)
+
+Visión artificial con OpenCV (https://www.learnopencv.com/; github: https://github.com/spmallick/learnopencv/blob/master/README.md?ck_subscriber_id=323792569)
+
+CV-Tricks Visión artificial (https://cv-tricks.com/)
+
+Business Intelligence y Data Science (http://www.dataprix.com/)
 
 Towards AI (https://medium.com/towards-artificial-intelligence)
 
-Visión por computador (https://carlosjuliopardoblog.wordpress.com/)
-
 Data Science Dojo (https://blog.datasciencedojo.com/)
+
+Machine Learning Mastery (https://machinelearningmastery.com/)
 
 <div id='id7' />
 
