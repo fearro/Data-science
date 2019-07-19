@@ -465,6 +465,8 @@ Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/;
 
 -**PySpark** (Interfaz Python para Apache Spark)
 
+-**PyGTK, wxPython, PyQT, Tkinter, PySide2** (GUI's)
+
 <div id='id12' />
 
 ### Casos de uso
