@@ -14,7 +14,7 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 10. [Paquetes R](#id10)
 11. [Paquetes Python](#id11)
 12. [Casos de uso](#id12)
-13- [Automated machine learning]
+13. [Automated machine learning](#id13)
 ***
 <div id='id1' />
 
