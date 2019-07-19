@@ -141,9 +141,13 @@ MLflow (https://mlflow.org/)
 
 MLkit app mobile (https://developers.google.com/ml-kit/)
 
+#### Automated machine learning
+
 AutoML (https://cloud.google.com/automl/?hl=es-419)
 
 Auto-Keras (https://autokeras.com/)
+
+Auto-Sklearn (https://automl.github.io/auto-sklearn/master/)
 
 <div id='id3' />
 
