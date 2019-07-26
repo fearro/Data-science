@@ -319,6 +319,9 @@ Lidgi González
 Descubriendo la inteligencia artificial
 (https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ)
 
+Xpikuos - Ml / IA / Robótica 
+(https://www.youtube.com/channel/UCCmHFfUhcgZHenBWRzSEB0w/featured)
+
 Luca Talks
 (https://www.youtube.com/channel/UCiz4K2MbbIEAr31L3Wps3Ew/featured)
 
