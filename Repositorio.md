@@ -28,6 +28,9 @@ https://aischool.microsoft.com/en-us/home
 Intel AI academy
 https://software.intel.com/es-es/ai-academy/students/courses
 
+NVIDIA Deep Learning Institute
+(https://www.nvidia.com/es-es/deep-learning-ai/education/)
+
 IBM cognitive class
 https://cognitiveclass.ai/
 
