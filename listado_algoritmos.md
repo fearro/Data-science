@@ -2,13 +2,12 @@
 
 ### 1.1. *Regresión*
   
-Regresión lineal, bayesiana, Lasso, Ridge, polinómica, Elastic Net, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
-Random Forest.
+Regresión lineal, bayesiana, Lasso, Ridge, polinómica, Elastic Net, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión, Random Forest, Redes Neuronales, Series temporales (AR, MA, ARMA, ARIMA, SARIMA, GARCH).
 
 ### 1.2. *Clasificación*
 
 kNN, Naive Bayes, SVM, regresión logística, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión,
-Random Forest.
+Random Forest, Redes Neuronales.
 
 <br>
 
@@ -49,15 +48,11 @@ Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proce
 
 *Indirecta o filtrado*:  Correlación de pearson, LDA, ANOVA, Chi cuadrado, Welch t-prueba, prueba F de Fisher.
 
-*Directa o wrapper*: Recursive Feature Elimination, Algoritmos genéticos, Simulated annealing, Best Subset Selection, Forward Stepwise Selection, Backward Stepwise Selection.
+*Directa o wrapper*: Recursive Feature Elimination, Algoritmos genéticos, Simulated annealing, Best Subset Selection, Forward Stepwise Selection, Backward Stepwise Selection, Sequential Feature Selector.
 
 ### 4.2. *Sistemas de recomendación*
 
 Filtro colaborativo (Collaborative filtering), filtro basado en contenido (Content-based filtering), mixtos
-
-### 4.3. *Series temporales*
-
-AR, MA, ARMA, ARIMA, SARIMA, GARCH
 
 ***
 
