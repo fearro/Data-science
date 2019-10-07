@@ -2,7 +2,7 @@
 
 ### 1.1. *Regresión*
   
-Regresión lineal, bayesiana, Lasso, Ridge, polinómica, Elastic Net, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión, Random Forest, Redes Neuronales, Series temporales (AR, MA, ARMA, ARIMA, SARIMA, GARCH).
+Regresión lineal, bayesiana, Lasso, Ridge, polinómica, Elastic Net, GBM, XGBoost, LightGBM, CatBoost, AdaBoost, árbol de decisión, Random Forest, Redes Neuronales, Series temporales (Exponential smoothing, AR, MA, ARMA, ARIMA, SARIMA, GARCH).
 
 ### 1.2. *Clasificación*
 
