@@ -415,15 +415,15 @@ ggplot2, plotly, esquisse, ggplotgui, gganimate
 
 #### Machine learning
 
-caret, glmnet, forecast, maltese, fable, sparklyr
+caret, glmnet, forecast, maltese, fable, sparklyr, tensorflow, keras
 
 #### Interpretabilidad de modelos
 
-iml, dalex, lime
+iml, DALEX, LIME
 
 #### Reporting
 
-knitr, rmarkdown, shiny
+knitr, rmarkdown, shiny, flexdashboard
 
 #### Otros
 
