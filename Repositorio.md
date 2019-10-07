@@ -415,7 +415,7 @@ ggplot2, plotly, esquisse, ggplotgui, gganimate
 
 #### Machine learning
 
-caret, glmnet, forecast, maltese, fable, sparklyr, tensorflow, keras
+caret, mlr, h2o, glmnet, forecast, maltese, fable, sparklyr, tensorflow, keras
 
 #### Interpretabilidad de modelos
 
