@@ -397,47 +397,33 @@ Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/;
 
 ### Paquetes R
 
--**readr** (importación de datos)
+#### Importación
 
--**tidyr** (manipulación)
+readr
 
--**dplyr** (manipulación tablas)
+#### Exploración
 
--**data.table** (manipulación tablas)
+DataExplorer, GGally
 
--**forcats** (manipulación variables categóricas)
+#### Limpieza y manipulación
 
--**janitor** (limpieza de datos)
+tidyr, dplyr, data.table, forcats, janitor
 
--**DataExplorer** (análisis exploratorio)
+#### Visualización
 
--**GGally** (exploración y análisis descriptivo)
+ggplot2, plotly, esquisse, ggplotgui, gganimate
 
--**ggplot2** (visualización)
+#### Machine learning
 
--**plotly** (gráficos interactivos)
+caret, glmnet, forecast, maltese, fable, sparklyr
 
--**esquisse y ggplotgui** (interfaz gráfica para generar gráficos con ggplot2 y plotly)
+#### Reporting
 
--**gganimate** (animaciones GIF)
+knitr, rmarkdown, shiny
 
--**knitr** (reportes)
+#### Otros
 
--**rmarkdown** (reportes)
-
--**shiny** (reportes/aplicaciones web)
-
--**caret** (machine learning)
-
--**Glmnet** (machine learning)
-
--**reticulate** (interoperabilidad entre Python y R)
-
--**forecast** (series temporales)
-
--**maltese** (series temporales simple)
-
--**sparklyr** (Interfaz R para Apache Spark)
+reticulate
 
 <div id='id11' />
 
