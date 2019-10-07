@@ -403,7 +403,7 @@ readr
 
 #### Exploración
 
-DataExplorer, GGally
+DataExplorer, GGally, anomalize
 
 #### Limpieza y manipulación
 
