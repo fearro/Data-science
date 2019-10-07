@@ -54,6 +54,10 @@ Algoritmos genéticos, SARSA, Q-learning, A3C, DeepQ-network, Monte Carlo, Proce
 
 Filtro colaborativo (Collaborative filtering), filtro basado en contenido (Content-based filtering), mixtos
 
+### 4.3. *Visión artificial*
+
+HOG, Filtos de Haar, SIFT, SURF, Viola-Jones, Lucas-Kanade, Horn-Schunk, filtro de Kalman
+
 ***
 
 <br>
