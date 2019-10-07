@@ -417,13 +417,17 @@ ggplot2, plotly, esquisse, ggplotgui, gganimate
 
 caret, glmnet, forecast, maltese, fable, sparklyr
 
+#### Interpretabilidad de modelos
+
+iml, dalex, lime
+
 #### Reporting
 
 knitr, rmarkdown, shiny
 
 #### Otros
 
-reticulate
+reticulate, pdftools, tabulizer, tesseract
 
 <div id='id11' />
 
