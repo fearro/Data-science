@@ -407,11 +407,11 @@ DataExplorer, GGally, anomalize
 
 #### Limpieza y manipulación
 
-tidyr, dplyr, data.table, forcats, janitor
+tidyr, dplyr, data.table, forcats, janitor, lubridate, stringr
 
 #### Visualización
 
-ggplot2, plotly, esquisse, ggplotgui, gganimate
+ggplot2, plotly, esquisse, ggplotgui, gganimate, ggforce
 
 #### Machine learning
 
