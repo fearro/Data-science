@@ -253,7 +253,7 @@ Interactive web-based data visualization with R, plotly, and shiny (https://plot
 
 #### Español
 
-Ciencia y datos (https://medium.com/datos-y-ciencia)
+Ciencia y datos (https://medium.com/datos-y-ciencia; https://www.cienciaydatos.org/)
 
 Materiales de RStudio en Español (https://resources.rstudio.com/espanol)
 
