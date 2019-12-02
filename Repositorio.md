@@ -285,6 +285,8 @@ Blog sobre python (http://www.pythondiario.com/)
 
 Visión por computador (https://carlosjuliopardoblog.wordpress.com/)
 
+DataSmarts (https://datasmarts.net/es/)
+
 Inteligencia artificial en la práctica (https://iartificial.net/)
 
 #### Inglés
