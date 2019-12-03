@@ -395,6 +395,8 @@ Ayuda interactiva para elección de gráficos (https://www.data-to-viz.com/index
 Introducción visual al aprendizaje automático (http://www.r2d3.us/)
 
 Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/; https://piktochart.com/; https://www.canva.com/es_es/)
+
+Presentaciones interactivas (https://www.genial.ly/es)
 <div id='id10' />
 
 ### Paquetes R
