@@ -403,11 +403,11 @@ Presentaciones interactivas (https://www.genial.ly/es)
 
 #### Importación
 
-readr
+readr, readxl
 
 #### Exploración
 
-DataExplorer, GGally, anomalize
+DataExplorer, GGally, anomalize, correlationfunnel
 
 #### Limpieza y manipulación
 
@@ -427,7 +427,7 @@ iml, DALEX, LIME
 
 #### Reporting
 
-knitr, rmarkdown, shiny, flexdashboard
+knitr, rmarkdown, shiny, flexdashboard, shinydashboard
 
 #### Otros
 
@@ -485,3 +485,4 @@ Auto-Sklearn (https://automl.github.io/auto-sklearn/master/)
 
 Auto-Weka (https://www.cs.ubc.ca/labs/beta/Projects/autoweka/)
 
+AutoGluon (https://autogluon.mxnet.io/)
