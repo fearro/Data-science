@@ -431,7 +431,7 @@ knitr, rmarkdown, shiny, flexdashboard, shinydashboard
 
 #### Otros
 
-reticulate, pdftools, tabulizer, tesseract
+reticulate, pdftools, tabulizer, tesseract, utils
 
 <div id='id11' />
 
