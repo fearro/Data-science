@@ -415,7 +415,7 @@ tidyr, dplyr, data.table, forcats, janitor, lubridate, stringr
 
 #### Visualización
 
-ggplot2, plotly, esquisse, ggplotgui, gganimate, ggforce
+ggplot2, plotly, leaflet, esquisse, ggplotgui, gganimate, ggforce
 
 #### Machine learning
 
