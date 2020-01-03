@@ -486,3 +486,13 @@ Auto-Sklearn (https://automl.github.io/auto-sklearn/master/)
 Auto-Weka (https://www.cs.ubc.ca/labs/beta/Projects/autoweka/)
 
 AutoGluon (https://autogluon.mxnet.io/)
+
+MLBox (https://mlbox.readthedocs.io/en/latest/)
+
+TPOT (https://github.com/EpistasisLab/tpot)
+
+H2O AutoML (http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
+
+TransmogrifAI (https://transmogrif.ai/)
+
+Glaucus (https://github.com/ccnt-glaucus/glaucus)
