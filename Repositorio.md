@@ -415,15 +415,19 @@ tidyr, dplyr, data.table, forcats, janitor, lubridate, stringr
 
 #### Visualización
 
-ggplot2, plotly, leaflet, esquisse, ggplotgui, gganimate, ggforce
+ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
 
 #### Machine learning
 
-caret, mlr, h2o, glmnet, forecast, maltese, fable, sparklyr, tensorflow, keras
+caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras
 
 #### Interpretabilidad de modelos
 
 iml, DALEX, LIME
+
+#### Paralelización y Big Data
+
+parallel, foreach, bigmemory, bigtabulate, biganalytics, iotools, sparklyr
 
 #### Reporting
 
