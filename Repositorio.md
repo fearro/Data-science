@@ -403,7 +403,7 @@ Presentaciones interactivas (https://www.genial.ly/es)
 
 #### Importación
 
-readr, readxl
+readr, readxl, XML, jsonlite, httr, DBI
 
 #### Exploración
 
@@ -431,7 +431,7 @@ knitr, rmarkdown, shiny, flexdashboard, shinydashboard
 
 #### Otros
 
-reticulate, pdftools, tabulizer, tesseract, utils
+reticulate, pdftools, tabulizer, tesseract, utils, rvest
 
 <div id='id11' />
 
