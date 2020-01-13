@@ -411,7 +411,7 @@ DataExplorer, GGally, anomalize, correlationfunnel, corrplot
 
 #### Limpieza y manipulación
 
-tidyr, dplyr, data.table, forcats, janitor, lubridate, stringr
+tidyr, dplyr, dbplyr, data.table, forcats, janitor, lubridate, stringr
 
 #### Visualización
 
