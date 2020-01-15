@@ -419,7 +419,7 @@ ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
 
 #### Machine learning
 
-caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab
+caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab, tidytext, text2vec, quanteda
 
 #### Interpretabilidad de modelos
 
@@ -429,13 +429,17 @@ iml, DALEX, LIME
 
 parallel, foreach, bigmemory, bigtabulate, biganalytics, iotools, sparklyr, rsparkling, furrr
 
+#### Despliegue
+
+plumber, rdocker, cloudml, cloudyr, aws.s3, AzureR (familia paquetes)
+
 #### Reporting
 
 knitr, rmarkdown, shiny, flexdashboard, shinydashboard, shinyauthr
 
 #### Otros
 
-reticulate, pdftools, tabulizer, tesseract, utils, rvest
+reticulate, pdftools, tabulizer, tesseract, utils, rvest, onnx, aurelius
 
 <div id='id11' />
 
