@@ -431,7 +431,7 @@ parallel, foreach, bigmemory, bigtabulate, biganalytics, iotools, sparklyr, rspa
 
 #### Reporting
 
-knitr, rmarkdown, shiny, flexdashboard, shinydashboard
+knitr, rmarkdown, shiny, flexdashboard, shinydashboard, shinyauthr
 
 #### Otros
 
