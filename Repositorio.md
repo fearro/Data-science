@@ -419,7 +419,7 @@ ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
 
 #### Machine learning
 
-caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes
+caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab
 
 #### Interpretabilidad de modelos
 
