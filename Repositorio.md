@@ -411,7 +411,7 @@ DataExplorer, GGally, anomalize, correlationfunnel, corrplot
 
 #### Limpieza y manipulación
 
-tidyr, dplyr, dbplyr, data.table, forcats, janitor, lubridate, stringr
+tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubridate, stringr, purrr
 
 #### Visualización
 
@@ -419,7 +419,7 @@ ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
 
 #### Machine learning
 
-caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras
+caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes
 
 #### Interpretabilidad de modelos
 
@@ -427,7 +427,7 @@ iml, DALEX, LIME
 
 #### Paralelización y Big Data
 
-parallel, foreach, bigmemory, bigtabulate, biganalytics, iotools, sparklyr
+parallel, foreach, bigmemory, bigtabulate, biganalytics, iotools, sparklyr, rsparkling, furrr
 
 #### Reporting
 
