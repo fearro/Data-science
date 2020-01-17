@@ -311,6 +311,8 @@ Data Science Dojo (https://blog.datasciencedojo.com/)
 
 Machine Learning Mastery (https://machinelearningmastery.com/)
 
+Open Data Science (https://opendatascience.com/)
+
 <div id='id7' />
 
 ### Canales de Youtube
