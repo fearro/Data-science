@@ -289,6 +289,8 @@ DataSmarts (https://datasmarts.net/es/)
 
 Inteligencia artificial en la práctica (https://iartificial.net/)
 
+Tutoriales sobre ML y librerías usadas en ML (https://www.interactivechaos.com/tutoriales)
+
 #### Inglés
 
 ClaoudML (http://www.claoudml.co/)
