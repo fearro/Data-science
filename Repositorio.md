@@ -291,6 +291,8 @@ Inteligencia artificial en la práctica (https://iartificial.net/)
 
 Tutoriales sobre ML y librerías usadas en ML (https://www.interactivechaos.com/tutoriales)
 
+Blog con información sobre big data, aprendizaje automático e ia (http://sitiobigdata.com/)
+
 #### Inglés
 
 ClaoudML (http://www.claoudml.co/)
