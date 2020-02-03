@@ -293,6 +293,8 @@ Tutoriales sobre ML y librerías usadas en ML (https://www.interactivechaos.com/
 
 Blog con información sobre big data, aprendizaje automático e ia (http://sitiobigdata.com/)
 
+Blog sobre fundamentos de ML e IA (https://www.juanbarrios.com/machine-learning-aprendizaje-maquina/)
+
 #### Inglés
 
 ClaoudML (http://www.claoudml.co/)
