@@ -465,7 +465,7 @@ SQL pandas
 
 #### Exploración
 
-pandas, bamboolib, 
+pandas, bamboolib, pandas_profiling
 
 #### Limpieza y manipulación
 
