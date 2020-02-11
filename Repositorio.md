@@ -427,9 +427,13 @@ tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubrida
 
 ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
 
-#### Machine learning
+#### Estadística y Machine learning
 
-caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab, tidytext, text2vec, quanteda
+caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab 
+
+#### Procesamiento del lenguaje natural
+
+tidytext, text2vec, quanteda
 
 #### Interpretabilidad de modelos
 
@@ -455,35 +459,50 @@ reticulate, pdftools, tabulizer, tesseract, utils, rvest, onnx, aurelius
 
 ### Paquetes Python
 
--**Pandas** (manipulación datos tabulares)
+#### Importación
 
--**Numpy** (computación científica)
+SQL pandas
 
--**SciPy** (herramientas y algoritmos matemáticos)
+#### Exploración
 
--**Scikit-learn** (machine learning)
+pandas, bamboolib, 
 
--**Statsmodels** (estadística)
+#### Limpieza y manipulación
 
--**NLTK** (NLP, procesamiento del lenguaje natural)
+pandas, numpy, scipy
 
--**Matplotlib** (gráficos)
+#### Visualización
 
--**Seaborn** (gráficos parecidos a ggplot2 de R)
+seaborn, bokeh, matplotlib, plotly
 
--**Bokeh** (gráficos interactivos)
+#### Estadística y Machine learning
 
--**plotly** (gráficos interactivos)
+statsmodels, scikit-learn, keras, tensorflow
 
--**Dash** (reportes/aplicaciones web)
+#### Procesamiento del lenguaje natural
 
--**TensorFlow** (machine learning framework)
+NLTK, 
 
--**Keras** (librería Deep Learning)
+#### Interpretabilidad de modelos
 
--**PySpark** (Interfaz Python para Apache Spark)
 
--**PyGTK, wxPython, PyQT, Tkinter, PySide2** (GUI's)
+#### Paralelización y Big Data
+
+dask, pyspark, optimus
+
+#### Despliegue
+
+boto3
+
+#### Reporting
+
+dash
+
+#### Otros
+
+##### GUIs
+
+PyGTK, wxPython, PyQT, Tkinter, PySide2
 
 <div id='id12' />
 
