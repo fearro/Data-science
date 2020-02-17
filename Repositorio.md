@@ -481,7 +481,7 @@ statsmodels, scikit-learn, keras, tensorflow
 
 #### Procesamiento del lenguaje natural
 
-NLTK, 
+NLTK, Gensim, spaCy
 
 #### Interpretabilidad de modelos
 
