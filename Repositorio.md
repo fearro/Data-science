@@ -241,6 +241,8 @@ The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 
 Machine Learning Engineering Book (http://www.mlebook.com/wiki/doku.php)
 
+The Data Engineering Cookbook (https://github.com/andkret/Cookbook)
+
 UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 
 Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
@@ -380,6 +382,9 @@ Katacoda (www.katacoda.com)
 <div id='id9' />
 
 ### Otros programas/recursos
+
+Papers with Code (https://paperswithcode.com/)
+
 Google App Maker (https://blog.google/outreach-initiatives/education/build-custom-apps-your-school-app-maker/)
 
 Cisco Academy Cursos (https://www.netacad.com/es/courses/all-courses)
