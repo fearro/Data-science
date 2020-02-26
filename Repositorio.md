@@ -239,6 +239,8 @@ Deep Learning MIT Press book (https://www.deeplearningbook.org/)
 
 The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 
+Machine Learning Engineering Book (http://www.mlebook.com/wiki/doku.php)
+
 UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 
 Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
@@ -485,6 +487,7 @@ NLTK, Gensim, spaCy
 
 #### Interpretabilidad de modelos
 
+yellowbrick, LIME, ELI5, MLxtend
 
 #### Paralelización y Big Data
 
@@ -492,7 +495,7 @@ dask, pyspark, optimus
 
 #### Despliegue
 
-boto3
+boto3 (AWS)
 
 #### Reporting
 
