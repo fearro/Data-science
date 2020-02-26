@@ -461,7 +461,7 @@ reticulate, pdftools, tabulizer, tesseract, utils, rvest, onnx, aurelius
 
 #### Importación
 
-SQL pandas
+SQLAlchemy, pandas
 
 #### Exploración
 
