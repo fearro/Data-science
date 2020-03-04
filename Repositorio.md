@@ -504,7 +504,7 @@ boto3 (AWS)
 
 #### Reporting
 
-dash
+dash, streamlit
 
 #### Otros
 
