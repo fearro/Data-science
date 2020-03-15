@@ -299,6 +299,8 @@ Blog con información sobre big data, aprendizaje automático e ia (http://sitio
 
 Blog sobre fundamentos de ML e IA (https://www.juanbarrios.com/machine-learning-aprendizaje-maquina/)
 
+Todo AI (https://todoia.es/)
+
 #### Inglés
 
 ClaoudML (http://www.claoudml.co/)
@@ -472,7 +474,7 @@ SQLAlchemy, pandas
 
 #### Exploración
 
-pandas, bamboolib, pandas_profiling
+pandas, bamboolib, pandas_profiling, D-Tale
 
 #### Limpieza y manipulación
 
