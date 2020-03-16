@@ -301,6 +301,8 @@ Blog sobre fundamentos de ML e IA (https://www.juanbarrios.com/machine-learning-
 
 Todo AI (https://todoia.es/)
 
+Dream Learning blog (https://dreamlearning.ai/blog/)
+
 #### Inglés
 
 ClaoudML (http://www.claoudml.co/)
