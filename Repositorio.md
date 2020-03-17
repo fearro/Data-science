@@ -303,6 +303,8 @@ Todo AI (https://todoia.es/)
 
 Dream Learning blog (https://dreamlearning.ai/blog/)
 
+Repositorio de cursos con diapositivas de IA, ML, DL - Fernando Berzal (https://elvex.ugr.es/courses.html)
+
 #### Inglés
 
 ClaoudML (http://www.claoudml.co/)
