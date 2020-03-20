@@ -385,6 +385,8 @@ Cursos python en español (https://unipython.com/)
 
 Katacoda (www.katacoda.com)
 
+365 Data Science (https://365datascience.com/)
+
 <div id='id9' />
 
 ### Otros programas/recursos
