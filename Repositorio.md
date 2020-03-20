@@ -329,6 +329,8 @@ Machine Learning Mastery (https://machinelearningmastery.com/)
 
 Open Data Science (https://opendatascience.com/)
 
+365 Data Science Blog (https://365datascience.com/blog/)
+
 <div id='id7' />
 
 ### Canales de Youtube
