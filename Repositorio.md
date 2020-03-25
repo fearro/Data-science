@@ -305,6 +305,8 @@ Dream Learning blog (https://dreamlearning.ai/blog/)
 
 Repositorio de cursos con diapositivas de IA, ML, DL - Fernando Berzal (https://elvex.ugr.es/courses.html)
 
+Blog del profesor Fernando Sancho Caparrini (ETSI) sobre IA, ML, DL (http://www.cs.us.es/~fsancho/)
+
 #### Inglés
 
 ClaoudML (http://www.claoudml.co/)
