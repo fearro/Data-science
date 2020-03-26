@@ -391,6 +391,8 @@ Katacoda (www.katacoda.com)
 
 365 Data Science (https://365datascience.com/)
 
+Linux Academy (https://linuxacademy.com/)
+
 <div id='id9' />
 
 ### Otros programas/recursos
