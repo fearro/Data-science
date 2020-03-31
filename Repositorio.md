@@ -510,7 +510,7 @@ yellowbrick, LIME, ELI5, MLxtend
 
 #### Paralelización y Big Data
 
-dask, pyspark, optimus
+dask, pyspark, optimus, koalas
 
 #### Despliegue
 
