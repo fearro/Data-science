@@ -393,6 +393,8 @@ Katacoda (www.katacoda.com)
 
 Linux Academy (https://linuxacademy.com/)
 
+PluralSight (www.pluralsight.com)
+
 <div id='id9' />
 
 ### Otros programas/recursos
