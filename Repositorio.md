@@ -395,6 +395,8 @@ Linux Academy (https://linuxacademy.com/)
 
 PluralSight (www.pluralsight.com)
 
+Intellipaat (https://intellipaat.com/)
+
 <div id='id9' />
 
 ### Otros programas/recursos
