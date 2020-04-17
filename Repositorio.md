@@ -518,7 +518,7 @@ dask, pyspark, optimus, koalas
 
 #### Despliegue
 
-boto3 (AWS)
+boto3 (AWS), BentoML
 
 #### Reporting
 
