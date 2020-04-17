@@ -454,7 +454,7 @@ ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
 
 #### Estadística y Machine learning
 
-caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab 
+infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab 
 
 #### Procesamiento del lenguaje natural
 
