@@ -498,7 +498,7 @@ pandas, numpy, scipy
 
 #### Visualización
 
-seaborn, bokeh, matplotlib, plotly
+seaborn, bokeh, matplotlib, plotnine, plotly
 
 #### Estadística y Machine learning
 
