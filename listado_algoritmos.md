@@ -56,7 +56,7 @@ Filtro colaborativo (Collaborative filtering), filtro basado en contenido (Conte
 
 ### 4.3. *Visión artificial*
 
-HOG, Filtos de Haar, SIFT, SURF, Viola-Jones, Lucas-Kanade, Horn-Schunk, filtro de Kalman
+* Descriptores y/o detectores: HOG, BRIEF, ORB (FAST + BRIEF), BRISK, SIFT, SURF, KAZE, AKAZE, FREAK, GLOH, LESH, LDB, Viola-Jones, Lucas-Kanade, Horn-Schunk, filtro de Kalman, filtros de Haar
 
 ***
 
