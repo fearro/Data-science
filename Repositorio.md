@@ -454,7 +454,7 @@ tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubrida
 
 ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
 
-#### Estadística y Machine learning
+#### Estadística y Machine learning/Deep Learning
 
 infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab 
 
@@ -502,9 +502,9 @@ pandas, numpy, scipy
 
 seaborn, bokeh, matplotlib, plotnine, plotly
 
-#### Estadística y Machine learning
+#### Estadística y Machine Learning/Deep Learning
 
-statsmodels, scikit-learn, keras, tensorflow
+statsmodels, scikit-learn, scikit-optimize, (skopt), Keras, Tensorflow, PyTorch
 
 #### Procesamiento del lenguaje natural
 
@@ -527,6 +527,8 @@ boto3 (AWS), BentoML
 dash, streamlit
 
 #### Otros
+
+onnx
 
 ##### GUIs
 
