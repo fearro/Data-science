@@ -309,11 +309,13 @@ Blog del profesor Fernando Sancho Caparrini (ETSI) sobre IA, ML, DL (http://www.
 
 #### Inglés
 
-ClaoudML (http://www.claoudml.co/)
+ClaoudML (https://www.claoudml.com/)
 
 Listen Data (https://www.listendata.com/)
 
 Data Science Heroes (https://blog.datascienceheroes.com/)
+
+Machine Learning para dispositivos móviles (https://heartbeat.fritz.ai/)
 
 Tutoriales sobre aprendizaje automático en R y Python (https://www.machinelearningplus.com/)
 
