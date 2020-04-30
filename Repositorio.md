@@ -496,7 +496,7 @@ pandas, bamboolib, pandas_profiling, D-Tale
 
 #### Limpieza y manipulación
 
-pandas, numpy, scipy
+pandas, numpy, scipy, featuretools
 
 #### Visualización
 
@@ -516,7 +516,7 @@ yellowbrick, LIME, ELI5, MLxtend
 
 #### Paralelización y Big Data
 
-dask, pyspark, optimus, koalas
+Dask, PySpark, optimus, koalas
 
 #### Despliegue
 
