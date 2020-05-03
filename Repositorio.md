@@ -508,7 +508,7 @@ statsmodels, scikit-learn, scikit-optimize (skopt), Keras, Tensorflow, PyTorch, 
 
 #### Procesamiento del lenguaje natural
 
-NLTK, Gensim, spaCy
+NLTK, Gensim, spaCy, CoreNLP, TextBlob
 
 #### Interpretabilidad de modelos
 
