@@ -504,7 +504,7 @@ seaborn, bokeh, matplotlib, plotnine, plotly
 
 #### Estadística y Machine Learning/Deep Learning
 
-statsmodels, scikit-learn, scikit-optimize (skopt), Keras, Tensorflow, PyTorch, Hyperopt, DEAP
+statsmodels, scikit-learn, Keras, Tensorflow, PyTorch, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
 
 #### Procesamiento del lenguaje natural
 
