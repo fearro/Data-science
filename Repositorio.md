@@ -257,6 +257,8 @@ Mastering Spark with R (https://therinspark.com/)
 
 R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/)
 
+Engineering Production-Grade Shiny Apps (https://engineering-shiny.org/)
+
 <div id='id6' />
 
 ### Blogs
