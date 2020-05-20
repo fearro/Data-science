@@ -251,6 +251,12 @@ Aprender R: iniciación y perfeccionamiento (http://myrbooksp.netlify.com/)
 
 Interactive web-based data visualization with R, plotly, and shiny (https://plotly-r.com/index.html)
 
+Mastering Shiny (https://mastering-shiny.org/)
+
+Mastering Spark with R (https://therinspark.com/)
+
+R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/)
+
 <div id='id6' />
 
 ### Blogs
