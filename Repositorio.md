@@ -452,7 +452,7 @@ tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubrida
 
 #### Visualización
 
-ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
+ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce, rayshader
 
 #### Estadística y Machine learning/Deep Learning
 
@@ -504,7 +504,7 @@ seaborn, bokeh, matplotlib, plotnine, plotly
 
 #### Estadística y Machine Learning/Deep Learning
 
-statsmodels, scikit-learn, Keras, Tensorflow, PyTorch, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
+statsmodels, scikit-learn, pycaret, Keras, Tensorflow, PyTorch, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
 
 #### Procesamiento del lenguaje natural
 
