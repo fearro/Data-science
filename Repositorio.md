@@ -343,6 +343,8 @@ Open Data Science (https://opendatascience.com/)
 
 365 Data Science Blog (https://365datascience.com/blog/)
 
+PyImageSearch (https://www.pyimagesearch.com/)
+
 <div id='id7' />
 
 ### Canales de Youtube
