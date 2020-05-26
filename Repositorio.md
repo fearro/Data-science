@@ -315,6 +315,8 @@ Repositorio de cursos con diapositivas de IA, ML, DL - Fernando Berzal (https://
 
 Blog del profesor Fernando Sancho Caparrini (ETSI) sobre IA, ML, DL (http://www.cs.us.es/~fsancho/)
 
+Blog del profesor Jordi Torres (https://torres.ai/blog/)
+
 #### Inglés
 
 ClaoudML (https://www.claoudml.com/)
