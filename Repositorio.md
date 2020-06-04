@@ -94,6 +94,9 @@ MIT DeepLearning
 PyImageSearch
 (https://pyimagesearch.com)
 
+Made With ML
+(https://madewithml.com/)
+
 <div id='id2' />
 
 ### Programas/Webs suite
