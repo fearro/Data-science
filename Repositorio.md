@@ -224,13 +224,9 @@ Econometría, Estadística y Machine Learning con R (https://econometria.wordpre
 
 Tutorial RMarkdown (https://commonmark.org/help/)
 
-Galería de gráficos en R (https://www.r-graph-gallery.com/)
-
-Página web sobre estadística con R (http://www.sthda.com/english/)
-
 Tutorial sobre Datos espaciales con R (http://rspatial.org/index.html)
 
-Predicción series Temporales con R (https://otexts.org/fpp2/)
+Predicción series Temporales con R (Second Edition: https://otexts.org/fpp2/; Third Edition: https://otexts.org/fpp3/)
 
 Data Science Live Book R (https://livebook.datascienceheroes.com/)
 
@@ -449,6 +445,13 @@ Introducción visual al aprendizaje automático (http://www.r2d3.us/)
 Creación de infografías (Infogram, Piktochart, Canvas) (https://infogram.com/; https://piktochart.com/; https://www.canva.com/es_es/)
 
 Presentaciones interactivas (https://www.genial.ly/es)
+
+Galería de gráficos en R (https://www.r-graph-gallery.com/)
+
+Galería de gráficos en Python (https://www.python-graph-gallery.com/)
+
+Página web sobre estadística con R (http://www.sthda.com/english/)
+
 <div id='id10' />
 
 ### Paquetes R
