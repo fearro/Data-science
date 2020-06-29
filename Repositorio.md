@@ -548,7 +548,7 @@ dash, streamlit
 
 #### Otros
 
-onnx
+onnx, scrapy, selenium, BeautifulSoup
 
 ##### GUIs
 
