@@ -258,6 +258,8 @@ R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/)
 
 Engineering Production-Grade Shiny Apps (https://engineering-shiny.org/)
 
+Geostadística en R (https://geocompr.robinlovelace.net/)
+
 <div id='id6' />
 
 ### Blogs
