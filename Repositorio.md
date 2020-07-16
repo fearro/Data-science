@@ -318,6 +318,8 @@ Blog del profesor Fernando Sancho Caparrini (ETSI) sobre IA, ML, DL (http://www.
 
 Blog del profesor Jordi Torres (https://torres.ai/blog/)
 
+Escuela de Datos Vivos (https://escueladedatosvivos.ai/blog)
+
 #### Inglés
 
 ClaoudML (https://www.claoudml.com/)
