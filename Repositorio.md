@@ -96,6 +96,9 @@ Made With ML
 EPFL University Course Advanced probability and applications
 (https://moodle.epfl.ch/course/view.php?id=14557)
 
+Stanford University Course Machine Learning
+(http://cs229.stanford.edu/syllabus-summer2020.html)
+
 Cornell University Course Data Science for all 
 (https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
 
@@ -138,8 +141,11 @@ EPFL University Course Computer Vision
 EPFL University Course Artificial neural networks
 (https://moodle.epfl.ch/course/view.php?id=15633)
 
-MIT DeepLearning 
+MIT University Course DeepLearning 
 (https://deeplearning.mit.edu/)
+
+Stanford University Course DeepLearning
+(https://cs230.stanford.edu/syllabus/)
 
 EPFL University Course Introduction to Natural Language Processing
 (https://coling.epfl.ch/)
@@ -153,6 +159,9 @@ Cornell University Course Natural Language Processing
 Cornell University Course Structured Prediction for NLP
 (https://www.cs.cornell.edu/courses/cs6741/2017fa/)
 
+Stanford University Course Natural Language Processing with Deep Learning
+(http://web.stanford.edu/class/cs224n/index.html#schedule)
+
 UCL University Course on Reinforcement Learning
 (https://www.davidsilver.uk/teaching/)
 
@@ -164,6 +173,9 @@ EPFL University Course Markov chains and algorithmic applications
 
 Cornell University Course Foundations of Artificial Intelligence
 (https://www.cs.cornell.edu/courses/cs4700/2020sp/)
+
+Stanford University Course Artificial Intelligence: Principles and Techniques
+(https://stanford-cs221.github.io/spring2020/
 
 
 <div id='id2' />
