@@ -105,8 +105,26 @@ Oxford University Course Machine Learning
 EPFL University Course Machine Learning 
 (https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 
+Cornell University Course Machine Learning for Intelligent Systems
+(https://www.cs.cornell.edu/courses/cs4780/2019fa/)
+
+Cornell University Course Machine Learning for Data Science
+(https://www.cs.cornell.edu/courses/cs4786/2020sp/lectures.htm)
+
+Cornell University Course Advanced Machine Learning
+(https://www.cs.cornell.edu/courses/cs6780/2019sp/)
+
+Cornell University Course Advanced Machine Learning Systems
+(https://www.cs.cornell.edu/courses/cs6787/2019fa/)
+
+Cornell University Course Principles of Large-Scale Machine Learning
+(https://www.cs.cornell.edu/courses/cs4787/2020sp/)
+
 UC Berkeley University Course Computer Vision
 (https://inst.eecs.berkeley.edu/~cs280/sp18/)
+
+Cornell University Course Introduction to Computer Vision
+(https://www.cs.cornell.edu/courses/cs5670/2020sp/lectures/lectures.html)
 
 Cornell University Course Computer Vision
 (https://www.cs.cornell.edu/courses/cs4670/2020sp/calendar-2020.html)
@@ -128,6 +146,12 @@ EPFL University Course Introduction to Natural Language Processing
 
 EPFL University Course Computer Language Processing
 (https://lara.epfl.ch/w/cc19:top)
+
+Cornell University Course Natural Language Processing
+(https://www.cs.cornell.edu/courses/cs5740/2020sp/schedule.html)
+
+Cornell University Course Structured Prediction for NLP
+(https://www.cs.cornell.edu/courses/cs6741/2017fa/)
 
 UCL University Course on Reinforcement Learning
 (https://www.davidsilver.uk/teaching/)
