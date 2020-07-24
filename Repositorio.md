@@ -144,6 +144,9 @@ Stanford University Course Convolutional Neural Networks for Visual Recognition
 EPFL University Course Artificial neural networks
 (https://moodle.epfl.ch/course/view.php?id=15633)
 
+MIT University Course Introduction to DeepLearning 
+(http://introtodeeplearning.com/)
+
 MIT University Course DeepLearning 
 (https://deeplearning.mit.edu/)
 
