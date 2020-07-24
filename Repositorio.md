@@ -100,6 +100,9 @@ EPFL University Course Advanced probability and applications
 Gothenburg University Course Statistical Methods for Data Science
 (https://gu.instructure.com/courses/11025)
 
+MIT University Course Statistical Learning Theory and Applications
+(http://www.mit.edu/~9.520/fall19/)
+
 Cornell University Course Data Science for all 
 (https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
 
