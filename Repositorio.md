@@ -97,6 +97,9 @@ Stanford University Course Probability for Computer Scientists
 EPFL University Course Advanced probability and applications
 (https://moodle.epfl.ch/course/view.php?id=14557)
 
+Gothenburg University Course Statistical Methods for Data Science
+(https://gu.instructure.com/courses/11025)
+
 Cornell University Course Data Science for all 
 (https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
 
@@ -123,6 +126,9 @@ Cornell University Course Advanced Machine Learning
 
 Cornell University Course Advanced Machine Learning Systems
 (https://www.cs.cornell.edu/courses/cs6787/2019fa/)
+
+Chalmers University Course Applied Machine Learning
+(https://chalmers.instructure.com/courses/8685/)
 
 Cornell University Course Principles of Large-Scale Machine Learning
 (https://www.cs.cornell.edu/courses/cs4787/2020sp/)
@@ -156,6 +162,9 @@ MIT University Course DeepLearning
 
 Stanford University Course DeepLearning
 (https://cs230.stanford.edu/syllabus/)
+
+Chalmers University Course Machine learning for natural language processing
+(https://chalmers.instructure.com/courses/7916)
 
 EPFL University Course Introduction to Natural Language Processing
 (https://coling.epfl.ch/)
