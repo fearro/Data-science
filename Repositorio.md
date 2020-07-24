@@ -91,8 +91,16 @@ https://course.elementsofai.com/
 Made With ML
 (https://madewithml.com/)
 
+
+
+EPFL University Course Advanced probability and applications
+(https://moodle.epfl.ch/course/view.php?id=14557)
+
 Oxford University Course Machine Learning 
 (https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/) 
+
+EPFL University Course Machine Learning 
+(https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 
 UC Berkeley University Course Computer Vision  
 (https://inst.eecs.berkeley.edu/~cs280/sp18/)
@@ -103,8 +111,20 @@ Cornell University Course Computer Vision
 MIT CSAIL Advances in Computer Vision
 (http://6.869.csail.mit.edu/fa19/schedule.html)
 
+EPFL University Course Computer Vision
+(https://moodle.epfl.ch/course/view.php?id=472)
+
+EPFL University Course Artificial neural networks
+(https://moodle.epfl.ch/course/view.php?id=15633)
+
 MIT DeepLearning 
 (https://deeplearning.mit.edu/)
+
+EPFL University Course Introduction to Natural Language Processing
+(https://coling.epfl.ch/)
+
+EPFL University Course Computer Language Processing
+(https://lara.epfl.ch/w/cc19:top)
 
 UCL University Course on Reinforcement Learning
 (https://www.davidsilver.uk/teaching/)
@@ -112,6 +132,8 @@ UCL University Course on Reinforcement Learning
 UC Berkeley University Course Deep Reinforcement Learning 
 (http://rail.eecs.berkeley.edu/deeprlcourse/)
 
+EPFL University Course Markov chains and algorithmic applications
+(https://moodle.epfl.ch/course/view.php?id=15016)
 
 
 <div id='id2' />
