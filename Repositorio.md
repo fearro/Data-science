@@ -88,14 +88,31 @@ https://data-flair.training/blogs/
 Elements of IA
 https://course.elementsofai.com/
 
+Made With ML
+(https://madewithml.com/)
+
+Oxford University Course Machine Learning 
+(https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/) 
+
+UC Berkeley University Course Computer Vision  
+(https://inst.eecs.berkeley.edu/~cs280/sp18/)
+
+Cornell University Course Computer Vision
+(http://www.cs.cornell.edu/courses/cs4670/2019sp/calendar-final.html)
+
+MIT CSAIL Advances in Computer Vision
+(http://6.869.csail.mit.edu/fa19/schedule.html)
+
 MIT DeepLearning 
 (https://deeplearning.mit.edu/)
 
-PyImageSearch
-(https://pyimagesearch.com)
+UCL University Course on Reinforcement Learning
+(https://www.davidsilver.uk/teaching/)
 
-Made With ML
-(https://madewithml.com/)
+UC Berkeley University Course Deep Reinforcement Learning 
+(http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+
 
 <div id='id2' />
 
