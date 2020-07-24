@@ -102,7 +102,7 @@ Oxford University Course Machine Learning
 EPFL University Course Machine Learning 
 (https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 
-UC Berkeley University Course Computer Vision  
+UC Berkeley University Course Computer Vision
 (https://inst.eecs.berkeley.edu/~cs280/sp18/)
 
 Cornell University Course Computer Vision
