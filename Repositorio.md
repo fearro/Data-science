@@ -97,11 +97,14 @@ Stanford University Course Probability for Computer Scientists
 EPFL University Course Advanced probability and applications
 (https://moodle.epfl.ch/course/view.php?id=14557)
 
+Cornell University Course Data Science for all 
+(https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
+
 Stanford University Course Machine Learning
 (http://cs229.stanford.edu/syllabus-summer2020.html)
 
-Cornell University Course Data Science for all 
-(https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
+Harvard University Course Machine Learning
+(https://harvard-ml-courses.github.io/cs181-web/schedule)
 
 Oxford University Course Machine Learning 
 (https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/) 
