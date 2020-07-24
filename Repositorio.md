@@ -163,8 +163,11 @@ MIT University Course DeepLearning
 Stanford University Course DeepLearning
 (https://cs230.stanford.edu/syllabus/)
 
-Chalmers University Course Machine learning for natural language processing
+Chalmers University Course Machine learning for Natural Language Processing
 (https://chalmers.instructure.com/courses/7916)
+
+Chalmers University Course Deep Learning for Natural Language Processing
+(https://liu-nlp.github.io/dl4nlp/)
 
 EPFL University Course Introduction to Natural Language Processing
 (https://coling.epfl.ch/)
