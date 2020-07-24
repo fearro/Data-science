@@ -91,7 +91,8 @@ https://course.elementsofai.com/
 Made With ML
 (https://madewithml.com/)
 
-
+Stanford University Course Probability for Computer Scientists
+(https://web.stanford.edu/class/archive/cs/cs109/cs109.1196/schedule.html)
 
 EPFL University Course Advanced probability and applications
 (https://moodle.epfl.ch/course/view.php?id=14557)
