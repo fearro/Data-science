@@ -96,6 +96,9 @@ Made With ML
 EPFL University Course Advanced probability and applications
 (https://moodle.epfl.ch/course/view.php?id=14557)
 
+Cornell University Course Data Science for all 
+(https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
+
 Oxford University Course Machine Learning 
 (https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/) 
 
@@ -106,7 +109,7 @@ UC Berkeley University Course Computer Vision
 (https://inst.eecs.berkeley.edu/~cs280/sp18/)
 
 Cornell University Course Computer Vision
-(http://www.cs.cornell.edu/courses/cs4670/2019sp/calendar-final.html)
+(https://www.cs.cornell.edu/courses/cs4670/2020sp/calendar-2020.html)
 
 MIT CSAIL Advances in Computer Vision
 (http://6.869.csail.mit.edu/fa19/schedule.html)
@@ -134,6 +137,9 @@ UC Berkeley University Course Deep Reinforcement Learning
 
 EPFL University Course Markov chains and algorithmic applications
 (https://moodle.epfl.ch/course/view.php?id=15016)
+
+Cornell University Course Foundations of Artificial Intelligence
+(https://www.cs.cornell.edu/courses/cs4700/2020sp/)
 
 
 <div id='id2' />
