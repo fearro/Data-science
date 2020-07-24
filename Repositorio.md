@@ -138,6 +138,9 @@ MIT CSAIL Advances in Computer Vision
 EPFL University Course Computer Vision
 (https://moodle.epfl.ch/course/view.php?id=472)
 
+Stanford University Course Convolutional Neural Networks for Visual Recognition
+(http://cs231n.stanford.edu/syllabus.html)
+
 EPFL University Course Artificial neural networks
 (https://moodle.epfl.ch/course/view.php?id=15633)
 
@@ -175,7 +178,7 @@ Cornell University Course Foundations of Artificial Intelligence
 (https://www.cs.cornell.edu/courses/cs4700/2020sp/)
 
 Stanford University Course Artificial Intelligence: Principles and Techniques
-(https://stanford-cs221.github.io/spring2020/
+(https://stanford-cs221.github.io/spring2020/)
 
 
 <div id='id2' />
