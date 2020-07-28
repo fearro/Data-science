@@ -110,38 +110,38 @@ Cornell University Course Data Science for all
 
 ##### Machine Learning
 
-Stanford University Course Machine Learning
-(http://cs229.stanford.edu/syllabus-summer2020.html)
+    Stanford University Course Machine Learning
+    (http://cs229.stanford.edu/syllabus-summer2020.html)
 
-Harvard University Course Machine Learning
-(https://harvard-ml-courses.github.io/cs181-web/schedule)
+    Harvard University Course Machine Learning
+    (https://harvard-ml-courses.github.io/cs181-web/schedule)
 
-Oxford University Course Machine Learning 
-(https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/) 
+    Oxford University Course Machine Learning 
+    (https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/) 
 
-EPFL University Course Machine Learning 
-(https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
+    EPFL University Course Machine Learning 
+    (https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 
-Alberta University Course Machine Learning 
-(https://marthawhite.github.io/mlcourse/schedule.html)
+    Alberta University Course Machine Learning 
+    (https://marthawhite.github.io/mlcourse/schedule.html)
 
-Cornell University Course Machine Learning for Intelligent Systems
-(https://www.cs.cornell.edu/courses/cs4780/2019fa/)
+    Cornell University Course Machine Learning for Intelligent Systems
+    (https://www.cs.cornell.edu/courses/cs4780/2019fa/)
 
-Cornell University Course Machine Learning for Data Science
-(https://www.cs.cornell.edu/courses/cs4786/2020sp/lectures.htm)
+    Cornell University Course Machine Learning for Data Science
+    (https://www.cs.cornell.edu/courses/cs4786/2020sp/lectures.htm)
 
-Cornell University Course Advanced Machine Learning
-(https://www.cs.cornell.edu/courses/cs6780/2019sp/)
+    Cornell University Course Advanced Machine Learning
+    (https://www.cs.cornell.edu/courses/cs6780/2019sp/)
 
-Cornell University Course Advanced Machine Learning Systems
-(https://www.cs.cornell.edu/courses/cs6787/2019fa/)
+    Cornell University Course Advanced Machine Learning Systems
+    (https://www.cs.cornell.edu/courses/cs6787/2019fa/)
 
-Chalmers University Course Applied Machine Learning
-(https://chalmers.instructure.com/courses/8685/)
+    Chalmers University Course Applied Machine Learning
+    (https://chalmers.instructure.com/courses/8685/)
 
-Cornell University Course Principles of Large-Scale Machine Learning
-(https://www.cs.cornell.edu/courses/cs4787/2020sp/)
+    Cornell University Course Principles of Large-Scale Machine Learning
+    (https://www.cs.cornell.edu/courses/cs4787/2020sp/)
 
 UC Berkeley University Course Computer Vision
 (https://inst.eecs.berkeley.edu/~cs280/sp18/)
