@@ -118,6 +118,9 @@ Oxford University Course Machine Learning
 EPFL University Course Machine Learning 
 (https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 
+Alberta University Course Machine Learning 
+(https://marthawhite.github.io/mlcourse/schedule.html)
+
 Cornell University Course Machine Learning for Intelligent Systems
 (https://www.cs.cornell.edu/courses/cs4780/2019fa/)
 
@@ -150,6 +153,9 @@ MIT CSAIL Advances in Computer Vision
 
 EPFL University Course Computer Vision
 (https://moodle.epfl.ch/course/view.php?id=472)
+
+Alberta University Course Computer Vision
+(https://webdocs.cs.ualberta.ca/~vis/courses/CompVis/)
 
 Stanford University Course Convolutional Neural Networks for Visual Recognition
 (http://cs231n.stanford.edu/syllabus.html)
