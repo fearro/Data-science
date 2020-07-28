@@ -110,17 +110,13 @@ Cornell University Course Data Science for all
 
 ##### Machine Learning
 
-    Stanford University Course Machine Learning
-    (http://cs229.stanford.edu/syllabus-summer2020.html)
+    * Stanford University Course Machine Learning (http://cs229.stanford.edu/syllabus-summer2020.html)
 
-    Harvard University Course Machine Learning
-    (https://harvard-ml-courses.github.io/cs181-web/schedule)
+    * Harvard University Course Machine Learning (https://harvard-ml-courses.github.io/cs181-web/schedule)
 
-    Oxford University Course Machine Learning 
-    (https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/) 
+    * Oxford University Course Machine Learning  (https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/) 
 
-    EPFL University Course Machine Learning 
-    (https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
+    * EPFL University Course Machine Learning (https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 
     Alberta University Course Machine Learning 
     (https://marthawhite.github.io/mlcourse/schedule.html)
