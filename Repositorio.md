@@ -91,6 +91,8 @@ https://course.elementsofai.com/
 Made With ML
 (https://madewithml.com/)
 
+#### Universidades
+
 Stanford University Course Probability for Computer Scientists
 (https://web.stanford.edu/class/archive/cs/cs109/cs109.1196/schedule.html)
 
@@ -105,6 +107,8 @@ MIT University Course Statistical Learning Theory and Applications
 
 Cornell University Course Data Science for all 
 (https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
+
+##### Machine Learning
 
 Stanford University Course Machine Learning
 (http://cs229.stanford.edu/syllabus-summer2020.html)
