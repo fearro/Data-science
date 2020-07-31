@@ -91,6 +91,12 @@ https://course.elementsofai.com/
 Made With ML
 (https://madewithml.com/)
 
+New Deep Learning Techniques
+(http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
+
+AI Institute Geometry of Deep Learning
+(https://www.microsoft.com/en-us/research/event/ai-institute-2019/#!videos)
+
 #### Universidades
 
 Stanford University Course Probability for Computer Scientists
@@ -141,6 +147,12 @@ Cornell University Course Data Science for all
     
     Tuebingen University Course Probabilistic Machine Learning
     (https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/)
+    
+    Carnegie Mellon University Course Probabilistic Graphical Models
+    (https://sailinglab.github.io/pgm-spring-2019/lectures/)
+    
+    UC Berkeley University Course Deep Unsupervised Learning 
+    (https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
 UC Berkeley University Course Computer Vision
 (https://inst.eecs.berkeley.edu/~cs280/sp18/)
@@ -205,11 +217,17 @@ UC Berkeley University Course Deep Reinforcement Learning
 EPFL University Course Markov chains and algorithmic applications
 (https://moodle.epfl.ch/course/view.php?id=15016)
 
+Stanford University Course Deep Multi-Task and Meta Learning
+(http://cs330.stanford.edu/)
+
 Cornell University Course Foundations of Artificial Intelligence
 (https://www.cs.cornell.edu/courses/cs4700/2020sp/)
 
 Stanford University Course Artificial Intelligence: Principles and Techniques
 (https://stanford-cs221.github.io/spring2020/)
+
+UC Berkeley University Course Introduction to Artificial Intelligence
+(https://inst.eecs.berkeley.edu/~cs188/fa19/index.html)
 
 
 <div id='id2' />
@@ -504,6 +522,33 @@ Applied Machine Learning 2020
 
 Statistical Machine Learning
 (https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
+Advanced Deep Learning & Reinforcement Learning
+(https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
+Data Driven Control with Machine Learning
+(https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
+
+ECE AI Seminar Series
+(https://www.youtube.com/playlist?list=PLhwo5ntex8iY9xhpSwWas451NgVuqBE7U)
+
+CSEP 546 - Machine Learning
+(https://www.youtube.com/playlist?list=PLTPQEx-31JXj87XLsYutYGKw6K9dNaD36)
+
+CS285 Fall 2019
+(https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+
+Deep Bayes
+(https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
+
+CMU Neural Nets for NLP 
+(https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
+
+Workshop on New Directions in Reinforcement Learning and Con
+(https://www.youtube.com/playlist?list=PLdDZb3TwJPZ61sGqd6cbWCmTc275NrKu3)
+
+Theoretical Machine Leraning Lecture Series
+(https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5VLprf2VUfC0h1zOGvV_gz)
 
 
 <div id='id8' />
