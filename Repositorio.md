@@ -502,6 +502,9 @@ Full Stack Deep Learning
 Applied Machine Learning 2020
 (https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
 
+Statistical Machine Learning
+(https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
 
 <div id='id8' />
 
