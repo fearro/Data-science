@@ -138,6 +138,9 @@ Cornell University Course Data Science for all
 
     Cornell University Course Principles of Large-Scale Machine Learning
     (https://www.cs.cornell.edu/courses/cs4787/2020sp/)
+    
+    Tuebingen University Course Probabilistic Machine Learning
+    (https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/)
 
 UC Berkeley University Course Computer Vision
 (https://inst.eecs.berkeley.edu/~cs280/sp18/)
@@ -492,6 +495,13 @@ Luis Serrano
 
 Capacítate para el empleo
 (https://www.youtube.com/watch?v=kKm1cXSyLqk)
+
+Full Stack Deep Learning
+(https://www.youtube.com/c/FullStackDeepLearning/featured)
+
+Applied Machine Learning 2020
+(https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+
 
 <div id='id8' />
 
