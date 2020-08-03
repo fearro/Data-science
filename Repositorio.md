@@ -124,29 +124,21 @@ Cornell University Course Data Science for all
 
 * EPFL University Course Machine Learning (https://www.epfl.ch/labs/mlo/machine-learning-cs-433/)
 
-    Alberta University Course Machine Learning 
-    (https://marthawhite.github.io/mlcourse/schedule.html)
+* Alberta University Course Machine Learning (https://marthawhite.github.io/mlcourse/schedule.html)
 
-    Cornell University Course Machine Learning for Intelligent Systems
-    (https://www.cs.cornell.edu/courses/cs4780/2019fa/)
+* Cornell University Course Machine Learning for Intelligent Systems (https://www.cs.cornell.edu/courses/cs4780/2019fa/)
 
-    Cornell University Course Machine Learning for Data Science
-    (https://www.cs.cornell.edu/courses/cs4786/2020sp/lectures.htm)
-
-    Cornell University Course Advanced Machine Learning
-    (https://www.cs.cornell.edu/courses/cs6780/2019sp/)
-
-    Cornell University Course Advanced Machine Learning Systems
-    (https://www.cs.cornell.edu/courses/cs6787/2019fa/)
-
-    Chalmers University Course Applied Machine Learning
-    (https://chalmers.instructure.com/courses/8685/)
-
-    Cornell University Course Principles of Large-Scale Machine Learning
-    (https://www.cs.cornell.edu/courses/cs4787/2020sp/)
+* Cornell University Course Machine Learning for Data Science (https://www.cs.cornell.edu/courses/cs4786/2020sp/lectures.htm)
     
-    Tuebingen University Course Probabilistic Machine Learning
-    (https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/)
+* Cornell University Course Advanced Machine Learning (https://www.cs.cornell.edu/courses/cs6780/2019sp/)
+
+* Cornell University Course Advanced Machine Learning Systems (https://www.cs.cornell.edu/courses/cs6787/2019fa/)
+
+* Chalmers University Course Applied Machine Learning (https://chalmers.instructure.com/courses/8685/)
+
+* Cornell University Course Principles of Large-Scale Machine Learning (https://www.cs.cornell.edu/courses/cs4787/2020sp/)
+    
+* Tuebingen University Course Probabilistic Machine Learning (https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/)
     
     Carnegie Mellon University Course Probabilistic Graphical Models
     (https://sailinglab.github.io/pgm-spring-2019/lectures/)
@@ -154,79 +146,94 @@ Cornell University Course Data Science for all
     UC Berkeley University Course Deep Unsupervised Learning 
     (https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
-UC Berkeley University Course Computer Vision
+
+##### Computer Vision
+
+* UC Berkeley University Course Computer Vision
 (https://inst.eecs.berkeley.edu/~cs280/sp18/)
 
-Cornell University Course Introduction to Computer Vision
+* Cornell University Course Introduction to Computer Vision
 (https://www.cs.cornell.edu/courses/cs5670/2020sp/lectures/lectures.html)
 
-Cornell University Course Computer Vision
+* Cornell University Course Computer Vision
 (https://www.cs.cornell.edu/courses/cs4670/2020sp/calendar-2020.html)
 
-MIT CSAIL Advances in Computer Vision
+* MIT CSAIL Advances in Computer Vision
 (http://6.869.csail.mit.edu/fa19/schedule.html)
 
-EPFL University Course Computer Vision
+* EPFL University Course Computer Vision
 (https://moodle.epfl.ch/course/view.php?id=472)
 
-Alberta University Course Computer Vision
+* Alberta University Course Computer Vision
 (https://webdocs.cs.ualberta.ca/~vis/courses/CompVis/)
 
-Stanford University Course Convolutional Neural Networks for Visual Recognition
+* Stanford University Course Convolutional Neural Networks for Visual Recognition
 (http://cs231n.stanford.edu/syllabus.html)
 
-EPFL University Course Artificial neural networks
+
+##### Deep Learning
+
+* EPFL University Course Artificial Neural Networks
 (https://moodle.epfl.ch/course/view.php?id=15633)
 
-MIT University Course Introduction to DeepLearning 
+* MIT University Course Introduction to DeepLearning 
 (http://introtodeeplearning.com/)
 
-MIT University Course DeepLearning 
+* MIT University Course DeepLearning 
 (https://deeplearning.mit.edu/)
 
-Stanford University Course DeepLearning
+* Stanford University Course DeepLearning
 (https://cs230.stanford.edu/syllabus/)
 
-Chalmers University Course Machine learning for Natural Language Processing
+
+##### Natural Language Processing
+
+* Chalmers University Course Machine learning for Natural Language Processing
 (https://chalmers.instructure.com/courses/7916)
 
-Chalmers University Course Deep Learning for Natural Language Processing
+* Chalmers University Course Deep Learning for Natural Language Processing
 (https://liu-nlp.github.io/dl4nlp/)
 
-EPFL University Course Introduction to Natural Language Processing
+* EPFL University Course Introduction to Natural Language Processing
 (https://coling.epfl.ch/)
 
-EPFL University Course Computer Language Processing
+* EPFL University Course Computer Language Processing
 (https://lara.epfl.ch/w/cc19:top)
 
-Cornell University Course Natural Language Processing
+* Cornell University Course Natural Language Processing
 (https://www.cs.cornell.edu/courses/cs5740/2020sp/schedule.html)
 
-Cornell University Course Structured Prediction for NLP
+* Cornell University Course Structured Prediction for NLP
 (https://www.cs.cornell.edu/courses/cs6741/2017fa/)
 
-Stanford University Course Natural Language Processing with Deep Learning
+* Stanford University Course Natural Language Processing with Deep Learning
 (http://web.stanford.edu/class/cs224n/index.html#schedule)
 
-UCL University Course on Reinforcement Learning
+
+##### Reinforcement Learning
+
+* UCL University Course on Reinforcement Learning
 (https://www.davidsilver.uk/teaching/)
 
-UC Berkeley University Course Deep Reinforcement Learning 
+* UC Berkeley University Course Deep Reinforcement Learning 
 (http://rail.eecs.berkeley.edu/deeprlcourse/)
 
-EPFL University Course Markov chains and algorithmic applications
+* EPFL University Course Markov chains and algorithmic applications
 (https://moodle.epfl.ch/course/view.php?id=15016)
 
-Stanford University Course Deep Multi-Task and Meta Learning
+* Stanford University Course Deep Multi-Task and Meta Learning
 (http://cs330.stanford.edu/)
 
-Cornell University Course Foundations of Artificial Intelligence
+
+##### Artificial Intelligence
+
+* Cornell University Course Foundations of Artificial Intelligence
 (https://www.cs.cornell.edu/courses/cs4700/2020sp/)
 
-Stanford University Course Artificial Intelligence: Principles and Techniques
+* Stanford University Course Artificial Intelligence: Principles and Techniques
 (https://stanford-cs221.github.io/spring2020/)
 
-UC Berkeley University Course Introduction to Artificial Intelligence
+* UC Berkeley University Course Introduction to Artificial Intelligence
 (https://inst.eecs.berkeley.edu/~cs188/fa19/index.html)
 
 
