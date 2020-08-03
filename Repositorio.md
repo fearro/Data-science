@@ -99,19 +99,21 @@ AI Institute Geometry of Deep Learning
 
 #### Universidades
 
-Stanford University Course Probability for Computer Scientists
+##### Statistics, Probability & Data Science
+
+* Stanford University Course Probability for Computer Scientists
 (https://web.stanford.edu/class/archive/cs/cs109/cs109.1196/schedule.html)
 
-EPFL University Course Advanced probability and applications
+* EPFL University Course Advanced probability and applications
 (https://moodle.epfl.ch/course/view.php?id=14557)
 
-Gothenburg University Course Statistical Methods for Data Science
+* Gothenburg University Course Statistical Methods for Data Science
 (https://gu.instructure.com/courses/11025)
 
-MIT University Course Statistical Learning Theory and Applications
+* MIT University Course Statistical Learning Theory and Applications
 (http://www.mit.edu/~9.520/fall19/)
 
-Cornell University Course Data Science for all 
+* Cornell University Course Data Science for all 
 (https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
 
 ##### Machine Learning
@@ -139,12 +141,10 @@ Cornell University Course Data Science for all
 * Cornell University Course Principles of Large-Scale Machine Learning (https://www.cs.cornell.edu/courses/cs4787/2020sp/)
     
 * Tuebingen University Course Probabilistic Machine Learning (https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/)
-    
-    Carnegie Mellon University Course Probabilistic Graphical Models
-    (https://sailinglab.github.io/pgm-spring-2019/lectures/)
-    
-    UC Berkeley University Course Deep Unsupervised Learning 
-    (https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+
+* UC Berkeley University Course Deep Unsupervised Learning 
+(https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+
 
 
 ##### Computer Vision
@@ -169,6 +169,9 @@ Cornell University Course Data Science for all
 
 * Stanford University Course Convolutional Neural Networks for Visual Recognition
 (http://cs231n.stanford.edu/syllabus.html)
+
+* Carnegie Mellon University Course Probabilistic Graphical Models
+(https://sailinglab.github.io/pgm-spring-2019/lectures/)
 
 
 ##### Deep Learning
