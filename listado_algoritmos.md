@@ -32,7 +32,7 @@ tSNE, PCA, PLS, PCR, LSA, SVD, LDA, ICA, UMAP, ISOMAP, CCA, PCR, NMF (Non-negati
 
 ### 2.5 *Detección de anomalías*
 
-Isolation forest, one-class SVM, Cluster analysis, PCA-based Anomaly detection, local outlier factor (LOF)
+Isolation forest, one-class SVM, Cluster analysis, PCA-based Anomaly detection, Local outlier Factor (LoF)
 
 <br>
 
