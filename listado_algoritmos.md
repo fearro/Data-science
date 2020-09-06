@@ -28,7 +28,7 @@ GSP, PSP, SPADE, DEGSeq, FreeSpan, PrefixSpan, CloSpan, SSMiner, IncSpan, BIDE, 
 
 ### 2.4 *Reducción de dimensionalidad*
 
-tSNE, PCA, PLS, PCR, LSA, SVD, LDA, ICA, UMAP, ISOMAP, CCA, PCR, NMF (Non-negative matrix factorization)
+tSNE, PCA, PLS, PCR, LSA, SVD, LDA, ICA, UMAP, ISOMAP, CCA, PCR, NMF (Non-negative matrix factorization), GLRM (Generalized Low Rank Models)
 
 ### 2.5 *Detección de anomalías*
 
