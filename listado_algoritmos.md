@@ -34,7 +34,7 @@ tSNE, PCA, PLS, PCR, LSA, SVD, LDA, ICA, UMAP, ISOMAP, CCA, PCR, NMF (Non-negati
 
 Isolation forest, one-class SVM, Cluster analysis, PCA-based Anomaly detection, Local outlier Factor (LoF), Métricas de distancia<sup>1</sup>
 
-<sup>1</sup>*Numéricas*: euclídea, euclídea normalizada, Manhattan, Canberra, Minkowiski, Mahalanobis, Chebishev; *Categóricas*: chi-cuadrado, Levenshtein, Hamming, Simple matching coefficient, Índice de Jaccard; *Mixta*: Gower
+<sup>1</sup>*Numéricas*: euclídea, euclídea normalizada, Manhattan, Canberra, Minkowski, Mahalanobis, Chebishev; *Categóricas*: chi-cuadrado, Levenshtein, Hamming, Simple matching coefficient, Índice de Jaccard; *Mixta*: Gower
 
 <br>
 
