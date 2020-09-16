@@ -119,6 +119,7 @@ AI Institute Geometry of Deep Learning
 * Cornell University Course Data Science for all 
 (https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
 
+
 ##### Machine Learning
 
 * Stanford University Course Machine Learning (http://cs229.stanford.edu/syllabus-summer2020.html)
@@ -131,11 +132,15 @@ AI Institute Geometry of Deep Learning
 
 * Alberta University Course Machine Learning (https://marthawhite.github.io/mlcourse/schedule.html)
 
+* Aachen University Course Machine Learning (http://www.vision.rwth-aachen.de/course/31/)
+
 * Cornell University Course Machine Learning for Intelligent Systems (https://www.cs.cornell.edu/courses/cs4780/2019fa/)
 
 * Cornell University Course Machine Learning for Data Science (https://www.cs.cornell.edu/courses/cs4786/2020sp/lectures.htm)
     
 * Cornell University Course Advanced Machine Learning (https://www.cs.cornell.edu/courses/cs6780/2019sp/)
+
+* Aachen University Course Advanced Machine Learning (http://www.vision.rwth-aachen.de/course/29/)
 
 * Cornell University Course Advanced Machine Learning Systems (https://www.cs.cornell.edu/courses/cs6787/2019fa/)
 
@@ -149,7 +154,6 @@ AI Institute Geometry of Deep Learning
 (https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
 
-
 ##### Computer Vision
 
 * UC Berkeley University Course Computer Vision
@@ -157,6 +161,9 @@ AI Institute Geometry of Deep Learning
 
 * Cornell University Course Introduction to Computer Vision
 (https://www.cs.cornell.edu/courses/cs5670/2020sp/lectures/lectures.html)
+
+* Brown University Course Introduction to Computer Vision
+(https://cs.brown.edu/courses/csci1430/)
 
 * Cornell University Course Computer Vision
 (https://www.cs.cornell.edu/courses/cs4670/2020sp/calendar-2020.html)
@@ -169,6 +176,21 @@ AI Institute Geometry of Deep Learning
 
 * Alberta University Course Computer Vision
 (https://webdocs.cs.ualberta.ca/~vis/courses/CompVis/)
+
+* New York University Course Computer Vision
+(https://cs.nyu.edu/~fergus/teaching/vision/index.html)
+
+* Illinois University Course Computer Vision
+(https://courses.engr.illinois.edu/cs543/sp2015/)
+
+* Aachen University Course Computer Vision
+(v2016 (más completa) http://www.vision.rwth-aachen.de/course/11/; v2019 http://www.vision.rwth-aachen.de/course/28/)
+
+* TUM University Course Computer Vision I: Variational Methods
+(https://vision.in.tum.de/teaching/online/cvvm)
+
+* TUM University Course Computer Vision II: Multiple View Geometry
+(https://vision.in.tum.de/teaching/online/mvg)
 
 * Stanford University Course Convolutional Neural Networks for Visual Recognition
 (http://cs231n.stanford.edu/syllabus.html)
