@@ -91,6 +91,9 @@ https://course.elementsofai.com/
 Made With ML
 (https://madewithml.com/)
 
+ML in Production
+(http://mlinproduction.com/)
+
 New Deep Learning Techniques
 (http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 
