@@ -110,6 +110,9 @@ AI Institute Geometry of Deep Learning
 * EPFL University Course Advanced probability and applications
 (https://moodle.epfl.ch/course/view.php?id=14557)
 
+* Brown University Course Probability & Computing
+(http://cs.brown.edu/courses/csci1450/lectures.html)
+
 * Gothenburg University Course Statistical Methods for Data Science
 (https://gu.instructure.com/courses/11025)
 
@@ -119,6 +122,13 @@ AI Institute Geometry of Deep Learning
 * Cornell University Course Data Science for all 
 (https://www.cs.cornell.edu/courses/cs1380/2020sp/schedule.html)
 
+* Brown University Course Introduction to Data Science 
+(https://cs.brown.edu/courses/csci1951-a/slides/)
+
+* Brown University Course Data Science 
+(http://cs.brown.edu/courses/cs195w/slides.shtml)
+
+<br>
 
 ##### Machine Learning
 
@@ -133,6 +143,8 @@ AI Institute Geometry of Deep Learning
 * Alberta University Course Machine Learning (https://marthawhite.github.io/mlcourse/schedule.html)
 
 * Aachen University Course Machine Learning (http://www.vision.rwth-aachen.de/course/31/)
+
+* Brown University Course Machine Learning (http://cs.brown.edu/courses/csci1420/lectures.html)
 
 * Cornell University Course Machine Learning for Intelligent Systems (https://www.cs.cornell.edu/courses/cs4780/2019fa/)
 
@@ -153,6 +165,7 @@ AI Institute Geometry of Deep Learning
 * UC Berkeley University Course Deep Unsupervised Learning 
 (https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
+<br>
 
 ##### Computer Vision
 
@@ -198,21 +211,26 @@ AI Institute Geometry of Deep Learning
 * Carnegie Mellon University Course Probabilistic Graphical Models
 (https://sailinglab.github.io/pgm-spring-2019/lectures/)
 
+<br>
 
 ##### Deep Learning
 
 * EPFL University Course Artificial Neural Networks
 (https://moodle.epfl.ch/course/view.php?id=15633)
 
-* MIT University Course Introduction to DeepLearning 
+* MIT University Course Introduction to Deep Learning 
 (http://introtodeeplearning.com/)
 
-* MIT University Course DeepLearning 
+* MIT University Course Deep Learning 
 (https://deeplearning.mit.edu/)
 
-* Stanford University Course DeepLearning
+* Stanford University Course Deep Learning
 (https://cs230.stanford.edu/syllabus/)
 
+* Brown University Course Deep Learning in Genomics
+(http://cs.brown.edu/courses/csci1850/lectures.html)
+
+<br>
 
 ##### Natural Language Processing
 
@@ -237,6 +255,10 @@ AI Institute Geometry of Deep Learning
 * Stanford University Course Natural Language Processing with Deep Learning
 (http://web.stanford.edu/class/cs224n/index.html#schedule)
 
+* Brown University Course Introduction to Computational Linguistics
+(cs.brown.edu/courses/csci1460/)
+
+<br>
 
 ##### Reinforcement Learning
 
@@ -252,6 +274,7 @@ AI Institute Geometry of Deep Learning
 * Stanford University Course Deep Multi-Task and Meta Learning
 (http://cs330.stanford.edu/)
 
+<br>
 
 ##### Artificial Intelligence
 
@@ -263,6 +286,16 @@ AI Institute Geometry of Deep Learning
 
 * UC Berkeley University Course Introduction to Artificial Intelligence
 (https://inst.eecs.berkeley.edu/~cs188/fa19/index.html)
+
+* Brown University Course Artificial Intelligence
+(http://cs.brown.edu/courses/csci1410/)
+
+<br>
+
+##### Algorithmics
+
+* Brown University Course Design and Analysis Algorithms
+(http://cs.brown.edu/courses/csci1570/lectures.html)
 
 
 <div id='id2' />
