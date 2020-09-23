@@ -501,6 +501,8 @@ Visión por computador (https://carlosjuliopardoblog.wordpress.com/)
 
 DataSmarts (https://datasmarts.net/es/)
 
+OMES, Visión por computador (https://omes-va.com/)
+
 Inteligencia artificial en la práctica (https://iartificial.net/)
 
 Tutoriales sobre ML y librerías usadas en ML (https://www.interactivechaos.com/tutoriales)
