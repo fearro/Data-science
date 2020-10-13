@@ -521,6 +521,8 @@ Blog del profesor Fernando Sancho Caparrini (ETSI) sobre IA, ML, DL (http://www.
 
 Blog del profesor Jordi Torres (https://torres.ai/blog/)
 
+Blogg del profesor Eduardo Morales (https://ccc.inaoep.mx/~emorales/)
+
 Escuela de Datos Vivos (https://escueladedatosvivos.ai/blog)
 
 #### Inglés
