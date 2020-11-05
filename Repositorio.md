@@ -525,7 +525,9 @@ Blogg del profesor Eduardo Morales (https://ccc.inaoep.mx/~emorales/)
 
 Escuela de Datos Vivos (https://escueladedatosvivos.ai/blog)
 
-Blog Rubianesl Alberto Medium (https://rubialesalberto.medium.com/)
+Blog Rubiales Alberto Medium (https://rubialesalberto.medium.com/)
+
+Blog Javi GG (https://javi897.github.io/)
 
 #### Inglés
 
@@ -716,7 +718,7 @@ DataExplorer, GGally, summarytools, funModeling, anomalize, correlationfunnel, c
 
 #### Limpieza y manipulación
 
-tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubridate, stringr, purrr
+tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubridate, stringr, purrr, drake (pipelines)
 
 #### Visualización
 
@@ -724,7 +726,11 @@ ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce
 
 #### Estadística y Machine learning/Deep Learning
 
-infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, forecast, maltese, fable, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab 
+infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab 
+
+#### Series temporales
+
+forecast, fable, maltese, modeltime, modeltime.ensemble, prophet
 
 #### Procesamiento del lenguaje natural
 
@@ -748,7 +754,7 @@ knitr, rmarkdown, shiny, flexdashboard, shinydashboard, shinyauthr
 
 #### Otros
 
-reticulate, pdftools, tabulizer, tesseract, utils, rvest, onnx, aurelius
+reticulate, pdftools, tabulizer, tesseract, utils, rvest, onnx, aurelius, ArenaR
 
 <div id='id11' />
 
@@ -760,7 +766,7 @@ SQLAlchemy, pandas, PyMongo
 
 #### Exploración
 
-pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz
+pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz, funpymodeling
 
 #### Limpieza y manipulación
 
@@ -773,6 +779,10 @@ seaborn, bokeh, matplotlib, plotnine, plotly
 #### Estadística y Machine Learning/Deep Learning
 
 statsmodels, scikit-learn, pycaret, Keras, Tensorflow, PyTorch, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
+
+#### Series temporales
+
+tsfresh, fbprophet
 
 #### Procesamiento del lenguaje natural
 
