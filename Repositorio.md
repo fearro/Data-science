@@ -525,6 +525,8 @@ Blogg del profesor Eduardo Morales (https://ccc.inaoep.mx/~emorales/)
 
 Escuela de Datos Vivos (https://escueladedatosvivos.ai/blog)
 
+Blog Rubianesl Alberto Medium (https://rubialesalberto.medium.com/)
+
 #### Inglés
 
 ClaoudML (https://www.claoudml.com/)
