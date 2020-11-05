@@ -555,6 +555,8 @@ Open Data Science (https://opendatascience.com/)
 
 PyImageSearch (https://www.pyimagesearch.com/)
 
+deepwizAI (https://www.deepwizai.com/)
+
 <div id='id7' />
 
 ### Canales de Youtube
@@ -756,7 +758,7 @@ SQLAlchemy, pandas, PyMongo
 
 #### Exploración
 
-pandas, bamboolib, pandas_profiling, D-Tale
+pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz
 
 #### Limpieza y manipulación
 
