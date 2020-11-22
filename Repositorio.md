@@ -722,7 +722,7 @@ tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubrida
 
 #### Visualización
 
-ggplot2, plotly, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce, rayshader
+ggplot2, plotly, ggstatsplot, leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce, rayshader
 
 #### Estadística y Machine learning/Deep Learning
 
