@@ -730,7 +730,7 @@ infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, tensorflow, keras, xgboost,
 
 #### Series temporales
 
-forecast, fable, maltese, modeltime, modeltime.ensemble, prophet
+forecast, fable, maltese, modeltime, modeltime.ensemble, modeltime.gluonts, prophet
 
 #### Procesamiento del lenguaje natural
 
@@ -782,7 +782,7 @@ statsmodels, scikit-learn, pycaret, Keras, Tensorflow, PyTorch, Hyperopt, scikit
 
 #### Series temporales
 
-tsfresh, fbprophet
+tsfresh, fbprophet, GluonTS
 
 #### Procesamiento del lenguaje natural
 
