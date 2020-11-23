@@ -158,6 +158,8 @@ AI Institute Geometry of Deep Learning
 
 * Chalmers University Course Applied Machine Learning (https://chalmers.instructure.com/courses/8685/)
 
+* McGill University Course Applied Machine Learning (https://cs.mcgill.ca/~wlh/comp551/schedule.html)
+
 * Cornell University Course Principles of Large-Scale Machine Learning (https://www.cs.cornell.edu/courses/cs4787/2020sp/)
     
 * Tuebingen University Course Probabilistic Machine Learning (https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/)
@@ -223,6 +225,9 @@ AI Institute Geometry of Deep Learning
 
 * MIT University Course Deep Learning 
 (https://deeplearning.mit.edu/)
+
+* New York University Course Deep Learning
+(https://atcold.github.io/pytorch-Deep-Learning/)
 
 * Stanford University Course Deep Learning
 (https://cs230.stanford.edu/syllabus/)
