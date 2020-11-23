@@ -835,7 +835,7 @@ onnx, scrapy, selenium, BeautifulSoup
 
 ##### GUIs
 
-Gooey, PyGTK, wxPython, PyQT, Tkinter, PySide2
+Gooey, PySimpleGUI, PyGTK, wxPython, PyQT, Tkinter, PySide2
 
 <div id='id12' />
 
