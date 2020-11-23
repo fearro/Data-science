@@ -421,6 +421,7 @@ Búscadores de APIs por nombre o temática
 <div id='id5' />
 
 ### Libros y documentos
+
 R para profesionales (https://www.datanalytics.com/libro_r/)
 
 R Graphics Cookbook (https://r-graphics.org/)
@@ -470,6 +471,8 @@ R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/)
 Engineering Production-Grade Shiny Apps (https://engineering-shiny.org/)
 
 Geostadística en R (https://geocompr.robinlovelace.net/)
+
+Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
 
 <div id='id6' />
 
