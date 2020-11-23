@@ -309,6 +309,7 @@ AI Institute Geometry of Deep Learning
 <div id='id2' />
 
 ### Programas/Webs suite
+
 Power BI (https://powerbi.microsoft.com/es-es/)
 
 Knime (https://www.knime.com/)
@@ -404,6 +405,7 @@ Visión artificial
 <div id='id4' />
 
 ### APIs
+
 Listado de APIs de Google
 (https://developers.google.com/apis-explorer/#p/)
 
@@ -536,6 +538,8 @@ Escuela de Datos Vivos (https://escueladedatosvivos.ai/blog)
 Blog Rubiales Alberto Medium (https://rubialesalberto.medium.com/)
 
 Blog Javi GG (https://javi897.github.io/)
+
+Blog Ander Fernández (https://anderfernandez.com/blog/)
 
 #### Inglés
 
