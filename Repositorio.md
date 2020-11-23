@@ -546,6 +546,8 @@ Blog Javi GG (https://javi897.github.io/)
 
 Blog Ander Fernández (https://anderfernandez.com/blog/)
 
+Aprender Big Data (https://aprenderbigdata.com/)
+
 #### Inglés
 
 ClaoudML (https://www.claoudml.com/)
@@ -649,6 +651,7 @@ Theoretical Machine Leraning Lecture Series
 <div id='id8' />
 
 ### Plataformas de aprendizaje
+
 Coursera (https://www.coursera.org/)
 
 edX (https://www.edx.org/es)
@@ -747,7 +750,7 @@ infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, tensorflow, keras, xgboost,
 
 #### Series temporales
 
-forecast, fable, maltese, modeltime, modeltime.ensemble, modeltime.gluonts, prophet
+forecast, fable, timetk, maltese, modeltime, modeltime.ensemble, modeltime.gluonts, prophet
 
 #### Procesamiento del lenguaje natural
 
@@ -813,7 +816,7 @@ yellowbrick, LIME, ELI5, MLxtend
 
 #### Paralelización y Big Data
 
-Dask, PySpark, optimus, koalas
+Dask, Vaex, PySpark, optimus, koalas
 
 #### Despliegue
 
@@ -829,7 +832,7 @@ onnx, scrapy, selenium, BeautifulSoup
 
 ##### GUIs
 
-PyGTK, wxPython, PyQT, Tkinter, PySide2
+Gooey, PyGTK, wxPython, PyQT, Tkinter, PySide2
 
 <div id='id12' />
 
