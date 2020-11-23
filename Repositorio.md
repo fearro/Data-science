@@ -804,7 +804,7 @@ statsmodels, scikit-learn, pycaret, Keras, Tensorflow, PyTorch, Hyperopt, scikit
 
 #### Series temporales
 
-tsfresh, fbprophet, GluonTS
+sktime, tsfresh, fbprophet, GluonTS
 
 #### Procesamiento del lenguaje natural
 
