@@ -758,7 +758,7 @@ parallel, foreach, bigmemory, bigtabulate, biganalytics, iotools, sparklyr, rspa
 
 #### Despliegue
 
-plumber, rdocker, cloudml, cloudyr, aws.s3, AzureR (familia paquetes)
+plumber, rdocker, cloudml, cloudyr, aws.s3, Paws (AWS), AzureR (familia paquetes)
 
 #### Reporting
 
@@ -769,6 +769,8 @@ knitr, rmarkdown, shiny, flexdashboard, shinydashboard, shinyauthr
 reticulate, pdftools, tabulizer, tesseract, utils, rvest, onnx, aurelius, ArenaR
 
 <div id='id11' />
+
+<br>
 
 ### Paquetes Python
 
