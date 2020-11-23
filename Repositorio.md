@@ -857,6 +857,8 @@ Auto-Weka (https://www.cs.ubc.ca/labs/beta/Projects/autoweka/)
 
 AutoGluon (https://autogluon.mxnet.io/)
 
+AutoGOAL (https://autogoal.github.io/)
+
 MLBox (https://mlbox.readthedocs.io/en/latest/)
 
 TPOT (https://github.com/EpistasisLab/tpot)
