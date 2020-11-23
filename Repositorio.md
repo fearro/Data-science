@@ -216,6 +216,9 @@ AI Institute Geometry of Deep Learning
 * Carnegie Mellon University Course Probabilistic Graphical Models
 (https://sailinglab.github.io/pgm-spring-2019/lectures/)
 
+* Technical University of Munich Course Advanced Deep Learning for Computer Vision
+(https://dvl.in.tum.de/teaching/adl4cv-ws18/)
+
 <br>
 
 ##### Deep Learning
