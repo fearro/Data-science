@@ -207,6 +207,9 @@ AI Institute Geometry of Deep Learning
 * TUM University Course Computer Vision II: Multiple View Geometry
 (https://vision.in.tum.de/teaching/online/mvg)
 
+* Michigan University Course Depp Learning for Computer Vision
+(https://francescopochetti.com/dl-for-computer-vision-justin-johnson-university-of-michigan-learning-pills/)
+
 * Stanford University Course Convolutional Neural Networks for Visual Recognition
 (http://cs231n.stanford.edu/syllabus.html)
 
