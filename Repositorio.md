@@ -474,6 +474,8 @@ Geostadística en R (https://geocompr.robinlovelace.net/)
 
 Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
 
+Big Book of R (libro recopilatorio de libros) (https://www.bigbookofr.com/)
+
 <div id='id6' />
 
 ### Blogs
