@@ -479,6 +479,8 @@ Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
 
 Big Book of R (libro recopilatorio de libros) (https://www.bigbookofr.com/)
 
+Elegant Graphics for Data Analysis with ggplot2 (https://ggplot2-book.org/index.html)
+
 <div id='id6' />
 
 ### Blogs
@@ -775,9 +777,13 @@ plumber, rdocker, cloudml, cloudyr, aws.s3, Paws (AWS), AzureR (familia paquetes
 
 knitr, rmarkdown, shiny, flexdashboard, shinydashboard, shinyauthr
 
+#### WebScrapping
+
+rvest, RSelenium
+
 #### Otros
 
-reticulate, pdftools, tabulizer, tesseract, utils, rvest, onnx, aurelius, ArenaR
+reticulate, pdftools, tabulizer, tesseract, utils, onnx, aurelius, ArenaR, fs
 
 <div id='id11' />
 
@@ -803,7 +809,7 @@ seaborn, bokeh, matplotlib, plotnine, plotly
 
 #### Estadística y Machine Learning/Deep Learning
 
-statsmodels, scikit-learn, pycaret, Keras, Tensorflow, PyTorch, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
+statsmodels, scikit-learn, pycaret, Keras, Tensorflow, PyTorch, xgboost, ngboost, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
 
 #### Series temporales
 
@@ -829,13 +835,17 @@ boto3 (AWS), BentoML
 
 dash, streamlit
 
-#### Otros
+#### WebScrapping
 
-onnx, scrapy, selenium, BeautifulSoup
+BeautifulSoup, scrapy, selenium
 
 ##### GUIs
 
 Gooey, PySimpleGUI, PyGTK, wxPython, PyQT, Tkinter, PySide2
+
+#### Otros
+
+onnx
 
 <div id='id12' />
 
