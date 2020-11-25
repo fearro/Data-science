@@ -553,6 +553,8 @@ Blog Ander Fernández (https://anderfernandez.com/blog/)
 
 Aprender Big Data (https://aprenderbigdata.com/)
 
+Hablando en Data (https://hablandoendata.com/)
+
 #### Inglés
 
 ClaoudML (https://www.claoudml.com/)
