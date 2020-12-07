@@ -19,6 +19,7 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 <div id='id1' />
 
 ### Recursos
+
 Google AI education
 https://ai.google/education/
 
@@ -99,6 +100,8 @@ New Deep Learning Techniques
 
 AI Institute Geometry of Deep Learning
 (https://www.microsoft.com/en-us/research/event/ai-institute-2019/#!videos)
+
+Machine Learning Práctico (https://elsonidoq.github.io/machine-learning-practico/)
 
 <br>
 
