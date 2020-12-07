@@ -807,7 +807,7 @@ SQLAlchemy, pandas, PyMongo
 
 #### Exploración
 
-pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz, funpymodeling, autoplotter
+pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz, funpymodeling, autoplotter, lux
 
 #### Limpieza y manipulación
 
