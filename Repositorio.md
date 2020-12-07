@@ -758,7 +758,7 @@ ggplot2, plotly, ggstatsplot (jjstatsplot con GUI), leaflet, trelliscopejs, esqu
 
 #### Estadística y Machine learning/Deep Learning
 
-infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, tensorflow, keras, xgboost, parsnip, recipes, recommenderlab 
+infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, tensorflow, keras, xgboost, lightgbm, parsnip, recipes, recommenderlab 
 
 #### Series temporales
 
