@@ -95,6 +95,9 @@ Made With ML
 ML in Production
 (http://mlinproduction.com/)
 
+R in Production 
+(https://www.rinproduction.com/en/)
+
 New Deep Learning Techniques
 (http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 
