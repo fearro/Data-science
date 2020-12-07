@@ -835,7 +835,7 @@ boto3 (AWS), BentoML
 
 #### Reporting
 
-dash, streamlit
+dash, streamlit, panel, voilà
 
 #### WebScrapping
 
