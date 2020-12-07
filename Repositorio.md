@@ -559,6 +559,8 @@ Hablando en Data (https://hablandoendata.com/)
 
 Análisis y decisión (https://analisisydecision.es/)
 
+Mis apuntes Data Science (MDS) (https://misapuntesdedatascience.es/)
+
 #### Inglés
 
 ClaoudML (https://www.claoudml.com/)
