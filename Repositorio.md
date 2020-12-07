@@ -100,6 +100,8 @@ New Deep Learning Techniques
 AI Institute Geometry of Deep Learning
 (https://www.microsoft.com/en-us/research/event/ai-institute-2019/#!videos)
 
+<br>
+
 #### Universidades
 
 ##### Statistics, Probability & Data Science
@@ -208,7 +210,7 @@ AI Institute Geometry of Deep Learning
 (https://vision.in.tum.de/teaching/online/mvg)
 
 * Michigan University Course Depp Learning for Computer Vision
-(https://francescopochetti.com/dl-for-computer-vision-justin-johnson-university-of-michigan-learning-pills/)
+(https://francescopochetti.com/dl-for-computer-vision-justin-johnson-university-of-michigan-learning-pills/) (lista videos: https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 * Stanford University Course Convolutional Neural Networks for Visual Recognition
 (http://cs231n.stanford.edu/syllabus.html)
