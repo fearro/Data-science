@@ -18,6 +18,8 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 ***
 <div id='id1' />
 
+<br>
+
 ### Recursos
 
 Google AI education
@@ -313,6 +315,8 @@ Machine Learning Práctico (https://elsonidoq.github.io/machine-learning-practic
 
 <div id='id2' />
 
+<br>
+
 ### Programas/Webs suite
 
 Power BI (https://powerbi.microsoft.com/es-es/)
@@ -365,6 +369,8 @@ MLkit app mobile (https://developers.google.com/ml-kit/)
 
 <div id='id3' />
 
+<br>
+
 ### Datasets
 
 Google Search Dataset
@@ -410,6 +416,8 @@ Visión artificial
 
 <div id='id4' />
 
+<br>
+
 ### APIs
 
 Listado de APIs de Google
@@ -425,6 +433,8 @@ Búscadores de APIs por nombre o temática
 (https://any-api.com/ ; http://apis.io/ ; https://apis.guru/browse-apis/)
 
 <div id='id5' />
+
+<br>
 
 ### Libros y documentos
 
@@ -495,6 +505,8 @@ Deep Learning on Graphs (http://cse.msu.edu/~mayao4/dlg_book/)
 Dive into Deep Learning (https://d2l.ai/d2l-en.pdf)
 
 <div id='id6' />
+
+<br>
 
 ### Blogs
 
@@ -612,6 +624,8 @@ R in Production
 
 <div id='id7' />
 
+<br>
+
 ### Canales de Youtube
 
 Dot CSV
@@ -677,8 +691,9 @@ Workshop on New Directions in Reinforcement Learning and Con
 Theoretical Machine Leraning Lecture Series
 (https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5VLprf2VUfC0h1zOGvV_gz)
 
-
 <div id='id8' />
+
+<br>
 
 ### Plataformas de aprendizaje
 
@@ -713,6 +728,8 @@ PluralSight (www.pluralsight.com)
 Intellipaat (https://intellipaat.com/)
 
 <div id='id9' />
+
+<br>
 
 ### Otros programas/recursos
 
@@ -755,6 +772,8 @@ Galería de gráficos en Python (https://www.python-graph-gallery.com/)
 Página web sobre estadística con R (http://www.sthda.com/english/)
 
 <div id='id10' />
+
+<br>
 
 ### Paquetes R
 
@@ -874,11 +893,15 @@ onnx
 
 <div id='id12' />
 
+<br>
+
 ### Casos de uso
 
 Recomendaciones personalizadas, análisis social media, predicción de ventas, mantenimiento predicitivo, automatización de procesos, detección de fraudes, análisis financiero, servicios asistidos de atención al cliente, procesamiento del lenguaje natural, tratamiento de salud personalizado, traducción, audio y voz.
 
 <div id='id13' />
+
+<br>
 
 ### Automated machine learning
 
