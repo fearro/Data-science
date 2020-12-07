@@ -366,6 +366,7 @@ MLkit app mobile (https://developers.google.com/ml-kit/)
 <div id='id3' />
 
 ### Datasets
+
 Google Search Dataset
 (https://toolbox.google.com/datasetsearch)
 
@@ -482,6 +483,12 @@ Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
 Big Book of R (libro recopilatorio de libros) (https://www.bigbookofr.com/)
 
 Elegant Graphics for Data Analysis with ggplot2 (https://ggplot2-book.org/index.html)
+
+Tidy Modeling with R (https://www.tmwr.org/)
+
+Graph Representation Learning Book (https://www.cs.mcgill.ca/~wlh/grl_book/)
+
+Deep Learning on Graphs (http://cse.msu.edu/~mayao4/dlg_book/)
 
 <div id='id6' />
 
