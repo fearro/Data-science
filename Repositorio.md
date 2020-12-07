@@ -464,6 +464,8 @@ UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 
 Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
 
+Limitations of Interpretable Machine Learning (https://compstat-lmu.github.io/iml_methods_limitations/)
+
 Aprender R: iniciación y perfeccionamiento (http://myrbooksp.netlify.com/)
 
 Interactive web-based data visualization with R, plotly, and shiny (https://plotly-r.com/index.html)
@@ -489,6 +491,8 @@ Tidy Modeling with R (https://www.tmwr.org/)
 Graph Representation Learning Book (https://www.cs.mcgill.ca/~wlh/grl_book/)
 
 Deep Learning on Graphs (http://cse.msu.edu/~mayao4/dlg_book/)
+
+Dive into Deep Learning (https://d2l.ai/d2l-en.pdf)
 
 <div id='id6' />
 
