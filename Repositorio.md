@@ -92,12 +92,6 @@ https://course.elementsofai.com/
 Made With ML
 (https://madewithml.com/)
 
-ML in Production
-(http://mlinproduction.com/)
-
-R in Production 
-(https://www.rinproduction.com/en/)
-
 New Deep Learning Techniques
 (http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 
@@ -563,6 +557,8 @@ Aprender Big Data (https://aprenderbigdata.com/)
 
 Hablando en Data (https://hablandoendata.com/)
 
+Análisis y decisión (https://analisisydecision.es/)
+
 #### Inglés
 
 ClaoudML (https://www.claoudml.com/)
@@ -594,6 +590,12 @@ Open Data Science (https://opendatascience.com/)
 PyImageSearch (https://www.pyimagesearch.com/)
 
 deepwizAI (https://www.deepwizai.com/)
+
+ML in Production
+(http://mlinproduction.com/)
+
+R in Production 
+(https://www.rinproduction.com/en/)
 
 <div id='id7' />
 
