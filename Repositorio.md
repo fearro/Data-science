@@ -520,6 +520,8 @@ Joaquin Amat R (https://rpubs.com/Joaquin_AR)
 
 Ciencia de Datos, Estadística, Visualización y Machine Learning (https://www.cienciadedatos.net/)
 
+Escuela de Datos Vivos (https://blog.escueladedatosvivos.ai/)
+
 Machine Learning para todos (http://machinelearningparatodos.com/blog/)
 
 Foro argentino de R (https://datosenr.org/)
