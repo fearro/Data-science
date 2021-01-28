@@ -373,14 +373,45 @@ MLkit app mobile (https://developers.google.com/ml-kit/)
 
 ### Datasets
 
+#### Imágenes
+
+Google repositorio imágenes etiquetadas (https://storage.googleapis.com/openimages/web/index.html)
+
+Visión artificial (https://www.visualdata.io/)
+
+Biometría (http://openbiometrics.org/)
+
+COCO (https://cocodataset.org/#home)
+
+ImageNet (http://www.image-net.org/)
+
+
+#### Audio
+
+Google repositorio de audio (https://research.google.com/audioset/)
+
+Common Voice (https://commonvoice.mozilla.org/)
+
+
+#### Texto
+
 Google Search Dataset
 (https://toolbox.google.com/datasetsearch)
 
-Google repositorio imágenes etiquetadas
-(https://storage.googleapis.com/openimages/web/index.html)
 
-Google repositorio de audio
-(https://research.google.com/audioset/)
+#### Finanzas
+
+Quandl (https://www.quandl.com/)
+
+
+#### Conducción autónoma
+
+Waymo (https://waymo.com/open/)
+
+KITTI 360 (http://www.cvlibs.net/datasets/kitti-360/)
+
+
+#### Buscadores
 
 Repositorio de la UCI para Machine Learning
 (http://mlr.cs.umass.edu/ml/)
@@ -404,15 +435,6 @@ Portal de datos abiertos Esri España
 
 Búsqueda de repositorios de datos abiertos
 (https://www.re3data.org/)
-
-Datos financieros 
-(https://www.quandl.com/)
-
-Biometría
-(http://openbiometrics.org/)
-
-Visión artificial
-(https://www.visualdata.io/)
 
 <div id='id4' />
 
