@@ -392,11 +392,20 @@ Google repositorio de audio (https://research.google.com/audioset/)
 
 Common Voice (https://commonvoice.mozilla.org/)
 
+VoxForge (http://voxforge.org/es)
+
 
 #### Texto
 
-Google Search Dataset
-(https://toolbox.google.com/datasetsearch)
+The Stanford Question Answering Dataset (https://rajpurkar.github.io/SQuAD-explorer/)
+
+Amazon question/answer data (http://jmcauley.ucsd.edu/data/amazon/qa/)
+
+Recommender Systems Datasets (https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+
+El corpus del español (https://www.corpusdelespanol.org/xs.asp)
+
+MAS Corpus (Corpus for Marketing Analysis in Spanish) (http://mascorpus.linkeddata.es/)
 
 
 #### Finanzas
@@ -412,6 +421,9 @@ KITTI 360 (http://www.cvlibs.net/datasets/kitti-360/)
 
 
 #### Buscadores
+
+Google Search Dataset
+(https://toolbox.google.com/datasetsearch)
 
 Repositorio de la UCI para Machine Learning
 (http://mlr.cs.umass.edu/ml/)
@@ -607,6 +619,8 @@ Hablando en Data (https://hablandoendata.com/)
 Análisis y decisión (https://analisisydecision.es/)
 
 Mis apuntes Data Science (MDS) (https://misapuntesdedatascience.es/)
+
+Hablamos R (https://hablamosr.blogspot.com/)
 
 #### Inglés
 
