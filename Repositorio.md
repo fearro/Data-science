@@ -420,6 +420,25 @@ Waymo (https://waymo.com/open/)
 KITTI 360 (http://www.cvlibs.net/datasets/kitti-360/)
 
 
+#### Datos científicos/investigación
+
+Repositorios de datos recomendados por Scientific Data (https://www.nature.com/sdata/policies/repositories)
+
+Mendeley Data (https://data.mendeley.com/)
+
+Figshare (https://figshare.com/)
+
+Dryad Digital Repository (https://datadryad.org/stash)
+
+Harvard Dataverse (https://dataverse.harvard.edu/)
+
+Open Scientific Framework (https://osf.io/)
+
+Zenodo (https://zenodo.org/)
+
+Open Acces Directory (http://oad.simmons.edu/oadwiki/Data_repositories)
+
+
 #### Buscadores
 
 Google Search Dataset
