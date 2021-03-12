@@ -848,7 +848,11 @@ tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubrida
 
 #### Visualización
 
-ggplot2, plotly, ggstatsplot (jjstatsplot con GUI), leaflet, trelliscopejs, esquisse, ggplotgui, gganimate, ggforce, rayshader, r2d3
+ggplot2, plotly, ggstatsplot (jjstatsplot con GUI), trelliscopejs, esquisse, ggplotgui, gganimate, ggforce, rayshader, r2d3
+
+#### Geoespaciales
+
+sen2r, rgee, sf. sp, raster, rgdal, leaflet, RQGIS3, tmap, rgeos
 
 #### Estadística y Machine learning/Deep Learning
 
@@ -907,6 +911,10 @@ pandas, numpy, scipy, featuretools, feature-engine, featurewiz
 #### Visualización
 
 seaborn, bokeh, matplotlib, plotnine, plotly
+
+#### Geoespaciales
+
+GeoPandas, PyQGIS, GDAL, Folium 
 
 #### Estadística y Machine Learning/Deep Learning
 
