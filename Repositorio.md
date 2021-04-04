@@ -844,7 +844,7 @@ DataExplorer, GGally, summarytools, funModeling, anomalize, correlationfunnel, c
 
 #### Limpieza y manipulación
 
-tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), forcats, janitor, lubridate, stringr, purrr, drake (pipelines)
+tidyr, dplyr, dbplyr, data.table, dtplyr (data.table), datapasta, forcats, janitor, lubridate, stringr, purrr, drake (pipelines)
 
 #### Visualización
 
@@ -852,7 +852,7 @@ ggplot2, plotly, ggstatsplot (jjstatsplot con GUI), trelliscopejs, esquisse, ggp
 
 #### Geoespaciales
 
-sen2r, rgee, sf. sp, raster, rgdal, leaflet, RQGIS3, tmap, rgeos
+sen2r, rgee, sf, sp, raster, rgdal, leaflet, RQGIS3, tmap, rgeos
 
 #### Estadística y Machine learning/Deep Learning
 
@@ -930,11 +930,11 @@ NLTK, Gensim, spaCy, CoreNLP, TextBlob, polyplot
 
 #### Interpretabilidad de modelos
 
-yellowbrick, LIME, ELI5, MLxtend
+yellowbrick, LIME, ELI5, MLxtend, Shapash
 
 #### Paralelización y Big Data
 
-Dask, Vaex, PySpark, optimus, koalas
+Dask, Vaex, modin, PySpark, optimus, koalas
 
 #### Despliegue
 
@@ -991,3 +991,5 @@ H2O AutoML (http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
 TransmogrifAI (https://transmogrif.ai/)
 
 Glaucus (https://github.com/ccnt-glaucus/glaucus)
+
+EvalML (https://github.com/alteryx/evalml)
