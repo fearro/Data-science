@@ -15,6 +15,7 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 11. [Paquetes Python](#id11)
 12. [Casos de uso](#id12)
 13. [Automated machine learning](#id13)
+14. [Embedded machine learning](#id14)
 ***
 <div id='id1' />
 
@@ -993,3 +994,15 @@ TransmogrifAI (https://transmogrif.ai/)
 Glaucus (https://github.com/ccnt-glaucus/glaucus)
 
 EvalML (https://github.com/alteryx/evalml)
+
+<div id='id14' />
+
+<br>
+
+### Embedded Machine Learning
+
+* Introduction to Embedded Machine Learning (https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
+* Tiny Machine Learning (TinyML) (https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+* CS249r: Tiny Machine Learning - Applied Machine Learning for Embedded IoT Devices (https://sites.google.com/g.harvard.edu/tinyml/lectures)
+* Intel® Edge AI Fundamentals with OpenVINO (https://www.udacity.com/course/intel-edge-AI-fundamentals-with-openvino--ud132)
+* Embedded and Distributed AI TEDS20 Spring 2020 (https://www.youtube.com/playlist?list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
