@@ -919,7 +919,7 @@ GeoPandas, PyQGIS, GDAL, Folium
 
 #### Estadística y Machine Learning/Deep Learning
 
-statsmodels, scikit-learn, pycaret, Keras, Tensorflow, PyTorch, xgboost, ngboost, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
+statsmodels, scikit-learn, pycaret, PyOD, Keras, Tensorflow, PyTorch, xgboost, ngboost, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
 
 #### Series temporales
 
