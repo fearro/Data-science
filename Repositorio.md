@@ -943,7 +943,7 @@ boto3 (AWS), BentoML
 
 #### Reporting
 
-dash, streamlit, panel, voilà
+dash, streamlit, panel, voilà, PyWebIO
 
 #### WebScrapping
 
