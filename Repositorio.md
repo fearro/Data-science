@@ -923,7 +923,7 @@ statsmodels, scikit-learn, pycaret, PyOD, Keras, Tensorflow, PyTorch, xgboost, n
 
 #### Series temporales
 
-statsmodels.tsa, Darts, sktime, tslearn, tsfresh, fbprophet, GluonTS, neuralprophet
+statsmodels.tsa, Darts, sktime, AutoTS, tslearn, tsfresh, fbprophet, GluonTS, neuralprophet
 
 #### Procesamiento del lenguaje natural
 
