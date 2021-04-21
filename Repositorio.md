@@ -915,7 +915,7 @@ seaborn, bokeh, matplotlib, plotnine, plotly
 
 #### Geoespaciales
 
-GeoPandas, PyQGIS, GDAL, Folium 
+GeoPandas, PyQGIS, GDAL, Folium, ipyleaflet
 
 #### Estadística y Machine Learning/Deep Learning
 
