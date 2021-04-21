@@ -869,7 +869,7 @@ tidytext, text2vec, quanteda
 
 #### Interpretabilidad de modelos
 
-iml, DALEX, LIME
+iml, DALEX, LIME, shapr
 
 #### Paralelización y Big Data
 
@@ -881,7 +881,7 @@ plumber, rdocker, cloudml, cloudyr, aws.s3, Paws (AWS), AzureR (familia paquetes
 
 #### Reporting
 
-knitr, rmarkdown, shiny, flexdashboard, shinydashboard, shinyauthr
+knitr, rmarkdown, shiny, flexdashboard, shinydashboard, shinymanager, Microsoft365R
 
 #### WebScrapping
 
