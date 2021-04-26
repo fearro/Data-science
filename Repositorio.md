@@ -939,7 +939,7 @@ Dask, Vaex, modin, PySpark, optimus, koalas
 
 #### Despliegue
 
-boto3 (AWS), BentoML
+boto3 (AWS), BentoML, FastAPI, Flask
 
 #### Reporting
 
