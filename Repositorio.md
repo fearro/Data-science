@@ -1002,9 +1002,12 @@ EvalML (https://github.com/alteryx/evalml)
 ### Embedded Machine Learning
 
 * Introduction to Embedded Machine Learning (https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
+* Device-based Models with TensorFlow Lite (https://www.coursera.org/learn/device-based-models-tensorflow)
 * Tiny Machine Learning (TinyML) (https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 * CS249r: Tiny Machine Learning - Applied Machine Learning for Embedded IoT Devices (https://sites.google.com/g.harvard.edu/tinyml/lectures)
+* Intel® Edge AI for IoT Developers (https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)
 * Intel® Edge AI Fundamentals with OpenVINO (https://www.udacity.com/course/intel-edge-AI-fundamentals-with-openvino--ud132)
+* Introduction to TensorFlow Lite (https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 * Embedded and Distributed AI TEDS20 Spring 2020 (https://www.youtube.com/playlist?list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
 * Edge Impulse - Tutorials (https://www.youtube.com/playlist?list=PL7VEa1KauMQp9bQdo2jLlJCdzprWkc7zC)
 * Arduino TensorFlow Lite Tutorials (https://github.com/arduino/ArduinoTensorFlowLiteTutorials/)
