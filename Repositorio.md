@@ -841,7 +841,7 @@ readr, readxl, XML, jsonlite, httr, DBI
 
 #### Exploración
 
-DataExplorer, GGally, summarytools, funModeling, anomalize, correlationfunnel, corrplot 
+DataExplorer, GGally, summarytools, skimr, funModeling, anomalize, correlationfunnel, corrplot 
 
 #### Limpieza y manipulación
 
