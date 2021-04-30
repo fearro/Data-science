@@ -16,6 +16,7 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 12. [Casos de uso](#id12)
 13. [Automated machine learning](#id13)
 14. [Embedded machine learning](#id14)
+15. [Spatial machine learning](#id15)
 ***
 <div id='id1' />
 
@@ -1011,3 +1012,18 @@ EvalML (https://github.com/alteryx/evalml)
 * Embedded and Distributed AI TEDS20 Spring 2020 (https://www.youtube.com/playlist?list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
 * Edge Impulse - Tutorials (https://www.youtube.com/playlist?list=PL7VEa1KauMQp9bQdo2jLlJCdzprWkc7zC)
 * Arduino TensorFlow Lite Tutorials (https://github.com/arduino/ArduinoTensorFlowLiteTutorials/)
+
+
+<div id='id15' />
+
+<br>
+
+### Spatial Machine Learning
+
+* Spatial Data Science and Applications (https://www.coursera.org/learn/spatial-data-science)
+* Spatial Data Science (Luc Anselin, 2017) (https://www.youtube.com/playlist?list=PLzREt6r1Nenlu-MBaxCRL2KZNk62n7o1g)
+* Geographic Data Science (https://darribas.org/gds_course/content/home.html)
+* Spatial Data Science: The New Frontier in Analytics (https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/)
+* Introducing Machine Learning for Spatial Data Analysis (https://www.analyticsvidhya.com/blog/2021/03/introducing-machine-learning-for-spatial-data-analysis/)
+* 
+
