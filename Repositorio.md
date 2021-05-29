@@ -1025,5 +1025,10 @@ EvalML (https://github.com/alteryx/evalml)
 * Geographic Data Science (https://darribas.org/gds_course/content/home.html)
 * Spatial Data Science: The New Frontier in Analytics (https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/)
 * Introducing Machine Learning for Spatial Data Analysis (https://www.analyticsvidhya.com/blog/2021/03/introducing-machine-learning-for-spatial-data-analysis/)
-* 
+
+#### Libros
+
+* Introduction to Spatial Data Programming with R (https://geobgu.xyz/r/index.html)
+* Geocomputation with R (https://geocompr.robinlovelace.net/)
+* Spatial Data Science with applications in R (https://keen-swartz-3146c4.netlify.app/)
 
