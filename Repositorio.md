@@ -854,7 +854,7 @@ ggplot2, plotly, ggstatsplot (jjstatsplot con GUI), trelliscopejs, esquisse, ggp
 
 #### Geoespaciales
 
-sen2r, rgee, sf, sp, raster, rgdal, leaflet, RQGIS3, tmap, rgeos
+sen2r, rgee, ggmap, gstat, spatstat, sf, sp, raster, rgdal, leaflet, RQGIS3, tmap, rgeos
 
 #### Estadística y Machine learning/Deep Learning
 
