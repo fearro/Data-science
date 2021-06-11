@@ -511,6 +511,8 @@ AnalizaR Datos políticos (https://arcruz0.github.io/libroadp/index.html)
 
 Introducción a estadística con R (https://bookdown.org/matiasandina/R-intro/)
 
+Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
+
 
 #### Inglés
 
@@ -520,17 +522,13 @@ Caret Package R (http://topepo.github.io/caret/index.html)
 
 R Base Graphics (http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
 
-Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
+Spatial Data Science with R (http://rspatial.org/index.html)
 
-Tutorial RMarkdown (https://commonmark.org/help/)
-
-Tutorial sobre Datos espaciales con R (http://rspatial.org/index.html)
-
-Predicción series Temporales con R (Second Edition: https://otexts.org/fpp2/; Third Edition: https://otexts.org/fpp3/)
+Forecasting: Principles and Practice (R) (Second Edition: https://otexts.org/fpp2/; Third Edition: https://otexts.org/fpp3/)
 
 Data Science Live Book R (https://livebook.datascienceheroes.com/)
 
-Lenguaje Natural con Python (https://www.nltk.org/book/)
+Natural Language Processing with Python (https://www.nltk.org/book/)
 
 Feature Engineering and Selection (http://www.feat.engineering/)
 
@@ -548,8 +546,6 @@ Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpr
 
 Limitations of Interpretable Machine Learning (https://compstat-lmu.github.io/iml_methods_limitations/)
 
-Aprender R: iniciación y perfeccionamiento (http://myrbooksp.netlify.com/)
-
 Interactive web-based data visualization with R, plotly, and shiny (https://plotly-r.com/index.html)
 
 Mastering Shiny (https://mastering-shiny.org/)
@@ -560,7 +556,7 @@ R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/)
 
 Engineering Production-Grade Shiny Apps (https://engineering-shiny.org/)
 
-Geostadística en R (https://geocompr.robinlovelace.net/)
+Geocomputation with R (https://geocompr.robinlovelace.net/)
 
 Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
 
