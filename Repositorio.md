@@ -493,15 +493,32 @@ Búscadores de APIs por nombre o temática
 
 ### Libros y documentos
 
-R para profesionales (https://www.datanalytics.com/libro_r/)
+#### Español
 
-R Graphics Cookbook (https://r-graphics.org/)
+R para profesionales (https://www.datanalytics.com/libro_r/)
 
 Libro vivo de Ciencia de Datos (https://librovivodecienciadedatos.ai/)
 
-Paquete caret R (http://topepo.github.io/caret/index.html)
+R para Ciencia de Datos (https://es.r4ds.hadley.nz/)
 
-Guía de gráficos base R (http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
+R para principiantes (https://bookdown.org/jboscomendoza/r-principiantes4/)
+
+Manual de R (https://fhernanb.github.io/Manual-de-R/)
+
+Aprender R: Iniciación y Perfeccionamiento (https://myrbooksp.netlify.app/)
+
+AnalizaR Datos políticos (https://arcruz0.github.io/libroadp/index.html)
+
+Introducción a estadística con R (https://bookdown.org/matiasandina/R-intro/)
+
+
+#### Inglés
+
+R Graphics Cookbook (https://r-graphics.org/)
+
+Caret Package R (http://topepo.github.io/caret/index.html)
+
+R Base Graphics (http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
 
 Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
 
