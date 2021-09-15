@@ -925,7 +925,7 @@ pandas, numpy, scipy, featuretools, feature-engine, featurewiz
 
 #### Automatización
 
-PyAutoGUI, AutoPy, rpa, rpaframework 
+PyAutoGUI, AutoPy, rpa, rpaframework, watchdog
 
 #### Visualización
 
