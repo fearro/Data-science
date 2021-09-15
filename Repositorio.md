@@ -923,6 +923,10 @@ pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz, fun
 
 pandas, numpy, scipy, featuretools, feature-engine, featurewiz 
 
+#### Automatización
+
+PyAutoGUI, AutoPy
+
 #### Visualización
 
 seaborn, bokeh, matplotlib, plotnine, plotly
