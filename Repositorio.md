@@ -576,6 +576,8 @@ Data Science in Education using R (https://datascienceineducation.com/)
 
 Outstanding User Interfaces with Shiny (https://unleash-shiny.rinterface.com/index.html)
 
+Elegant and informative maps with tmap (https://r-tmap.github.io/tmap-book/)
+
 <div id='id6' />
 
 <br>
