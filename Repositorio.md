@@ -933,11 +933,11 @@ seaborn, bokeh, matplotlib, plotnine, plotly
 
 #### Geoespaciales
 
-GeoPandas, PyQGIS, GDAL, Folium, ipyleaflet
+GeoPandas, PyQGIS, GDAL, Folium, ipyleaflet, geemap
 
 #### Estadística y Machine Learning/Deep Learning
 
-statsmodels, scikit-learn, pycaret, PyOD, Keras, Tensorflow, PyTorch, xgboost, ngboost, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
+statsmodels, scikit-learn, imbalanced-learn, PyOD, pycaret, Keras, Tensorflow, PyTorch, xgboost, ngboost, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
 
 #### Series temporales
 
@@ -1020,6 +1020,7 @@ EvalML (https://github.com/alteryx/evalml)
 ### Embedded Machine Learning
 
 * Introduction to Embedded Machine Learning (https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
+* Computer Vision with Embedded Machine Learning (https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
 * Device-based Models with TensorFlow Lite (https://www.coursera.org/learn/device-based-models-tensorflow)
 * Tiny Machine Learning (TinyML) (https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 * CS249r: Tiny Machine Learning - Applied Machine Learning for Embedded IoT Devices (https://sites.google.com/g.harvard.edu/tinyml/lectures)
