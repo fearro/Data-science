@@ -921,7 +921,7 @@ pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz, fun
 
 #### Limpieza y manipulación
 
-pandas, numpy, scipy, featuretools, feature-engine, featurewiz 
+pandas, numpy, scipy, featuretools, feature-engine, featurewiz, siuba (R dplyr syntax)
 
 #### Automatización
 
@@ -929,7 +929,7 @@ PyAutoGUI, AutoPy, rpa, rpaframework, watchdog
 
 #### Visualización
 
-seaborn, bokeh, matplotlib, plotnine, plotly
+seaborn, bokeh, matplotlib, plotly, plotnine (R ggplot syntax)
 
 #### Geoespaciales
 
