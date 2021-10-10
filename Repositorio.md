@@ -867,7 +867,7 @@ ggplot2, plotly, ggstatsplot (jjstatsplot con GUI), trelliscopejs, esquisse, ggp
 
 #### Geoespaciales
 
-sen2r, rgee, ggmap, gstat, spatstat, sf, sp, raster, rgdal, leaflet, RQGIS3, tmap, rgeos
+sen2r, rgee, ggmap, gstat, spatstat, sf, sp, raster, rgdal, leaflet, RQGIS3, tmap, rgeos, whiteboxR
 
 #### Estadística y Machine learning/Deep Learning
 
@@ -933,7 +933,7 @@ seaborn, bokeh, matplotlib, plotly, plotnine (R ggplot syntax)
 
 #### Geoespaciales
 
-GeoPandas, PyQGIS, GDAL, Folium, ipyleaflet, geemap
+GeoPandas, PyQGIS, GDAL, Folium, ipyleaflet, geemap, WhiteboxTools
 
 #### Estadística y Machine Learning/Deep Learning
 
