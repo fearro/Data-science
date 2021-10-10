@@ -572,6 +572,8 @@ Deep Learning on Graphs (http://cse.msu.edu/~mayao4/dlg_book/)
 
 Dive into Deep Learning (https://d2l.ai/d2l-en.pdf)
 
+Data Science in Education using R (https://datascienceineducation.com/)
+
 <div id='id6' />
 
 <br>
