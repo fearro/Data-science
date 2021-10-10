@@ -947,6 +947,10 @@ statsmodels.tsa, Darts, sktime, AutoTS, tslearn, tsfresh, fbprophet, GluonTS, ne
 
 NLTK, Gensim, spaCy, CoreNLP, TextBlob, polyplot
 
+### Aprendizaje Profundo
+
+Tensorforce, TFAgents, RLlib, Stable Baselines, RL_Coach, Coax
+
 #### Interpretabilidad de modelos
 
 yellowbrick, LIME, ELI5, MLxtend, Shapash
