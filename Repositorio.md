@@ -574,6 +574,8 @@ Dive into Deep Learning (https://d2l.ai/d2l-en.pdf)
 
 Data Science in Education using R (https://datascienceineducation.com/)
 
+Outstanding User Interfaces with Shiny (https://unleash-shiny.rinterface.com/index.html)
+
 <div id='id6' />
 
 <br>
@@ -935,7 +937,7 @@ seaborn, bokeh, matplotlib, plotly, plotnine (R ggplot syntax)
 
 #### Geoespaciales
 
-GeoPandas, PyQGIS, GDAL, Folium, ipyleaflet, geemap, WhiteboxTools
+GeoPandas, PyQGIS, GDAL, Folium, ipyleaflet, geemap, WhiteboxTools, leafmap
 
 #### Estadística y Machine Learning/Deep Learning
 
