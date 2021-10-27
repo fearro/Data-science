@@ -441,6 +441,21 @@ Zenodo (https://zenodo.org/)
 Open Acces Directory (http://oad.simmons.edu/oadwiki/Data_repositories)
 
 
+#### UAVs / Drones
+
+Open Aerial Map (https://openaerialmap.org/)
+
+Semantic Drone Dataset (https://www.tugraz.at/index.php?id=22387)
+
+SenseFly Datasets (https://www.sensefly.com/education/datasets/)
+
+VisDrone Dataset (https://github.com/VisDrone/VisDrone-Dataset)
+
+UAVid (https://uavid.nl/)
+
+Rice Seedling Dataset (https://github.com/aipal-nchu/RiceSeedlingDataset)
+
+
 #### Buscadores
 
 Google Search Dataset
