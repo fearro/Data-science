@@ -387,6 +387,7 @@ COCO (https://cocodataset.org/#home)
 
 ImageNet (http://www.image-net.org/)
 
+<br>
 
 #### Audio
 
@@ -396,6 +397,7 @@ Common Voice (https://commonvoice.mozilla.org/)
 
 VoxForge (http://voxforge.org/es)
 
+<br>
 
 #### Texto
 
@@ -409,11 +411,13 @@ El corpus del español (https://www.corpusdelespanol.org/xs.asp)
 
 MAS Corpus (Corpus for Marketing Analysis in Spanish) (http://mascorpus.linkeddata.es/)
 
+<br>
 
 #### Finanzas
 
 Quandl (https://www.quandl.com/)
 
+<br>
 
 #### Conducción autónoma
 
@@ -421,6 +425,7 @@ Waymo (https://waymo.com/open/)
 
 KITTI 360 (http://www.cvlibs.net/datasets/kitti-360/)
 
+<br>
 
 #### Datos científicos/investigación
 
@@ -440,6 +445,7 @@ Zenodo (https://zenodo.org/)
 
 Open Acces Directory (http://oad.simmons.edu/oadwiki/Data_repositories)
 
+<br>
 
 #### UAVs / Drones
 
@@ -455,6 +461,7 @@ UAVid (https://uavid.nl/)
 
 Rice Seedling Dataset (https://github.com/aipal-nchu/RiceSeedlingDataset)
 
+<br>
 
 #### Buscadores
 
