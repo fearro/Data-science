@@ -463,6 +463,42 @@ Rice Seedling Dataset (https://github.com/aipal-nchu/RiceSeedlingDataset)
 
 <br>
 
+#### Agricultura de precisión
+
+Plant Pathology 2021 - FGVC8 (https://www.kaggle.com/c/plant-pathology-2021-fgvc8/overview)
+
+PlantVillage Dataset (https://www.kaggle.com/abdallahalidev/plantvillage-dataset)
+
+PlantDoc: A Dataset for Visual Plant Disease Detection (https://github.com/pratikkayal/PlantDoc-Dataset)
+
+Plants_Dataset[99 classes] (https://www.kaggle.com/muhammadjawad1998/plants-dataset99-classes)
+
+V2 Plant Seedlings Dataset (https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset)
+
+Eden Library (https://edenlibrary.ai/datasets)
+
+A Crop/Weed Field Image Dataset (https://github.com/cwfid/dataset)
+
+Identification of Plant Leaf Diseases (https://data.mendeley.com/datasets/tywbtsjrjv/1)
+
+Potato Disease Leaf Dataset(PLD) (https://www.kaggle.com/rizwan123456789/potato-disease-leaf-datasetpld)
+
+Potato and weeds (https://www.kaggle.com/jchrysanthemum/potato-and-weeds)
+
+Cucumber plant diseases dataset (https://www.kaggle.com/kareem3egm/cucumber-plant-diseases-dataset)
+
+Rice Leaf Diseases Dataset (https://www.kaggle.com/vbookshelf/rice-leaf-diseases)
+
+Rice Plant Dataset (https://www.kaggle.com/rajkumar898/rice-plant-dataset)
+
+Tomato Cultivars (https://www.kaggle.com/olgabelitskaya/tomato-cultivars)
+
+Plant semantic segmentation (https://www.kaggle.com/humansintheloop/plant-semantic-segmentation)
+
+Synthetic RGB-D data for plant segmentation (https://www.kaggle.com/harlequeen/synthetic-rgbd-images-of-plants)
+
+<br>
+
 #### Buscadores
 
 Google Search Dataset
