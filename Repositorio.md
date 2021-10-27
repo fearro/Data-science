@@ -477,6 +477,8 @@ V2 Plant Seedlings Dataset (https://www.kaggle.com/vbookshelf/v2-plant-seedlings
 
 Eden Library (https://edenlibrary.ai/datasets)
 
+Pl@ntNet - Base de datos e identificación de plantas (https://identify.plantnet.org/es)
+
 A Crop/Weed Field Image Dataset (https://github.com/cwfid/dataset)
 
 Identification of Plant Leaf Diseases (https://data.mendeley.com/datasets/tywbtsjrjv/1)
