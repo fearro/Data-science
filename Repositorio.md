@@ -483,9 +483,21 @@ A Crop/Weed Field Image Dataset (https://github.com/cwfid/dataset)
 
 Identification of Plant Leaf Diseases (https://data.mendeley.com/datasets/tywbtsjrjv/1)
 
+Perrenial Plants Detection (https://www.kaggle.com/benediktgeisler/perrenial-plants-detection)
+
+Global Wheat Challenge 2021 (https://www.kaggle.com/bendvd/global-wheat-challenge-2021)
+
+Flower Recognition (https://www.kaggle.com/aymenktari/flowerrecognition)
+
 Potato Disease Leaf Dataset(PLD) (https://www.kaggle.com/rizwan123456789/potato-disease-leaf-datasetpld)
 
 Potato and weeds (https://www.kaggle.com/jchrysanthemum/potato-and-weeds)
+
+Potato Plants Dataset (https://www.kaggle.com/ali7432/potato-plants-dataset)
+
+Potato Leaf Annotation (https://www.kaggle.com/rizwan123456789/potato-leaf-annotation)
+
+Cotton-Diseased or Fresh (https://www.kaggle.com/ananysharma/diseasecotton)
 
 Cucumber plant diseases dataset (https://www.kaggle.com/kareem3egm/cucumber-plant-diseases-dataset)
 
@@ -495,9 +507,19 @@ Rice Plant Dataset (https://www.kaggle.com/rajkumar898/rice-plant-dataset)
 
 Tomato Cultivars (https://www.kaggle.com/olgabelitskaya/tomato-cultivars)
 
+AppleScabFDs (https://www.kaggle.com/projectlzp201910094/applescabfds)
+
+AppleScabLDs (https://www.kaggle.com/projectlzp201910094/applescablds)
+
+Hops Classification (https://www.kaggle.com/scruggzilla/hops-classification)
+
 Plant semantic segmentation (https://www.kaggle.com/humansintheloop/plant-semantic-segmentation)
 
 Synthetic RGB-D data for plant segmentation (https://www.kaggle.com/harlequeen/synthetic-rgbd-images-of-plants)
+
+Synthetic RGB Data for Grapevine Detection (https://www.kaggle.com/carmenca/synthetic-rgb-data-for-grapevine-detection)
+
+Leaf disease segmentation dataset (https://www.kaggle.com/fakhrealam9537/leaf-disease-segmentation-dataset)
 
 <br>
 
