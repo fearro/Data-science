@@ -660,6 +660,8 @@ Outstanding User Interfaces with Shiny (https://unleash-shiny.rinterface.com/ind
 
 Elegant and informative maps with tmap (https://r-tmap.github.io/tmap-book/)
 
+YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/)
+
 <div id='id6' />
 
 <br>
