@@ -1055,7 +1055,7 @@ boto3 (AWS), BentoML, FastAPI, Flask
 
 #### Reporting
 
-dash, streamlit, gradio, panel, voilà, PyWebIO
+dash, streamlit, gradio, panel, voilà, PyWebIO, mia
 
 #### WebScrapping
 
