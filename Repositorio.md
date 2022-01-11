@@ -16,7 +16,7 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 12. [Casos de uso](#id12)
 13. [Automated machine learning](#id13)
 14. [Embedded machine learning](#id14)
-15. [Spatial machine learning](#id15)
+15. [Spatial Data Science / Machine Learning](#id15)
 ***
 <div id='id1' />
 
