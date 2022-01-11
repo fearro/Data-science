@@ -593,6 +593,8 @@ AnalizaR Datos políticos (https://arcruz0.github.io/libroadp/index.html)
 
 Introducción a estadística con R (https://bookdown.org/matiasandina/R-intro/)
 
+Introducción a la Estadística para Científicos de Datos (https://analisisydecision.es/estadistica-data-scientist/)
+
 Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
 
 Interpretable Machine Learning *Black Box (Spanish Edition) (https://fedefliguer.github.io/AAI/)
@@ -606,9 +608,9 @@ Caret Package R (http://topepo.github.io/caret/index.html)
 
 R Base Graphics (http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
 
-Spatial Data Science with R (http://rspatial.org/index.html)
-
 Forecasting: Principles and Practice (R) (Second Edition: https://otexts.org/fpp2/; Third Edition: https://otexts.org/fpp3/)
+
+Forecasting and Analytics with ADAM (https://openforecast.org/adam/)
 
 Data Science Live Book R (https://livebook.datascienceheroes.com/)
 
@@ -1037,7 +1039,7 @@ statsmodels, scikit-learn, imbalanced-learn, PyOD, pycaret, Keras, Tensorflow, P
 
 #### Series temporales
 
-statsmodels.tsa, Darts, sktime, AutoTS, tslearn, tsfresh, fbprophet, GluonTS, neuralprophet
+statsmodels.tsa, Darts, sktime, skforecast, Kats, AutoTS, tslearn, tsfresh, fbprophet, GluonTS, neuralprophet
 
 #### Procesamiento del lenguaje natural
 
@@ -1140,6 +1142,7 @@ EvalML (https://github.com/alteryx/evalml)
 ### Spatial Machine Learning
 
 * Spatial Data Science and Applications (https://www.coursera.org/learn/spatial-data-science)
+* Spatial Data Science with R (http://rspatial.org/index.html)
 * Spatial Data Science (Luc Anselin, 2017) (https://www.youtube.com/playlist?list=PLzREt6r1Nenlu-MBaxCRL2KZNk62n7o1g)
 * Geographic Data Science (https://darribas.org/gds_course/content/home.html)
 * Spatial Data Science: The New Frontier in Analytics (https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/)
