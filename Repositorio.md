@@ -595,6 +595,8 @@ Introducción a estadística con R (https://bookdown.org/matiasandina/R-intro/)
 
 Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
 
+Interpretable Machine Learning *Black Box (Spanish Edition) (https://fedefliguer.github.io/AAI/)
+
 
 #### Inglés
 
@@ -661,6 +663,10 @@ Outstanding User Interfaces with Shiny (https://unleash-shiny.rinterface.com/ind
 Elegant and informative maps with tmap (https://r-tmap.github.io/tmap-book/)
 
 YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/)
+
+Apache Arrow R Cookbook (https://arrow.apache.org/cookbook/r/index.html)
+
+Statistical rethinking with brms, ggplot2, and the tidyverse: Second edition (https://bookdown.org/content/4857/)
 
 <div id='id6' />
 
@@ -961,7 +967,7 @@ sen2r, rgee, ggmap, gstat, spatstat, sf, sp, raster, rgdal, leaflet, RQGIS3, tma
 
 #### Estadística y Machine learning/Deep Learning
 
-infer, rstatix, tidymodels, caret, mlr, h2o, glmnet, tensorflow, keras, xgboost, lightgbm, parsnip, recipes, recommenderlab 
+infer, rstatix, tidymodels, stacks, caret, mlr, h2o, glmnet, tensorflow, keras, xgboost, lightgbm, parsnip, recipes, recommenderlab 
 
 #### Series temporales
 
