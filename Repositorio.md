@@ -577,27 +577,27 @@ Búscadores de APIs por nombre o temática
 
 #### Español
 
-R para profesionales (https://www.datanalytics.com/libro_r/)
-
-Libro vivo de Ciencia de Datos (https://librovivodecienciadedatos.ai/)
-
-R para Ciencia de Datos (https://es.r4ds.hadley.nz/)
-
-R para principiantes (https://bookdown.org/jboscomendoza/r-principiantes4/)
-
-Manual de R (https://fhernanb.github.io/Manual-de-R/)
-
 Aprender R: Iniciación y Perfeccionamiento (https://myrbooksp.netlify.app/)
 
 AnalizaR Datos políticos (https://arcruz0.github.io/libroadp/index.html)
+
+Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
+
+Interpretable Machine Learning *Black Box (Spanish Edition) (https://fedefliguer.github.io/AAI/)
 
 Introducción a estadística con R (https://bookdown.org/matiasandina/R-intro/)
 
 Introducción a la Estadística para Científicos de Datos (https://analisisydecision.es/estadistica-data-scientist/)
 
-Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
+Libro vivo de Ciencia de Datos (https://librovivodecienciadedatos.ai/)
 
-Interpretable Machine Learning *Black Box (Spanish Edition) (https://fedefliguer.github.io/AAI/)
+Manual de R (https://fhernanb.github.io/Manual-de-R/)
+
+R para Ciencia de Datos (https://es.r4ds.hadley.nz/)
+
+R para principiantes (https://bookdown.org/jboscomendoza/r-principiantes4/)
+
+R para profesionales (https://www.datanalytics.com/libro_r/)
 
 
 #### Inglés
