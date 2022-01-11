@@ -602,73 +602,75 @@ Interpretable Machine Learning *Black Box (Spanish Edition) (https://fedefliguer
 
 #### Inglés
 
-R Graphics Cookbook (https://r-graphics.org/)
-
-Caret Package R (http://topepo.github.io/caret/index.html)
-
-R Base Graphics (http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
-
-Forecasting: Principles and Practice (R) (Second Edition: https://otexts.org/fpp2/; Third Edition: https://otexts.org/fpp3/)
-
-Forecasting and Analytics with ADAM (https://openforecast.org/adam/)
-
-Data Science Live Book R (https://livebook.datascienceheroes.com/)
-
-Natural Language Processing with Python (https://www.nltk.org/book/)
-
-Feature Engineering and Selection (http://www.feat.engineering/)
-
-Deep Learning MIT Press book (https://www.deeplearningbook.org/)
-
-The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
-
-Machine Learning Engineering Book (http://www.mlebook.com/wiki/doku.php)
-
-The Data Engineering Cookbook (https://github.com/andkret/Cookbook)
-
-UC Business Analytics R Programming Guide (http://uc-r.github.io/)
-
-Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
-
-Limitations of Interpretable Machine Learning (https://compstat-lmu.github.io/iml_methods_limitations/)
-
-Interactive web-based data visualization with R, plotly, and shiny (https://plotly-r.com/index.html)
-
-Mastering Shiny (https://mastering-shiny.org/)
-
-Mastering Spark with R (https://therinspark.com/)
-
-R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/)
-
-Engineering Production-Grade Shiny Apps (https://engineering-shiny.org/)
-
-Geocomputation with R (https://geocompr.robinlovelace.net/)
-
-Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
+Apache Arrow R Cookbook (https://arrow.apache.org/cookbook/r/index.html)
 
 Big Book of R (libro recopilatorio de libros) (https://www.bigbookofr.com/)
 
-Elegant Graphics for Data Analysis with ggplot2 (https://ggplot2-book.org/index.html)
+Caret Package R (http://topepo.github.io/caret/index.html)
 
-Tidy Modeling with R (https://www.tmwr.org/)
+Data Science in Education using R (https://datascienceineducation.com/)
 
-Graph Representation Learning Book (https://www.cs.mcgill.ca/~wlh/grl_book/)
+Data Science Live Book R (https://livebook.datascienceheroes.com/)
+
+Deep Learning MIT Press book (https://www.deeplearningbook.org/)
 
 Deep Learning on Graphs (http://cse.msu.edu/~mayao4/dlg_book/)
 
 Dive into Deep Learning (https://d2l.ai/d2l-en.pdf)
 
-Data Science in Education using R (https://datascienceineducation.com/)
+Elegant and informative maps with tmap (https://r-tmap.github.io/tmap-book/)
+
+Elegant Graphics for Data Analysis with ggplot2 (https://ggplot2-book.org/index.html)
+
+Engineering Production-Grade Shiny Apps (https://engineering-shiny.org/)
+
+Feature Engineering and Selection (http://www.feat.engineering/)
+
+Forecasting and Analytics with ADAM (https://openforecast.org/adam/)
+
+Forecasting: Principles and Practice (R) (Second Edition: https://otexts.org/fpp2/; Third Edition: https://otexts.org/fpp3/)
+
+Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
+
+Geocomputation with R (https://geocompr.robinlovelace.net/)
+
+Graph Representation Learning Book (https://www.cs.mcgill.ca/~wlh/grl_book/)
+
+Interactive web-based data visualization with R, plotly, and shiny (https://plotly-r.com/index.html)
+
+Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
+
+Limitations of Interpretable Machine Learning (https://compstat-lmu.github.io/iml_methods_limitations/)
+
+Machine Learning Engineering Book (http://www.mlebook.com/wiki/doku.php)
+
+Mastering Spark with R (https://therinspark.com/)
+
+Mastering Shiny (https://mastering-shiny.org/)
+
+Modern R with the tidyverse (https://b-rodrigues.github.io/modern_R/)
+
+Natural Language Processing with Python (https://www.nltk.org/book/)
 
 Outstanding User Interfaces with Shiny (https://unleash-shiny.rinterface.com/index.html)
 
-Elegant and informative maps with tmap (https://r-tmap.github.io/tmap-book/)
+R Base Graphics (http://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)
 
-YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/)
+R Graphics Cookbook (https://r-graphics.org/)
 
-Apache Arrow R Cookbook (https://arrow.apache.org/cookbook/r/index.html)
+R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/)
 
 Statistical rethinking with brms, ggplot2, and the tidyverse: Second edition (https://bookdown.org/content/4857/)
+
+The Data Engineering Cookbook (https://github.com/andkret/Cookbook)
+
+The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
+
+Tidy Modeling with R (https://www.tmwr.org/)
+
+UC Business Analytics R Programming Guide (http://uc-r.github.io/)
+
+YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/)
 
 <div id='id6' />
 
