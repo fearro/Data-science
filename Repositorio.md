@@ -616,7 +616,7 @@ Deep Learning MIT Press book (https://www.deeplearningbook.org/)
 
 Deep Learning on Graphs (http://cse.msu.edu/~mayao4/dlg_book/)
 
-Dive into Deep Learning (https://d2l.ai/d2l-en.pdf)
+Dive into Deep Learning (https://d2l.ai/)
 
 Elegant and informative maps with tmap (https://r-tmap.github.io/tmap-book/)
 
