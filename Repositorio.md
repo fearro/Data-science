@@ -481,6 +481,8 @@ Pl@ntNet - Base de datos e identificación de plantas (https://identify.plantnet
 
 A Crop/Weed Field Image Dataset (https://github.com/cwfid/dataset)
 
+DeepWeeds (https://github.com/AlexOlsen/DeepWeeds)
+
 Identification of Plant Leaf Diseases (https://data.mendeley.com/datasets/tywbtsjrjv/1)
 
 Perrenial Plants Detection (https://www.kaggle.com/benediktgeisler/perrenial-plants-detection)
