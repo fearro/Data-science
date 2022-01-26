@@ -445,6 +445,8 @@ Zenodo (https://zenodo.org/)
 
 Open Acces Directory (http://oad.simmons.edu/oadwiki/Data_repositories)
 
+IEEE DataPort (https://ieee-dataport.org/datasets)
+
 <br>
 
 #### UAVs / Drones
@@ -522,6 +524,12 @@ Synthetic RGB-D data for plant segmentation (https://www.kaggle.com/harlequeen/s
 Synthetic RGB Data for Grapevine Detection (https://www.kaggle.com/carmenca/synthetic-rgb-data-for-grapevine-detection)
 
 Leaf disease segmentation dataset (https://www.kaggle.com/fakhrealam9537/leaf-disease-segmentation-dataset)
+
+<br>
+
+#### Ganadería de precisión
+
+Animal Pose (vaca/oveja/caballo) (https://sites.google.com/view/animal-pose/)
 
 <br>
 
