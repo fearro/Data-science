@@ -568,7 +568,23 @@ Búsqueda de repositorios de datos abiertos
 
 ### Modelos Preentrenados
 
+Model Zoo (https://modelzoo.co/)
 
+Tensorflow Model Garden (https://github.com/tensorflow/models)
+
+Tensorflow Hub (https://tfhub.dev/)
+
+MediaPipe Models (https://google.github.io/mediapipe/solutions/models)
+
+Piinto Model Zoo (https://github.com/PINTO0309/PINTO_model_zoo)
+
+ONNX Model Zoo (https://github.com/onnx/models)
+
+Jetson Zoo (https://www.elinux.org/Jetson_Zoo#Model_Zoo)
+
+Awesome CoreML Models (iOS Apple) (https://github.com/likedan/Awesome-CoreML-Models)
+
+Open Model Zoo (https://github.com/openvinotoolkit/open_model_zoo)
 
 <div id='id5' />
 
