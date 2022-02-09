@@ -1010,7 +1010,7 @@ infer, rstatix, tidymodels, stacks, caret, mlr, h2o, glmnet, tensorflow, keras, 
 
 #### Series temporales
 
-forecast, fable, timetk, maltese, modeltime, modeltime.ensemble, modeltime.gluonts, prophet
+forecast, fable, feasts, timetk, maltese, modeltime, modeltime.ensemble, modeltime.gluonts, prophet
 
 #### Procesamiento del lenguaje natural
 
