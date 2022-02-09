@@ -5,18 +5,19 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 1. [Recursos](#id1)
 2. [Programas/Webs suite](#id2)
 3. [Datasets](#id3)
-4. [APIs](#id4)
-5. [Libros y documentos](#id5)
-6. [Blogs](#id6)
-7. [Canales de Youtube](#id7)
-8. [Plataformas de aprendizaje](#id8)
-9. [Otros programas/recursos](#id9)
-10. [Paquetes R](#id10)
-11. [Paquetes Python](#id11)
-12. [Casos de uso](#id12)
-13. [Automated machine learning](#id13)
-14. [Embedded machine learning](#id14)
-15. [Spatial Data Science / Machine Learning](#id15)
+4. [Modelos preentrenados](#id4)
+5. [APIs](#id5)
+6. [Libros y documentos](#id6)
+7. [Blogs](#id7)
+8. [Canales de Youtube](#id8)
+9. [Plataformas de aprendizaje](#id9)
+10. [Otros programas/recursos](#id10)
+11. [Paquetes R](#id11)
+12. [Paquetes Python](#id12)
+13. [Casos de uso](#id13)
+14. [Automated machine learning](#id14)
+15. [Embedded machine learning](#id15)
+16. [Spatial Data Science / Machine Learning](#id16)
 ***
 <div id='id1' />
 
@@ -565,6 +566,14 @@ Búsqueda de repositorios de datos abiertos
 
 <br>
 
+### Modelos Preentrenados
+
+
+
+<div id='id5' />
+
+<br>
+
 ### APIs
 
 Listado de APIs de Google
@@ -579,7 +588,7 @@ Listado de APIs de Microsoft
 Búscadores de APIs por nombre o temática
 (https://any-api.com/ ; http://apis.io/ ; https://apis.guru/browse-apis/)
 
-<div id='id5' />
+<div id='id6' />
 
 <br>
 
@@ -682,7 +691,7 @@ UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 
 YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/)
 
-<div id='id6' />
+<div id='id7' />
 
 <br>
 
@@ -804,7 +813,7 @@ ML in Production
 R in Production 
 (https://www.rinproduction.com/en/)
 
-<div id='id7' />
+<div id='id8' />
 
 <br>
 
@@ -873,7 +882,7 @@ Workshop on New Directions in Reinforcement Learning and Con
 Theoretical Machine Leraning Lecture Series
 (https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5VLprf2VUfC0h1zOGvV_gz)
 
-<div id='id8' />
+<div id='id9' />
 
 <br>
 
@@ -909,7 +918,7 @@ PluralSight (www.pluralsight.com)
 
 Intellipaat (https://intellipaat.com/)
 
-<div id='id9' />
+<div id='id10' />
 
 <br>
 
@@ -953,7 +962,7 @@ Galería de gráficos en Python (https://www.python-graph-gallery.com/)
 
 Página web sobre estadística con R (http://www.sthda.com/english/)
 
-<div id='id10' />
+<div id='id11' />
 
 <br>
 
@@ -1015,7 +1024,7 @@ rvest, RSelenium
 
 reticulate, pdftools, tabulizer, tesseract, utils, onnx, aurelius, ArenaR, fs
 
-<div id='id11' />
+<div id='id12' />
 
 <br>
 
@@ -1089,7 +1098,7 @@ Gooey, PySimpleGUI, PyGTK, wxPython, PyQT, Tkinter, PySide2
 
 onnx
 
-<div id='id12' />
+<div id='id13' />
 
 <br>
 
@@ -1097,7 +1106,7 @@ onnx
 
 Recomendaciones personalizadas, análisis social media, predicción de ventas, mantenimiento predicitivo, automatización de procesos, detección de fraudes, análisis financiero, servicios asistidos de atención al cliente, procesamiento del lenguaje natural, tratamiento de salud personalizado, traducción, audio y voz.
 
-<div id='id13' />
+<div id='id14' />
 
 <br>
 
@@ -1127,7 +1136,7 @@ Glaucus (https://github.com/ccnt-glaucus/glaucus)
 
 EvalML (https://github.com/alteryx/evalml)
 
-<div id='id14' />
+<div id='id15' />
 
 <br>
 
@@ -1147,7 +1156,7 @@ EvalML (https://github.com/alteryx/evalml)
 * Arduino TensorFlow Lite Tutorials (https://github.com/arduino/ArduinoTensorFlowLiteTutorials/)
 
 
-<div id='id15' />
+<div id='id16' />
 
 <br>
 
