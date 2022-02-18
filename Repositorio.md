@@ -1006,7 +1006,7 @@ sen2r, rgee, ggmap, gstat, spatstat, sf, sp, raster, rgdal, leaflet, RQGIS3, tma
 
 #### Estadística y Machine learning/Deep Learning
 
-infer, rstatix, tidymodels, stacks, caret, mlr, h2o, glmnet, tensorflow, keras, xgboost, lightgbm, parsnip, recipes, recommenderlab 
+infer, rstatix, tidymodels, stacks, caret, mlr, h2o, glmnet, tensorflow, keras, ruta (unsupervised DL), xgboost, lightgbm, parsnip, recipes, recommenderlab 
 
 #### Series temporales
 
