@@ -1018,7 +1018,7 @@ tidytext, text2vec, quanteda
 
 #### Interpretabilidad de modelos
 
-iml, DALEX, LIME, shapr
+iml, DALEX, LIME, shapr, modelStudio (interactive dashboard), DrWhy.AI
 
 #### Paralelización y Big Data
 
@@ -1088,7 +1088,7 @@ Tensorforce, TFAgents, RLlib, Stable Baselines, RL_Coach, Coax
 
 #### Interpretabilidad de modelos
 
-yellowbrick, LIME, ELI5, MLxtend, Shapash
+yellowbrick, LIME, ELI5, MLxtend, Shapash, DrWhy.AI
 
 #### Paralelización y Big Data
 
