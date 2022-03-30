@@ -1172,6 +1172,12 @@ EvalML (https://github.com/alteryx/evalml)
 * Arduino TensorFlow Lite Tutorials (https://github.com/arduino/ArduinoTensorFlowLiteTutorials/)
 
 
+#### Optimización de modelos para dipositivos embebidos (edge devices) (arduino, raspberry pi, Jetson Nano, ESP32, móviles....)
+
+* Tensorflow Lite Optimization (https://www.tensorflow.org/model_optimization)
+* TensorRT optimization (https://developer.nvidia.com/tensorrt)
+* OpenVINO optimization (https://docs.openvino.ai/latest/openvino_docs_model_optimization_guide.html#doxid-openvino-docs-model-optimization-guide)
+
 <div id='id16' />
 
 <br>
