@@ -1052,7 +1052,7 @@ SQLAlchemy, pandas, PyMongo
 
 #### Exploración
 
-pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz, funpymodeling, autoplotter, lux, mito
+pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz, funpymodeling, autoplotter, lux, mito, QuickDA
 
 #### Limpieza y manipulación
 
@@ -1127,6 +1127,8 @@ Recomendaciones personalizadas, análisis social media, predicción de ventas, m
 <br>
 
 ### Automated machine learning
+
+LazyPredict (https://lazypredict.readthedocs.io/en/latest/index.html)
 
 AutoML (https://cloud.google.com/automl/?hl=es-419)
 
