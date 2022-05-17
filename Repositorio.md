@@ -526,6 +526,8 @@ Synthetic RGB Data for Grapevine Detection (https://www.kaggle.com/carmenca/synt
 
 Leaf disease segmentation dataset (https://www.kaggle.com/fakhrealam9537/leaf-disease-segmentation-dataset)
 
+Weed-AI Datasets (https://weed-ai.sydney.edu.au/datasets)
+
 <br>
 
 #### Ganadería de precisión
