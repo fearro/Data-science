@@ -588,6 +588,8 @@ Awesome CoreML Models (iOS Apple) (https://github.com/likedan/Awesome-CoreML-Mod
 
 Open Model Zoo (https://github.com/openvinotoolkit/open_model_zoo)
 
+YOLO v3 y otros detectores (https://pjreddie.com/darknet/yolo/)
+
 <div id='id5' />
 
 <br>
