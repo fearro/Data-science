@@ -532,6 +532,14 @@ Leaf disease segmentation dataset (https://www.kaggle.com/fakhrealam9537/leaf-di
 
 Weed-AI Datasets (https://weed-ai.sydney.edu.au/datasets)
 
+Plant Phenotyping Datasets (https://www.plant-phenotyping.org/datasets-home)
+
+MinneApple: A Benchmark Dataset for Apple Detection and Segmentation (https://github.com/nicolaihaeni/MinneApple)
+
+Embrapa Wine Grape Instance Segmentation Dataset (https://github.com/thsant/wgisd)
+
+A Large-Scale Benchmark Dataset for Insect Pest Recognition (https://github.com/xpwu95/IP102)
+
 <br>
 
 #### Ganadería de precisión
