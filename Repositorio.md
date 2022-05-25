@@ -420,11 +420,15 @@ Quandl (https://www.quandl.com/)
 
 <br>
 
-#### Conducción autónoma
+#### Conducción autónoma y coches
 
 Waymo (https://waymo.com/open/)
 
 KITTI 360 (http://www.cvlibs.net/datasets/kitti-360/)
+
+CompCars Dataset (https://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
+
+Stanford Cars Dataset (https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
 <br>
 
