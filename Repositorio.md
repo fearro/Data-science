@@ -546,7 +546,7 @@ A Large-Scale Benchmark Dataset for Insect Pest Recognition (https://github.com/
 
 Animal Pose (vaca/oveja/caballo) (https://sites.google.com/view/animal-pose/)
 
-AwA Pose Dataset (https://github.com/prinik/AwA-Pose)
+AwA Pose Dataset (vaca/oveja/caballo/cerdo) (https://github.com/prinik/AwA-Pose)
 
 <br>
 
