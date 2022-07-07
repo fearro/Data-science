@@ -18,6 +18,7 @@ Recopilatorio de materiales relacionados con Data Science, Machine Learning, Dee
 14. [Automated machine learning](#id14)
 15. [Embedded machine learning](#id15)
 16. [Spatial Data Science / Machine Learning](#id16)
+17. [Herramientas de Anotación](#id17)
 ***
 <div id='id1' />
 
@@ -1222,4 +1223,14 @@ EvalML (https://github.com/alteryx/evalml)
 * Introduction to Spatial Data Programming with R (https://geobgu.xyz/r/index.html)
 * Geocomputation with R (https://geocompr.robinlovelace.net/)
 * Spatial Data Science with applications in R (https://keen-swartz-3146c4.netlify.app/)
+
+<div id='id17' />
+
+<br>
+
+### Herramientas de Anotación
+
+* Labelbox (https://labelbox.com/)
+* LabelImg (https://github.com/tzutalin/labelImg)
+* MakesenseAI (https://www.makesense.ai/)
 
