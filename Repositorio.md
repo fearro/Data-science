@@ -1233,4 +1233,5 @@ EvalML (https://github.com/alteryx/evalml)
 * Labelbox (https://labelbox.com/)
 * LabelImg (https://github.com/tzutalin/labelImg)
 * MakesenseAI (https://www.makesense.ai/)
+* Scalabel (https://www.scalabel.ai/)
 
