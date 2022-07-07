@@ -468,6 +468,8 @@ UAVid (https://uavid.nl/)
 
 Rice Seedling Dataset (https://github.com/aipal-nchu/RiceSeedlingDataset)
 
+UAV Sugarbeets 2015-16 Datasets (https://www.ipb.uni-bonn.de/data/uav-sugarbeets-2015-16/)
+
 <br>
 
 #### Agricultura de precisión
@@ -539,6 +541,8 @@ MinneApple: A Benchmark Dataset for Apple Detection and Segmentation (https://gi
 Embrapa Wine Grape Instance Segmentation Dataset (https://github.com/thsant/wgisd)
 
 A Large-Scale Benchmark Dataset for Insect Pest Recognition (https://github.com/xpwu95/IP102)
+
+Sugar Beets 2016 (https://www.ipb.uni-bonn.de/data/sugarbeets2016/)
 
 <br>
 
