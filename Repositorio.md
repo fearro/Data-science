@@ -1101,7 +1101,7 @@ statsmodels, scikit-learn, imbalanced-learn, PyOD, pycaret, Keras, Tensorflow, P
 
 #### Series temporales
 
-statsmodels.tsa, Darts, sktime, skforecast, Kats, AutoTS, tslearn, tsfresh, fbprophet, GluonTS, neuralprophet
+statsmodels.tsa, Darts, sktime, skforecast, Kats, AutoTS, tslearn, tsfresh, fbprophet, GluonTS, neuralprophet, tsai
 
 #### Procesamiento del lenguaje natural
 
