@@ -1041,7 +1041,7 @@ tidytext, text2vec, quanteda
 
 #### Interpretabilidad de modelos
 
-iml, DALEX, LIME, shapr, modelStudio (interactive dashboard), DrWhy.AI
+iml, DALEX, LIME, shapr, modelStudio (interactive dashboard), DrWhy.AI, modelDown
 
 #### Paralelización y Big Data
 
