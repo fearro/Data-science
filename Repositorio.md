@@ -431,6 +431,10 @@ CompCars Dataset (https://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
 
 Stanford Cars Dataset (https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
+BDD100K (https://www.bdd100k.com/)
+
+SHIFT (https://www.vis.xyz/shift/)
+
 <br>
 
 #### Datos científicos/investigación
