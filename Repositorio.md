@@ -389,6 +389,8 @@ COCO (https://cocodataset.org/#home)
 
 ImageNet (http://www.image-net.org/)
 
+Gestos - HaGRID - HAnd Gesture Recognition Image Dataset (https://github.com/hukenovs/hagrid)
+
 <br>
 
 #### Audio
