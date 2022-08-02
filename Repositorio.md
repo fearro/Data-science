@@ -747,6 +747,8 @@ UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 
 YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/)
 
+Learning Statistical Models Through Simulation in R (https://psyteachr.github.io/stat-models-v1/index.html)
+
 <div id='id7' />
 
 <br>
