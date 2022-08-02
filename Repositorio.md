@@ -665,6 +665,14 @@ R para principiantes (https://bookdown.org/jboscomendoza/r-principiantes4/)
 
 R para profesionales (https://www.datanalytics.com/libro_r/)
 
+Modelos lineales y aditivos en ecología (https://bookdown.org/fxpalacio/bookdown_curso/)
+
+Modelos Estadísticos Avanzados (https://pegasus.uprm.edu/~pedro.torres/book/)
+
+Modelos estadísticos con R (https://bookdown.org/j_morales/weblinmod/)
+
+Introducción al Análisis de Datos con R (https://rubenfcasal.github.io/intror/)
+
 
 #### Inglés
 
