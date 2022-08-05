@@ -675,6 +675,8 @@ Introducción al Análisis de Datos con R (https://rubenfcasal.github.io/intror/
 
 Introducción a la Estadística para Científicos de Datos con R (https://analisisydecision.es/estadistica-data-scientist/index.html)
 
+Guía para el análisis de datos espaciales. Aplicaciones en agricultura (https://www.agro.unc.edu.ar/~estadisticaaplicada/GpADEAA/)
+
 <br>
 
 #### Inglés
