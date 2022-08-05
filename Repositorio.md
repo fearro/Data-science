@@ -673,6 +673,8 @@ Modelos estadísticos con R (https://bookdown.org/j_morales/weblinmod/)
 
 Introducción al Análisis de Datos con R (https://rubenfcasal.github.io/intror/)
 
+Introducción a la Estadística para Científicos de Datos con R (https://analisisydecision.es/estadistica-data-scientist/index.html)
+
 <br>
 
 #### Inglés
