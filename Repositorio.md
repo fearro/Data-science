@@ -675,7 +675,7 @@ Introducción al Análisis de Datos con R (https://rubenfcasal.github.io/intror/
 
 Introducción a la Estadística para Científicos de Datos con R (https://analisisydecision.es/estadistica-data-scientist/index.html)
 
-Guía para el análisis de datos espaciales. Aplicaciones en agricultura (https://www.agro.unc.edu.ar/~estadisticaaplicada/GpADEAA/)
+Introducción a la ciencia de datos - Análisis de datos y algoritmos de predicción con R (https://rafalab.github.io/dslibro/)
 
 <br>
 
@@ -1231,7 +1231,7 @@ EvalML (https://github.com/alteryx/evalml)
 
 <br>
 
-### Spatial Machine Learning
+### Spatial Data Science / Machine Learning
 
 * Spatial Data Science and Applications (https://www.coursera.org/learn/spatial-data-science)
 * Spatial Data Science with R (http://rspatial.org/index.html)
@@ -1247,6 +1247,7 @@ EvalML (https://github.com/alteryx/evalml)
 * Geocomputation with R (https://geocompr.robinlovelace.net/)
 * Spatial Data Science with applications in R (https://keen-swartz-3146c4.netlify.app/)
 * Data Analysis and Visualization with R: Spatial (http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/)
+* Guía para el análisis de datos espaciales. Aplicaciones en agricultura (https://www.agro.unc.edu.ar/~estadisticaaplicada/GpADEAA/)
 
 <div id='id17' />
 
