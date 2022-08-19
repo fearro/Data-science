@@ -553,6 +553,8 @@ A Large-Scale Benchmark Dataset for Insect Pest Recognition (https://github.com/
 
 Sugar Beets 2016 (https://www.ipb.uni-bonn.de/data/sugarbeets2016/)
 
+TobSet: Tobacco Crop and Weeds Image Dataset (https://github.com/mshahabalam/TobSet)
+
 <br>
 
 #### Ganadería de precisión
