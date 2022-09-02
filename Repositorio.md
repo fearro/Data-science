@@ -655,29 +655,27 @@ Interpretable Machine Learning *Black Box (Spanish Edition) (https://fedefliguer
 
 Introducción a estadística con R (https://bookdown.org/matiasandina/R-intro/)
 
-Introducción a la Estadística para Científicos de Datos (https://analisisydecision.es/estadistica-data-scientist/)
+Introducción a la ciencia de datos - Análisis de datos y algoritmos de predicción con R (https://rafalab.github.io/dslibro/)
+
+Introducción a la Estadística para Científicos de Datos con R (https://analisisydecision.es/estadistica-data-scientist/index.html)
+
+Introducción al Análisis de Datos con R (https://rubenfcasal.github.io/intror/)
 
 Libro vivo de Ciencia de Datos (https://librovivodecienciadedatos.ai/)
 
 Manual de R (https://fhernanb.github.io/Manual-de-R/)
+
+Modelos Estadísticos Avanzados (https://pegasus.uprm.edu/~pedro.torres/book/)
+
+Modelos estadísticos con R (https://bookdown.org/j_morales/weblinmod/)
+
+Modelos lineales y aditivos en ecología (https://bookdown.org/fxpalacio/bookdown_curso/)
 
 R para Ciencia de Datos (https://es.r4ds.hadley.nz/)
 
 R para principiantes (https://bookdown.org/jboscomendoza/r-principiantes4/)
 
 R para profesionales (https://www.datanalytics.com/libro_r/)
-
-Modelos lineales y aditivos en ecología (https://bookdown.org/fxpalacio/bookdown_curso/)
-
-Modelos Estadísticos Avanzados (https://pegasus.uprm.edu/~pedro.torres/book/)
-
-Modelos estadísticos con R (https://bookdown.org/j_morales/weblinmod/)
-
-Introducción al Análisis de Datos con R (https://rubenfcasal.github.io/intror/)
-
-Introducción a la Estadística para Científicos de Datos con R (https://analisisydecision.es/estadistica-data-scientist/index.html)
-
-Introducción a la ciencia de datos - Análisis de datos y algoritmos de predicción con R (https://rafalab.github.io/dslibro/)
 
 <br>
 
@@ -721,6 +719,8 @@ Interactive web-based data visualization with R, plotly, and shiny (https://plot
 
 Interpretable Machine Learning *Black Box* (https://christophm.github.io/interpretable-ml-book/)
 
+Learning Statistical Models Through Simulation in R (https://psyteachr.github.io/stat-models-v1/index.html)
+
 Limitations of Interpretable Machine Learning (https://compstat-lmu.github.io/iml_methods_limitations/)
 
 Machine Learning Engineering Book (http://www.mlebook.com/wiki/doku.php)
@@ -752,8 +752,6 @@ Tidy Modeling with R (https://www.tmwr.org/)
 UC Business Analytics R Programming Guide (http://uc-r.github.io/)
 
 YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/)
-
-Learning Statistical Models Through Simulation in R (https://psyteachr.github.io/stat-models-v1/index.html)
 
 <div id='id7' />
 
