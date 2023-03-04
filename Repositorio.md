@@ -555,6 +555,8 @@ Sugar Beets 2016 (https://www.ipb.uni-bonn.de/data/sugarbeets2016/)
 
 TobSet: Tobacco Crop and Weeds Image Dataset (https://github.com/mshahabalam/TobSet)
 
+WE3DS: An RGB-D image dataset for semantic segmentation in agriculture (https://zenodo.org/record/7457983)
+
 <br>
 
 #### Ganadería de precisión
@@ -618,6 +620,8 @@ Awesome CoreML Models (iOS Apple) (https://github.com/likedan/Awesome-CoreML-Mod
 Open Model Zoo (https://github.com/openvinotoolkit/open_model_zoo)
 
 YOLO v3 y otros detectores (https://pjreddie.com/darknet/yolo/)
+
+Kaggle Models (https://www.kaggle.com/models)
 
 <div id='id5' />
 
