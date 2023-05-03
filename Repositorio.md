@@ -1106,7 +1106,7 @@ pandas, bamboolib, pandas_profiling, D-Tale, pandasgui, pandas_ui, sweetviz, fun
 
 #### Limpieza y manipulación
 
-pandas, numpy, scipy, featuretools, feature-engine, featurewiz, siuba (R dplyr syntax)
+pandas, numpy, scipy, featuretools, feature-engine, featurewiz, siuba (R dplyr syntax), kangas (pandas for computer vision)
 
 #### Automatización
 
