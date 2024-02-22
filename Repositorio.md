@@ -707,6 +707,8 @@ Elegant Graphics for Data Analysis with ggplot2 (https://ggplot2-book.org/index.
 
 Engineering Production-Grade Shiny Apps (https://engineering-shiny.org/)
 
+Explanatory Model Analysis (https://ema.drwhy.ai/)
+
 Feature Engineering and Selection (http://www.feat.engineering/)
 
 Forecasting and Analytics with ADAM (https://openforecast.org/adam/)
