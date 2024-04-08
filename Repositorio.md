@@ -1152,7 +1152,11 @@ boto3 (AWS), BentoML, FastAPI, Flask
 
 #### Reporting
 
-dash, streamlit, stlite (Serverless Streamlit), gradio, panel, voilà, PyWebIO, mia
+dash, streamlit, stlite (Serverless Streamlit), gradio, panel, voilà, PyWebIO, mia, taipy, shinyespress
+
+#### Monitoring/Drifting
+
+frouros, alibi-detect, evidently
 
 #### WebScrapping
 
@@ -1265,4 +1269,5 @@ EvalML (https://github.com/alteryx/evalml)
 * LabelImg (https://github.com/tzutalin/labelImg)
 * MakesenseAI (https://www.makesense.ai/)
 * Scalabel (https://www.scalabel.ai/)
+* CVAT (https://www.cvat.ai/)
 
