@@ -1128,7 +1128,7 @@ statsmodels, scikit-learn, imbalanced-learn, PyOD, pycaret, Keras, Tensorflow, P
 
 #### Series temporales
 
-statsmodels.tsa, Darts, sktime, skforecast, Kats, AutoTS, tslearn, tsfresh, fbprophet, GluonTS, neuralprophet, tsai
+statsmodels.tsa, Darts, sktime, skforecast, Kats, AutoTS, tslearn, tsfresh, fbprophet, GluonTS, neuralprophet, tsai, nixtla
 
 #### Procesamiento del lenguaje natural
 
@@ -1144,7 +1144,7 @@ yellowbrick, LIME, ELI5, MLxtend, Shapash, DrWhy.AI
 
 #### Paralelización y Big Data
 
-Dask, Vaex, modin, PySpark, optimus, koalas
+Dask, Vaex, modin, PySpark, optimus, koalas, polars
 
 #### Despliegue
 
@@ -1152,7 +1152,7 @@ boto3 (AWS), BentoML, FastAPI, Flask
 
 #### Reporting
 
-dash, streamlit, stlite (Serverless Streamlit), gradio, panel, voilà, PyWebIO, mia, taipy, shinyespress
+dash, streamlit, stlite (Serverless Streamlit), gradio, panel, voilà, PyWebIO, mia, taipy, shinyexpress
 
 #### Monitoring/Drifting
 
@@ -1176,7 +1176,7 @@ onnx
 
 ### Casos de uso
 
-Recomendaciones personalizadas, análisis social media, predicción de ventas, mantenimiento predicitivo, automatización de procesos, detección de fraudes, análisis financiero, servicios asistidos de atención al cliente, procesamiento del lenguaje natural, tratamiento de salud personalizado, traducción, audio y voz.
+Recomendaciones personalizadas, análisis social media, predicción de ventas, mantenimiento predictivo, automatización de procesos, detección de fraudes, análisis financiero, servicios asistidos de atención al cliente, procesamiento del lenguaje natural, tratamiento de salud personalizado, traducción, audio y voz, etc.
 
 <div id='id14' />
 
