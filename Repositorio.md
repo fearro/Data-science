@@ -657,6 +657,8 @@ AnalizaR Datos políticos (https://arcruz0.github.io/libroadp/index.html)
 
 Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
 
+Fundamentos de Ciencia de Datos con R (https://cdr-book.github.io/index.html)
+
 Interpretable Machine Learning *Black Box (Spanish Edition) (https://fedefliguer.github.io/AAI/)
 
 Introducción a estadística con R (https://bookdown.org/matiasandina/R-intro/)
