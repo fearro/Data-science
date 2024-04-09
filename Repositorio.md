@@ -691,9 +691,13 @@ R para profesionales (https://www.datanalytics.com/libro_r/)
 
 Apache Arrow R Cookbook (https://arrow.apache.org/cookbook/r/index.html)
 
+Behavior Analysis with Machine Learning Using R (https://enriquegit.github.io/behavior-free/index.html)
+
 Big Book of R (libro recopilatorio de libros) (https://www.bigbookofr.com/)
 
 Caret Package R (http://topepo.github.io/caret/index.html)
+
+Causal Inference in R (https://www.r-causal.org/)
 
 Data Science in Education using R (https://datascienceineducation.com/)
 
@@ -712,6 +716,8 @@ Elegant Graphics for Data Analysis with ggplot2 (https://ggplot2-book.org/index.
 Engineering Production-Grade Shiny Apps (https://engineering-shiny.org/)
 
 Explanatory Model Analysis (https://ema.drwhy.ai/)
+
+Feature Engineering A-Z (https://feaz-book.com/)
 
 Feature Engineering and Selection (http://www.feat.engineering/)
 
@@ -1096,7 +1102,7 @@ rvest, RSelenium
 
 #### Otros
 
-reticulate, pdftools, tabulizer, tesseract, utils, onnx, aurelius, ArenaR, fs
+reticulate, pdftools, tabulizer, tesseract, utils, onnx, aurelius, ArenaR, fs, fusen
 
 <div id='id12' />
 
@@ -1130,7 +1136,7 @@ GeoPandas, PyQGIS, GDAL, Folium, ipyleaflet, geemap, WhiteboxTools, leafmap
 
 #### Estadística y Machine Learning/Deep Learning
 
-statsmodels, scikit-learn, imbalanced-learn, PyOD, pycaret, Keras, Tensorflow, PyTorch, xgboost, ngboost, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
+statsmodels, scikit-learn, imbalanced-learn, PyOD, pycaret, Keras, Tensorflow, PyTorch, skorch (sklearn + pytorch), xgboost, ngboost, Hyperopt, scikit-optimize (skopt), DEAP, TPOT
 
 #### Series temporales
 
