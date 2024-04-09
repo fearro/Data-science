@@ -607,6 +607,8 @@ Tensorflow Model Garden (https://github.com/tensorflow/models)
 
 Tensorflow Hub (https://tfhub.dev/)
 
+Pytorch Hub (https://pytorch.org/hub/)
+
 MediaPipe Models (https://google.github.io/mediapipe/solutions/models)
 
 Piinto Model Zoo (https://github.com/PINTO0309/PINTO_model_zoo)
@@ -748,6 +750,8 @@ R Graphics Cookbook (https://r-graphics.org/)
 R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/)
 
 Statistical rethinking with brms, ggplot2, and the tidyverse: Second edition (https://bookdown.org/content/4857/)
+
+Supervised Machine Learning for Science (https://ml-science-book.com/)
 
 The Data Engineering Cookbook (https://github.com/andkret/Cookbook)
 
