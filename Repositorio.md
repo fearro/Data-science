@@ -1241,6 +1241,7 @@ EvalML (https://github.com/alteryx/evalml)
 * Embedded and Distributed AI TEDS20 Spring 2020 (https://www.youtube.com/playlist?list=PLyulI6o7oOtycIT15i_I2_mhuLxnNvPvX)
 * Edge Impulse - Tutorials (https://www.youtube.com/playlist?list=PL7VEa1KauMQp9bQdo2jLlJCdzprWkc7zC)
 * Arduino TensorFlow Lite Tutorials (https://github.com/arduino/ArduinoTensorFlowLiteTutorials/)
+* Getting Started with Machine Learning at the Edge on Arm (https://www.coursera.org/learn/getting-started-with-machine-learning-at-the-edge-on-arm)
 
 
 #### Optimización de modelos para dipositivos embebidos (edge devices) (arduino, raspberry pi, Jetson Nano, ESP32, móviles....)
