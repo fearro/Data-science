@@ -1271,6 +1271,7 @@ EvalML (https://github.com/alteryx/evalml)
 * Spatial Data Science with applications in R (https://keen-swartz-3146c4.netlify.app/)
 * Spatial Statistics for Data Science: Theory and Practice with R (https://www.paulamoraga.com/book-spatial/)
 * Data Analysis and Visualization with R: Spatial (http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/)
+* Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny (https://www.paulamoraga.com/book-geospatial/index.html)
 * Guía para el análisis de datos espaciales. Aplicaciones en agricultura (https://www.agro.unc.edu.ar/~estadisticaaplicada/GpADEAA/)
 
 <div id='id17' />
