@@ -1269,6 +1269,7 @@ EvalML (https://github.com/alteryx/evalml)
 * Introduction to Spatial Data Programming with R (https://geobgu.xyz/r/index.html)
 * Geocomputation with R (https://geocompr.robinlovelace.net/)
 * Spatial Data Science with applications in R (https://keen-swartz-3146c4.netlify.app/)
+* Spatial Statistics for Data Science: Theory and Practice with R (https://www.paulamoraga.com/book-spatial/)
 * Data Analysis and Visualization with R: Spatial (http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/)
 * Guía para el análisis de datos espaciales. Aplicaciones en agricultura (https://www.agro.unc.edu.ar/~estadisticaaplicada/GpADEAA/)
 
