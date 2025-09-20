@@ -1266,13 +1266,14 @@ EvalML (https://github.com/alteryx/evalml)
 
 #### Libros
 
-* Introduction to Spatial Data Programming with R (https://geobgu.xyz/r/index.html)
+* Data Analysis and Visualization with R: Spatial (http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/
 * Geocomputation with R (https://geocompr.robinlovelace.net/)
-* Spatial Data Science with applications in R (https://keen-swartz-3146c4.netlify.app/)
-* Spatial Statistics for Data Science: Theory and Practice with R (https://www.paulamoraga.com/book-spatial/)
-* Data Analysis and Visualization with R: Spatial (http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/)
 * Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny (https://www.paulamoraga.com/book-geospatial/index.html)
 * Guía para el análisis de datos espaciales. Aplicaciones en agricultura (https://www.agro.unc.edu.ar/~estadisticaaplicada/GpADEAA/)
+* Introduction to GIS Programming (https://gispro.gishub.org/index.html)
+* Introduction to Spatial Data Programming with R (https://geobgu.xyz/r/index.html)
+* Spatial Data Science with applications in R (https://keen-swartz-3146c4.netlify.app/)
+* Spatial Statistics for Data Science: Theory and Practice with R (https://www.paulamoraga.com/book-spatial/)
 
 <div id='id17' />
 
