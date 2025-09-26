@@ -679,6 +679,8 @@ Modelos estadísticos con R (https://bookdown.org/j_morales/weblinmod/)
 
 Modelos lineales y aditivos en ecología (https://bookdown.org/fxpalacio/bookdown_curso/)
 
+Modelos Predictivos (https://fhernanb.github.io/libro_mod_pred/)
+
 R para Ciencia de Datos (https://es.r4ds.hadley.nz/)
 
 R para principiantes (https://bookdown.org/jboscomendoza/r-principiantes4/)
