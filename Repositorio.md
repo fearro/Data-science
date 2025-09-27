@@ -737,7 +737,7 @@ Forecasting: Principles and Practice (R) (Second Edition: https://otexts.org/fpp
 
 Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
 
-Geocomputation with Python (Geocomputation with Python)
+Geocomputation with Python (https://py.geocompx.org/)
 
 Geocomputation with R (https://geocompr.robinlovelace.net/)
 
