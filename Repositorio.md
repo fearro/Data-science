@@ -653,11 +653,17 @@ Búscadores de APIs por nombre o temática
 
 Aprender R: Iniciación y Perfeccionamiento (https://myrbooksp.netlify.app/)
 
+Aprendizaje Automático (https://urjcdslab.github.io/AprendizajeAutomaticoI/)
+
 AnalizaR Datos políticos (https://arcruz0.github.io/libroadp/index.html)
 
 Econometría, Estadística y Machine Learning con R (https://econometria.wordpress.com/2017/07/23/estadistica-y-machine-learning-con-r/)
 
+Estadística Aplicada a las Ciencias y la Ingeniería (https://emilopezcano.github.io/estadistica-ciencias-ingenieria/index.html)
+
 Fundamentos de Ciencia de Datos con R (https://cdr-book.github.io/index.html)
+
+Inferencia Estadística (https://urjcdslab.github.io/InferenciaEstadistica/)
 
 Interpretable Machine Learning *Black Box (Spanish Edition) (https://fedefliguer.github.io/AAI/)
 
@@ -668,6 +674,8 @@ Introducción a la ciencia de datos - Análisis de datos y algoritmos de predicc
 Introducción a la Estadística para Científicos de Datos con R (https://analisisydecision.es/estadistica-data-scientist/index.html)
 
 Introducción al Análisis de Datos con R (https://rubenfcasal.github.io/intror/)
+
+Introducción al software estadístico R (https://www.lcano.com/b/iser/_book/index.html)
 
 Libro vivo de Ciencia de Datos (https://librovivodecienciadedatos.ai/)
 
