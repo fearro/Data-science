@@ -737,6 +737,8 @@ Forecasting: Principles and Practice (R) (Second Edition: https://otexts.org/fpp
 
 Fundamentals of Data Visualization (https://clauswilke.com/dataviz/index.html)
 
+Geocomputation with Python (Geocomputation with Python)
+
 Geocomputation with R (https://geocompr.robinlovelace.net/)
 
 Graph Representation Learning Book (https://www.cs.mcgill.ca/~wlh/grl_book/)
