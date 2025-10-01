@@ -681,6 +681,8 @@ Libro vivo de Ciencia de Datos (https://librovivodecienciadedatos.ai/)
 
 Manual de R (https://fhernanb.github.io/Manual-de-R/)
 
+Modelado Ordenado con R (https://davidrsch.github.io/TMwRes/)
+
 Modelos Estadísticos Avanzados (https://pegasus.uprm.edu/~pedro.torres/book/)
 
 Modelos estadísticos con R (https://bookdown.org/j_morales/weblinmod/)
@@ -689,7 +691,9 @@ Modelos lineales y aditivos en ecología (https://bookdown.org/fxpalacio/bookdow
 
 Modelos Predictivos (https://fhernanb.github.io/libro_mod_pred/)
 
-R para Ciencia de Datos (https://es.r4ds.hadley.nz/)
+R Avanzado (https://davidrsch.github.io/adv-res/)
+
+R para Ciencia de Datos (1º edición: https://es.r4ds.hadley.nz/; 2º edicion: https://davidrsch.github.io/r4dses/)
 
 R para principiantes (https://bookdown.org/jboscomendoza/r-principiantes4/)
 
