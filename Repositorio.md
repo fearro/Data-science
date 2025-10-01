@@ -693,7 +693,7 @@ Modelos Predictivos (https://fhernanb.github.io/libro_mod_pred/)
 
 R Avanzado (https://davidrsch.github.io/adv-res/)
 
-R para Ciencia de Datos (1º edición: https://es.r4ds.hadley.nz/; 2º edicion: https://davidrsch.github.io/r4dses/)
+R para Ciencia de Datos (1º edición: https://es.r4ds.hadley.nz/; 2º edición: https://davidrsch.github.io/r4dses/)
 
 R para principiantes (https://bookdown.org/jboscomendoza/r-principiantes4/)
 
